@@ -28,7 +28,11 @@ extra_css:
 nav:
   - Início: index.md
   - Comece aqui: comece-aqui.md
-  - Formações: formacoes/index.md
+  - Formações:
+      - Visão geral: formacoes/index.md
+      - Modo História: formacoes/modo-historia.md
+      - Dojo: formacoes/dojo.md
+      - Horda: formacoes/horda.md
   - Eventos:
       - Caça ao Tesouro: eventos/caca-ao-tesouro.md
   - Colabore: colabore.md

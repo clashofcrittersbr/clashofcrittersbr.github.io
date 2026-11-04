@@ -18,9 +18,9 @@ Entenda o tabuleiro e aprenda a ajustar sua equipe quando uma fase travar.
 
 <div class="wiki-card" markdown="1">
 
-### Formações por fase
+### Formações
 
-Encontre a referência do capítulo 18 e veja como registrar uma formação que passou.
+Consulte as seções de Modo História, Dojo e Horda.
 
 [Consultar formações →](formacoes/index.md)
 
