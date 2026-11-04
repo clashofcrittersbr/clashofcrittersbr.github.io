@@ -54,6 +54,9 @@ markdown_extensions:
 extra_css:
   - assets/wiki.css
 
+extra_javascript:
+  - assets/capitulos.js
+
 nav:
   - Início: index.md
   - Comece aqui: comece-aqui.md
