@@ -271,3 +271,12 @@
     margin-bottom: 0;
   }
 }
+
+.wiki-solver-frame {
+  display: block;
+  width: 100%;
+  height: clamp(32rem, 82vh, 46rem);
+  border: 1px solid var(--wiki-border);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
