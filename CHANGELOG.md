@@ -2,12 +2,9 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
-## Ainda não publicado
-
-- Simulador da Caça ao Tesouro incorporado ao guia do evento, com créditos e licença do autor.
-
 ## Publicado em 04/11/2026
 
+- Simulador da Caça ao Tesouro incorporado ao guia do evento, com créditos e licença do autor. [PR #3](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/3)
 - Página inicial com atalhos para Modo História, Dojo, Horda e guias.
 - Menu lateral nos artigos, busca no cabeçalho e temas claro, escuro e do dispositivo. [PR #2](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/2)
 - Primeira publicação da wiki, com guia de iniciante, formações, Caça ao Tesouro e orientações de contribuição. [Publicação inicial](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/actions/runs/41914772834)
