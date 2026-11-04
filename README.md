@@ -1,40 +1,42 @@
 # Clash of Critters BR
 
-Wiki independente de fãs em português, feita com MkDocs para publicação no GitHub Pages. Os artigos ficam em `docs/` e o menu em `mkdocs.yml`.
+Wiki independente de fãs em português, feita com MkDocs e publicada no GitHub Pages.
+
+[Abrir a wiki](https://clashofcrittersbr.github.io/)
+
+## Onde editar
+
+| Caminho | O que contém |
+| --- | --- |
+| `docs/` | Artigos em Markdown, incluindo formações, guias e eventos |
+| `docs/assets/` | Identidade visual, ilustrações e estilos da interface |
+| `mkdocs.yml` | Menu, tema e busca |
+| `.github/workflows/wiki.yml` | Validação de PRs e publicação do site |
+| [`CHANGELOG.md`](CHANGELOG.md) | Histórico das mudanças que afetam os leitores |
 
 ## Prévia local
 
-Com Python 3.12:
+Em um clone do repositório, na pasta que contém `mkdocs.yml`, use Python 3.12.
 
 ```sh
 python -m pip install -r requirements.txt
 python -m mkdocs serve
 ```
 
-Abra `http://127.0.0.1:8000/`. Para validar o site antes de enviar alterações, use `python -m mkdocs build --strict`.
+Abra `http://127.0.0.1:8000/`. Antes de enviar a mudança, execute `python -m mkdocs build --strict` para validar a compilação e detectar referências internas com problemas.
 
-## Publicação no GitHub Pages
+## Como registrar uma mudança
 
-1. Use o [repositório público da wiki](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io). Extraia o ZIP e use a pasta que contém `mkdocs.yml` como raiz do repositório. Inclua `.github/` e `.gitignore` no primeiro envio.
-2. No GitHub, abra **Settings → Pages**. Em **Build and deployment → Source**, selecione **GitHub Actions**. Se o primeiro envio tiver disparado o workflow antes dessa configuração, abra **Actions → Wiki → Run workflow** na branch `main`.
-3. Confira o resultado do job **Publicar wiki**. A aba **Settings → Pages** mostra a URL publicada, em [clashofcrittersbr.github.io](https://clashofcrittersbr.github.io/).
+1. Crie uma branch a partir de `main`. Se estiver editando pelo navegador do GitHub, use a opção de salvar a alteração em uma nova branch.
+2. Faça commits pequenos. No título, diga o que mudou, como `Adiciona referência do capítulo 1`. Use o corpo do commit para explicar a motivação, a origem dos dados ou a decisão técnica quando isso ajudar na manutenção.
+3. No pull request, descreva **o que mudou**, **por quê** e **como foi validado**. Para alterações visuais, inclua uma prévia quando possível. Use comentários no código para explicar restrições e comportamentos que não ficam claros pela leitura.
+4. Registre mudanças visíveis para o leitor em **Ainda não publicado** no changelog. Ao publicar, mova as entradas para uma seção com a data da publicação.
+5. Confira a validação do GitHub Actions e peça revisão antes de integrar o pull request à `main`.
 
-Para enviar os arquivos pelo Git na primeira publicação:
+## Como a wiki vai ao ar
 
-```sh
-git init -b main
-git add .
-git commit -m "Inicia a wiki Clash of Critters BR"
-git remote add origin https://github.com/clashofcrittersbr/clashofcrittersbr.github.io.git
-git push -u origin main
-```
+A origem do GitHub Pages é **GitHub Actions**. O workflow **Wiki** compila cada pull request. Após a integração à `main`, ele executa **Validar wiki** e **Publicar wiki**.
 
-## Edição em equipe
-
-Convide apenas os editores escolhidos em **Settings → Collaborators**. Em uma organização, conceda acesso **Write** aos editores e reserve **Admin** para quem administra o projeto.
-
-Após o primeiro build, proteja a branch `main` em **Settings → Branches**. Exija pull request, uma aprovação e a verificação **Validar wiki**. A proteção também pode ser aplicada aos administradores. No ambiente **github-pages**, permita deployments apenas de `main`.
-
-Para editar pelo navegador, abra um artigo em `docs/`, clique no lápis e salve a alteração numa nova branch. Abra um pull request para revisão. O workflow valida a compilação em cada pull request e publica quando a mudança entra em `main`.
+Em **Actions → Wiki**, confira a execução do commit publicado e abra no site as páginas afetadas. Para executar o workflow novamente, use **Run workflow** na branch `main`.
 
 [Documentação de publicação do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)

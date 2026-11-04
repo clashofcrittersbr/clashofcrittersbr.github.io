@@ -1,0 +1,13 @@
+# Histórico de mudanças
+
+Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
+
+## Ainda não publicado
+
+- Página inicial com atalhos para Modo História, Dojo, Horda e guias.
+- Menu lateral nos artigos, busca no cabeçalho e temas claro, escuro e do dispositivo. [PR #2](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/2)
+
+## Publicado em 04/11/2026
+
+- Primeira publicação da wiki, com guia de iniciante, formações, Caça ao Tesouro e orientações de contribuição. [Publicação inicial](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/actions/runs/41914772834)
+- Formações separadas em Modo História, Dojo e Horda. A campanha começa no capítulo 1, com link para o capítulo correspondente no Critter Formations. [PR #1](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/1)

@@ -229,6 +229,7 @@
   font-weight: 700;
 }
 
+/* Estende o único link por todo o cartão, sem criar outro ponto de foco. */
 .wiki-tile a::after {
   position: absolute;
   inset: 0;
@@ -261,6 +262,7 @@
     grid-template-columns: minmax(0, 1fr);
   }
 
+  /* O Markdown envolve a ilustração em um parágrafo, que também ocupa espaço na grade. */
   .wiki-hero > p {
     display: none;
   }
