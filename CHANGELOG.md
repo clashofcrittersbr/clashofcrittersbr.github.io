@@ -2,6 +2,10 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
+## Ainda não publicado
+
+- Simulador da Caça ao Tesouro incorporado ao guia do evento, com créditos e licença do autor.
+
 ## Publicado em 04/11/2026
 
 - Página inicial com atalhos para Modo História, Dojo, Horda e guias.
