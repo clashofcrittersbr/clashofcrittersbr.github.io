@@ -272,11 +272,42 @@
   }
 }
 
-.wiki-solver-frame {
+.wiki-solver-frame,
+.wiki-chapter-frame {
   display: block;
   width: 100%;
   height: clamp(32rem, 82vh, 46rem);
   border: 1px solid var(--wiki-border);
   border-radius: var(--wiki-radius);
   background: var(--wiki-surface);
+}
+
+
+.wiki-chapter-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .6rem .85rem;
+  margin: 1rem 0 .7rem;
+}
+
+.wiki-chapter-toolbar label {
+  flex: 0 0 100%;
+  font-weight: 700;
+}
+
+.wiki-chapter-toolbar select {
+  appearance: auto;
+  max-width: 100%;
+  min-height: 44px;
+  padding: .45rem .6rem;
+  border: 1px solid var(--wiki-border);
+  border-radius: .4rem;
+  background: var(--wiki-surface);
+  color: var(--md-default-fg-color);
+}
+
+.wiki-chapter-toolbar select:focus-visible {
+  outline: 2px solid var(--md-typeset-a-color);
+  outline-offset: .15rem;
 }

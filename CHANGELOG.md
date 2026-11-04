@@ -2,6 +2,10 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
+## Ainda não publicado
+
+- Capítulos do Critter Formations incorporados ao Modo História, com seletor por capítulo e créditos à fonte.
+
 ## Publicado em 04/11/2026
 
 - Simulador da Caça ao Tesouro incorporado ao guia do evento, com créditos e licença do autor. [PR #3](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/3)
