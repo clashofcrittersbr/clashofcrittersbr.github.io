@@ -1,18 +1,46 @@
 site_name: Clash of Critters BR
 site_description: Wiki independente em português sobre Clash of Critters.
 site_url: !ENV [SITE_URL, '']
+repo_name: GitHub
 repo_url: https://github.com/clashofcrittersbr/clashofcrittersbr.github.io
 edit_uri: edit/main/docs/
 site_author: Colaboradores da Clash of Critters BR
 
 theme:
-  name: mkdocs
-  locale: pt_BR
-  color_mode: auto
-  user_color_mode_toggle: true
-  navigation_depth: 2
-  highlightjs: false
+  name: material
+  language: pt-BR
+  font: false
+  logo: assets/icone.svg
   favicon: assets/icone.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme)"
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-auto
+        name: Usar tema claro
+    - media: "(prefers-color-scheme: light)"
+      primary: custom
+      accent: custom
+      scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Usar tema escuro
+    - media: "(prefers-color-scheme: dark)"
+      primary: custom
+      accent: custom
+      scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Seguir tema do dispositivo
 
 plugins:
   - search:
@@ -21,6 +49,7 @@ plugins:
 markdown_extensions:
   - admonition
   - md_in_html
+  - attr_list
 
 extra_css:
   - assets/wiki.css

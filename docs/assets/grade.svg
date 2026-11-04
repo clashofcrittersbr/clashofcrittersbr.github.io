@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 320" fill="none">
+  <defs>
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#b1d4ca" opacity=".22"/>
+    </pattern>
+    <pattern id="board" width="44" height="44" patternUnits="userSpaceOnUse">
+      <rect x="3" y="3" width="38" height="38" rx="7" fill="#234b46" stroke="#508078"/>
+    </pattern>
+    <linearGradient id="edge" x1="90" y1="0" x2="355" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f6c878"/>
+      <stop offset="1" stop-color="#84bbb0" stop-opacity=".3"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="440" height="320" fill="url(#dots)"/>
+  <path d="M22 244h40l21-21m-45 53h65l20-20m228-195 24-24h45m-53 183 23 23h32" stroke="#78a89c" stroke-opacity=".42" stroke-width="1.5"/>
+  <g transform="translate(113 48) rotate(12 110 110)">
+    <rect x="-10" y="-10" width="240" height="240" rx="17" fill="#123630" stroke="url(#edge)" stroke-width="1.5"/>
+    <rect width="220" height="220" fill="url(#board)"/>
+    <path d="M22 154h44l44-44h44l44-44" stroke="#b8e5d1" stroke-width="2" stroke-dasharray="5 5" opacity=".7"/>
+    <g fill="#efbf71">
+      <rect x="47" y="135" width="38" height="38" rx="7"/>
+      <rect x="91" y="91" width="38" height="38" rx="7"/>
+      <rect x="179" y="47" width="38" height="38" rx="7"/>
+    </g>
+    <g fill="#a6d8c6">
+      <rect x="3" y="135" width="38" height="38" rx="7"/>
+      <rect x="135" y="91" width="38" height="38" rx="7"/>
+      <rect x="135" y="179" width="38" height="38" rx="7"/>
+    </g>
+    <g stroke="#133831" stroke-width="2.5" stroke-linecap="round">
+      <path d="m59 154 5 5 9-10m30-39 5 5 9-10m74-39 5 5 9-10"/>
+      <path d="M16 154h12m120-44h12m-12 88h12"/>
+    </g>
+  </g>
+  <path d="M89 57h12m-6-6v12m273 206h12m-6-6v12" stroke="#f6c878" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
