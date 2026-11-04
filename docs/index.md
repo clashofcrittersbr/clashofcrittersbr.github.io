@@ -1,36 +1,89 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
+<div class="wiki-hero" markdown="1">
+
+<div class="wiki-hero-copy" markdown="1">
+
+<p class="wiki-eyebrow">WIKI DA COMUNIDADE · PT-BR</p>
+
 # Clash of Critters BR
 
-**Wiki independente de fãs, em português.**
+Guias para começar, consultar formações e aproveitar os eventos do jogo.
 
-<p class="wiki-intro">Comece a jogar, ajuste sua formação e encontre ajuda para os eventos.</p>
+[Explorar formações](formacoes/index.md){ .md-button .md-button--primary .wiki-primary }
+[Guia de iniciante](comece-aqui.md){ .md-button .wiki-secondary }
 
-<div class="wiki-cards" markdown="1">
+</div>
 
-<div class="wiki-card" markdown="1">
+<img class="wiki-hero-art" src="assets/grade.svg" alt="" width="440" height="320">
+
+</div>
+
+## Formações por modo
+
+<div class="wiki-modes" markdown="1">
+
+<div class="wiki-tile wiki-tile--story" markdown="1">
+
+<span class="wiki-tile-icon" aria-hidden="true">▦</span>
+
+### Modo História
+
+Consulte a campanha por capítulo e fase, a partir do capítulo 1.
+
+[Abrir Modo História →](formacoes/modo-historia.md)
+
+</div>
+
+<div class="wiki-tile wiki-tile--dojo" markdown="1">
+
+<span class="wiki-tile-icon" aria-hidden="true">◇</span>
+
+### Dojo
+
+Encontre o espaço reservado para formações do Dojo.
+
+[Abrir Dojo →](formacoes/dojo.md)
+
+</div>
+
+<div class="wiki-tile wiki-tile--horde" markdown="1">
+
+<span class="wiki-tile-icon" aria-hidden="true">▰</span>
+
+### Horda
+
+Encontre o espaço reservado para formações da Horda.
+
+[Abrir Horda →](formacoes/horda.md)
+
+</div>
+
+</div>
+
+## Guias rápidos
+
+<div class="wiki-quick" markdown="1">
+
+<div class="wiki-tile" markdown="1">
 
 ### Comece aqui
 
-Entenda o tabuleiro e aprenda a ajustar sua equipe quando uma fase travar.
+Entenda o tabuleiro e saiba o que testar quando uma fase travar.
 
 [Ver guia de iniciante →](comece-aqui.md)
 
 </div>
 
-<div class="wiki-card" markdown="1">
-
-### Formações
-
-Consulte as seções de Modo História, Dojo e Horda.
-
-[Consultar formações →](formacoes/index.md)
-
-</div>
-
-<div class="wiki-card" markdown="1">
+<div class="wiki-tile" markdown="1">
 
 ### Caça ao Tesouro
 
-Configure o tabuleiro no solver e saiba como registrar o resultado de cada escavação.
+Configure o tabuleiro no solver e registre as escavações.
 
 [Ver guia do evento →](eventos/caca-ao-tesouro.md)
 
@@ -38,6 +91,10 @@ Configure o tabuleiro no solver e saiba como registrar o resultado de cada escav
 
 </div>
 
-## Colabore
+<div class="wiki-contribute" markdown="1">
 
-Passou de uma fase com uma composição diferente? Registre os Tataris, os Tiers e o que você mudou. [Veja como contribuir](colabore.md).
+**Passou com uma formação diferente?** Ajude a documentar os Tataris, os Tiers e o que você mudou.
+
+[Veja como contribuir →](colabore.md)
+
+</div>

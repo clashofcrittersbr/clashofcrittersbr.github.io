@@ -1,47 +1,271 @@
-.navbar.bg-primary {
-  background: #183d3a !important;
+:root {
+  --md-text-font: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --wiki-header: #133732;
+  --wiki-gold: #f2c879;
+  --wiki-radius: .7rem;
 }
-.navbar[data-bs-theme="dark"] .navbar-brand,
-.navbar[data-bs-theme="dark"] .nav-link {
-  color: #f4f9f7;
+
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: var(--wiki-header);
+  --md-primary-fg-color--light: #29564d;
+  --md-primary-fg-color--dark: #0e2925;
+  --md-primary-bg-color: #f8fbf9;
 }
-.navbar-brand::before {
-  content: "";
-  display: inline-block;
-  width: 1.6rem;
-  height: 1.6rem;
-  margin-right: .5rem;
-  vertical-align: -.35rem;
-  background: url("icone.svg") center / contain no-repeat;
+
+[data-md-color-scheme="default"] {
+  --md-accent-fg-color: #176950;
+  --md-typeset-a-color: #126249;
+  --md-default-bg-color: #f6f9f7;
+  --md-default-fg-color: #1c2d28;
+  --wiki-surface: #fff;
+  --wiki-border: #d4e3da;
+  --wiki-muted: #455e54;
+  --wiki-tile-accent: #e1f1e9;
+  --wiki-dojo-accent: #f7ead1;
+  --wiki-horde-accent: #eee8f6;
 }
-.wiki-intro {
-  max-width: 42rem;
-  font-size: 1.24rem;
-  margin: .8rem 0 1.4rem;
+
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: #b4e6cf;
+  --md-typeset-a-color: #a6e1c8;
+  --md-default-bg-color: #101c1a;
+  --md-default-fg-color: #e8f1eb;
+  --wiki-surface: #182824;
+  --wiki-border: #39534a;
+  --wiki-muted: #bfd0c6;
+  --wiki-tile-accent: #244b3e;
+  --wiki-dojo-accent: #503f28;
+  --wiki-horde-accent: #433651;
 }
-.wiki-cards {
+
+.md-header {
+  border-bottom: 1px solid #fff2;
+}
+
+.md-header__button.md-logo img {
+  border-radius: .3rem;
+}
+
+.md-nav__link--active {
+  font-weight: 700;
+}
+
+.md-typeset h1,
+.md-typeset h2 {
+  color: var(--md-default-fg-color);
+  font-weight: 750;
+  letter-spacing: -.03em;
+}
+
+.md-typeset h2 {
+  margin-top: 1.45em;
+}
+
+.md-typeset h3 {
+  font-weight: 700;
+}
+
+.md-typeset a:focus-visible,
+.md-nav__link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: .18rem;
+}
+
+.md-content__inner:has(.wiki-hero) {
+  position: relative;
+}
+
+.md-content__inner:has(.wiki-hero) > .md-content__button {
+  position: absolute;
+  top: .65rem;
+  right: .65rem;
+  margin: 0;
+  color: #bce0d1;
+}
+
+.md-content__inner:has(.wiki-hero) > .md-content__button:hover {
+  color: #fff;
+}
+
+.wiki-hero {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
+  align-items: center;
   gap: 1rem;
-  margin-block: 1.25rem 2rem;
+  overflow: hidden;
+  padding: clamp(1.2rem, 4vw, 2.9rem);
+  border-radius: calc(var(--wiki-radius) * 1.35);
+  background: linear-gradient(125deg, #102d29, #19463d 72%, #183c35);
+  color: #e6f3ec;
 }
-.wiki-card {
+
+.wiki-hero-copy {
+  min-width: 0;
+}
+
+.md-typeset .wiki-eyebrow {
+  margin: 0 0 .55rem;
+  color: #bce0d1;
+  font-size: .57rem;
+  font-weight: 750;
+  letter-spacing: .14em;
+}
+
+.md-typeset .wiki-hero h1 {
+  margin: 0 0 .45rem;
+  color: #fff;
+  font-size: clamp(1.7rem, 5.2vw, 3.05rem);
+  line-height: 1.02;
+  letter-spacing: -.055em;
+}
+
+.md-typeset .wiki-hero h1 + p {
+  max-width: 19rem;
+  margin: .75rem 0 1.25rem;
+  color: #d5e9e0;
+  font-size: .9rem;
+}
+
+.wiki-hero > p {
+  margin: 0;
+}
+
+.wiki-hero-art {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 14rem;
+  object-fit: contain;
+}
+
+.md-typeset .wiki-hero .md-button {
+  margin: 0 .3rem .32rem 0;
+  padding: .55rem .76rem;
+  border-radius: .4rem;
+  font-size: .72rem;
+  font-weight: 750;
+}
+
+.md-typeset .wiki-hero .wiki-primary {
+  border-color: var(--wiki-gold);
+  background: var(--wiki-gold);
+  color: #202820;
+}
+
+.md-typeset .wiki-hero .wiki-secondary {
+  border-color: #a7c7b8;
+  color: #f5fbf7;
+}
+
+.md-typeset .wiki-hero .md-button:hover,
+.md-typeset .wiki-hero .md-button:focus-visible {
+  border-color: #fff;
+  background: #fff;
+  color: #14372e;
+}
+
+.wiki-modes,
+.wiki-quick {
+  display: grid;
+  gap: .65rem;
+}
+
+.wiki-modes {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.wiki-quick {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.wiki-tile {
+  position: relative;
   display: flex;
   flex-direction: column;
-  padding: 1.15rem;
-  border: 1px solid var(--bs-border-color);
-  border-top: .25rem solid #3e8d81;
-  border-radius: .65rem;
-  background-color: var(--bs-tertiary-bg);
+  padding: .85rem .95rem;
+  border: 1px solid var(--wiki-border);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
 }
-.wiki-card h3 {
-  margin-top: 0;
-  font-size: 1.15rem;
+
+.wiki-tile:hover,
+.wiki-tile:focus-within {
+  border-color: var(--md-typeset-a-color);
 }
-.wiki-card p:last-child {
-  margin-top: auto;
-  margin-bottom: 0;
+
+.wiki-tile-icon {
+  display: grid;
+  place-items: center;
+  width: 1.55rem;
+  height: 1.55rem;
+  margin-bottom: .55rem;
+  border-radius: .42rem;
+  background: var(--wiki-tile-accent);
+  color: var(--md-default-fg-color);
+  font-weight: 750;
 }
-.wiki-card a {
-  font-weight: 600;
+
+.wiki-tile--dojo .wiki-tile-icon {
+  background: var(--wiki-dojo-accent);
+}
+
+.wiki-tile--horde .wiki-tile-icon {
+  background: var(--wiki-horde-accent);
+}
+
+.md-typeset .wiki-tile h3 {
+  margin: 0 0 .25rem;
+  font-size: .95rem;
+}
+
+.md-typeset .wiki-tile p {
+  margin: 0 0 .6rem;
+  color: var(--wiki-muted);
+  font-size: .74rem;
+}
+
+.md-typeset .wiki-tile p:last-child {
+  margin: auto 0 0;
+  font-weight: 700;
+}
+
+.wiki-tile a::after {
+  position: absolute;
+  inset: 0;
+  border-radius: var(--wiki-radius);
+  content: "";
+}
+
+.wiki-contribute {
+  margin-top: 1.4rem;
+  padding: .45rem .85rem;
+  border-left: .14rem solid var(--md-typeset-a-color);
+  border-radius: 0 .4rem .4rem 0;
+  background: var(--wiki-surface);
+}
+
+.wiki-contribute p {
+  margin: .4rem 0;
+}
+
+@media (max-width: 760px) {
+  .wiki-hero {
+    grid-template-columns: minmax(0, 1fr) minmax(0, .65fr);
+  }
+}
+
+@media (max-width: 580px) {
+  .wiki-hero,
+  .wiki-modes,
+  .wiki-quick {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .wiki-hero > p {
+    display: none;
+  }
+
+  .wiki-hero-copy > p:last-child {
+    margin-bottom: 0;
+  }
 }
