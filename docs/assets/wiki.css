@@ -1,0 +1,47 @@
+.navbar.bg-primary {
+  background: #183d3a !important;
+}
+.navbar[data-bs-theme="dark"] .navbar-brand,
+.navbar[data-bs-theme="dark"] .nav-link {
+  color: #f4f9f7;
+}
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+  width: 1.6rem;
+  height: 1.6rem;
+  margin-right: .5rem;
+  vertical-align: -.35rem;
+  background: url("icone.svg") center / contain no-repeat;
+}
+.wiki-intro {
+  max-width: 42rem;
+  font-size: 1.24rem;
+  margin: .8rem 0 1.4rem;
+}
+.wiki-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: 1rem;
+  margin-block: 1.25rem 2rem;
+}
+.wiki-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.15rem;
+  border: 1px solid var(--bs-border-color);
+  border-top: .25rem solid #3e8d81;
+  border-radius: .65rem;
+  background-color: var(--bs-tertiary-bg);
+}
+.wiki-card h3 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+.wiki-card p:last-child {
+  margin-top: auto;
+  margin-bottom: 0;
+}
+.wiki-card a {
+  font-weight: 600;
+}

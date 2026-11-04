@@ -1,0 +1,41 @@
+site_name: Clash of Critters BR
+site_description: Wiki independente em português sobre Clash of Critters.
+site_url: !ENV [SITE_URL, '']
+repo_url: https://github.com/clashofcrittersbr/clashofcrittersbr.github.io
+edit_uri: edit/main/docs/
+site_author: Colaboradores da Clash of Critters BR
+
+theme:
+  name: mkdocs
+  locale: pt_BR
+  color_mode: auto
+  user_color_mode_toggle: true
+  navigation_depth: 2
+  highlightjs: false
+  favicon: assets/icone.svg
+
+plugins:
+  - search:
+      lang: [pt, en]
+
+markdown_extensions:
+  - admonition
+  - md_in_html
+
+extra_css:
+  - assets/wiki.css
+
+nav:
+  - Início: index.md
+  - Comece aqui: comece-aqui.md
+  - Formações: formacoes/index.md
+  - Eventos:
+      - Caça ao Tesouro: eventos/caca-ao-tesouro.md
+  - Colabore: colabore.md
+
+validation:
+  nav:
+    omitted_files: warn
+  links:
+    not_found: warn
+    anchors: warn
