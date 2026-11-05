@@ -50,6 +50,10 @@ markdown_extensions:
   - admonition
   - md_in_html
   - attr_list
+  - pymdownx.snippets:
+      base_path:
+        - !relative $config_dir/CHANGELOG.md
+      check_paths: true
 
 extra_css:
   - assets/wiki.css
@@ -74,6 +78,7 @@ nav:
   - Eventos:
       - Visão geral: eventos/index.md
       - Caça ao Tesouro: eventos/caca-ao-tesouro.md
+  - Novidades: novidades.md
   - Colabore: colabore.md
 
 validation:

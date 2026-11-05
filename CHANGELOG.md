@@ -6,7 +6,10 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 - Guia da Invasão da Horda revisto para a Temporada 3 com base nas notas até a versão 0.51.1. Referências recentes e relatos históricos separados, com modelo de partida que registra a versão.
 - Aviso nos capítulos 24 a 28 do Modo História sobre as mudanças nos inimigos da versão 0.50.1.
+- Página Novidades no menu da wiki, com histórico publicado por data e links para as PRs.
 
+<!-- Mantenha os itens publicados dentro deste trecho para exibi-los em Novidades. -->
+<!-- --8<-- [start:publicado] -->
 ## Publicado em 04/11/2026
 
 - Dojo com índice de formações relatadas por jogadores, créditos, requisitos de entrada e modelo para registrar vitórias da comunidade BR. [PR #6](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/6)
@@ -22,3 +25,4 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 - Menu lateral nos artigos, busca no cabeçalho e temas claro, escuro e do dispositivo. [PR #2](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/2)
 - Primeira publicação da wiki, com guia de iniciante, formações, Caça ao Tesouro e orientações de contribuição. [Publicação inicial](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/actions/runs/41914772834)
 - Formações separadas em Modo História, Dojo e Horda. A campanha começa no capítulo 1, com link para o capítulo correspondente no Critter Formations. [PR #1](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/1)
+<!-- --8<-- [end:publicado] -->
