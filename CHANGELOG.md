@@ -4,7 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Em revisão
 
-- Guia da Invasão da Horda com referências por dificuldade e formato, preparação da dupla e modelo para registrar partidas.
+- Guia da Invasão da Horda revisto para a Temporada 3 com base nas notas até a versão 0.51.1. Referências recentes e relatos históricos separados, com modelo de partida que registra a versão.
+- Aviso nos capítulos 24 a 28 do Modo História sobre as mudanças nos inimigos da versão 0.50.1.
 
 ## Publicado em 04/11/2026
 

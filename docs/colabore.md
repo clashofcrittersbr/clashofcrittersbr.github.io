@@ -47,7 +47,7 @@ Registre a formação de cada jogador separadamente. Indique quem cobriu cada la
 
 ```text
 Temporada e dificuldade:
-Data e versão do jogo, se conhecida:
+Data da partida e versão exibida no jogo:
 Jogador A — lado, Tataris, graus e posições:
 Jogador B — lado, Tataris, graus e posições:
 Chips de cada lado, na ordem se conhecida:
