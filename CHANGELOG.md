@@ -2,6 +2,13 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
+## Em revisão
+
+- Guias em PT-BR sobre combate, vantagens elementais, evolução de Tataris, recursos, Desafio de Chefe e Álbum de Cartas.
+- Guia inicial corrigido para distinguir o tabuleiro dos três primeiros capítulos e o do restante da campanha.
+- Regras do Dojo e da Invasão da Horda, com instruções para enviar formações testadas.
+- Índice de eventos com orientações sobre Concurso de Pesca, Marathon Party, Corrida do Ouro e Cozy Farm.
+
 ## Publicado em 04/11/2026
 
 - Capítulos do Critter Formations incorporados ao Modo História, com seletor por capítulo e créditos à fonte. [PR #4](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/4)

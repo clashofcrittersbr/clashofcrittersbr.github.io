@@ -3,8 +3,8 @@
 Escolha o modo de jogo para consultar as formações.
 
 - [Modo História](modo-historia.md) · formações da campanha, organizadas por capítulo e fase a partir do capítulo 1.
-- [Dojo](dojo.md) · espaço para os registros do Dojo.
-- [Horda](horda.md) · espaço para os registros da Horda.
+- [Dojo](dojo.md) · regras do desafio por elemento e espaço para formações testadas.
+- [Horda](horda.md) · regras do modo cooperativo e espaço para formações testadas.
 
 ## Como adaptar uma formação
 

@@ -1,20 +1,27 @@
 # Comece aqui
 
-## 1. Leia o tabuleiro
+Em Clash of Critters, você coleciona Tataris, monta formações para enfrentar ondas de Zobos e usa a máquina de pinball do acampamento para obter recursos. Comece por este roteiro e consulte o guia do assunto quando precisar de mais detalhes.
 
-As batalhas acontecem automaticamente depois do posicionamento dos Tataris. A campanha usa cinco linhas de combate e pode chegar a 15 Tataris em campo. Antes de investir em melhorias, observe onde sua equipe está perdendo terreno.
+## 1. Entenda o tabuleiro
 
-## 2. Descubra por que a fase travou
+As batalhas começam após o posicionamento dos Tataris. Nos três primeiros capítulos, há três colunas e espaço para até nove Tataris. A partir do capítulo 4, são cinco colunas e até 15 Tataris. Veja os elementos da onda e use os indicadores do tabuleiro para ajustar a equipe.
 
-Veja em qual linha os inimigos avançam primeiro e o que acontece nesse ponto. Se a frente cai cedo, teste uma unidade mais resistente ali. Se a frente segura, mas a onda se acumula, experimente mudar onde você concentra o dano.
+[Ver vantagens elementais e dicas de posicionamento](guias/combate.md)
 
-Mude uma posição ou um Tatari por tentativa. Assim fica mais fácil perceber o que ajudou antes de gastar recursos numa evolução.
+## 2. Prepare a equipe
 
-## 3. Use uma formação como ponto de partida
+Compare alcance, habilidade e elemento. Se a fase travar, observe primeiro se a equipe caiu, se faltou dano ou se algum Zobo atravessou a formação. Use os doces e a comida que você obteve para fortalecer os Tataris que resolvem aquele problema.
 
-Procure sua fase em [Formações](formacoes/index.md). Compare posições, Tiers e nível com a sua conta. Se faltar um Tatari, procure alguém que cumpra a mesma função e registre o resultado do teste. Uma troca que funcionou na sua conta pode ajudar quem está na mesma fase.
+[Entender estrelas e evolução](guias/tataris.md) · [Encontrar recursos no acampamento](guias/recursos.md)
 
-## Referências
+## 3. Escolha o próximo objetivo
 
-- [Guia de iniciante do BlueStacks (PT-BR)](https://www.bluestacks.com/pt-br/blog/game-guides/clash-of-critters/coc-beginners-guide-ptbr.html)
-- [Guia de posicionamento do Critter Clashbook (EN)](https://www.clashcritters.com/guides/beginner-guide/)
+- **Avançar na campanha.** Procure sua fase no [Modo História](formacoes/modo-historia.md) e compare as posições, os graus e o nível do registro com sua equipe.
+- **Enfrentar um chefe.** Consulte o [Desafio de Chefe](guias/desafio-de-chefe.md) para preparar a tentativa.
+- **Jogar com outras pessoas.** Veja a [Invasão da Horda](formacoes/horda.md) e os [eventos](eventos/index.md).
+- **Completar coleções.** Veja como aproveitar as repetidas no [Álbum de Cartas](guias/album-de-cartas.md).
+
+## Fontes
+
+- [Farlight · Clash of Critters em português](https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=pt-BR)
+- [Clash of Critters Wiki · Batalhas](https://clashofcritters.wiki.gg/wiki/Battle) e [máquina de pinball](https://clashofcritters.wiki.gg/wiki/Pinball)
