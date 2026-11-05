@@ -95,6 +95,6 @@ Configure o tabuleiro no solver e registre as escavações.
 
 **Passou com uma formação diferente?** Ajude a documentar os Tataris, os Tiers e o que você mudou.
 
-[Veja como contribuir →](colabore.md)
+[Veja como contribuir →](colabore.md) · [Veja o que mudou na wiki →](novidades.md)
 
 </div>

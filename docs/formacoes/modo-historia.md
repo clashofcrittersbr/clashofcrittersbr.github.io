@@ -4,6 +4,9 @@ Consulte as formações da campanha por capítulo. A wiki exibe a página origin
 
 ## Capítulos da campanha
 
+!!! note "Capítulos 24 a 28"
+    A [Farlight](https://coc-club.farlightgames.com/) alterou as formações inimigas e incluiu novos inimigos nesses capítulos na versão 0.50.1. Compare a onda do seu jogo com a do registro antes de copiar uma formação. A data de cobertura abaixo indica a consulta ao Critter Formations.
+
 Cobertura conferida em 04/11/2026. A fonte lista **79 capítulos**, com formações em **72** deles. O primeiro com registros é o [Capítulo 4](?capitulo=4).
 
 <div class="wiki-chapter-toolbar" id="capitulo-1">
