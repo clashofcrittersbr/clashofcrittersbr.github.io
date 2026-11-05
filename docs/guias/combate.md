@@ -2,9 +2,13 @@
 
 A campanha é dividida em capítulos de 80 fases, com um chefe a cada dez. Nos capítulos 1 a 3, o tabuleiro tem três colunas e comporta até nove Tataris. A partir do capítulo 4, são cinco colunas e até 15 Tataris.
 
+![Tabuleiros da campanha. Capítulos 1 a 3 com três colunas e nove posições. A partir do capítulo 4, cinco colunas e 15 posições.](../assets/diagramas/tabuleiros-campanha.svg){ .wiki-diagram loading="lazy" }
+
 ## Qual elemento usar contra cada Zobo?
 
 Leia a tabela do ponto de vista de quem ataca. Por exemplo, um Tatari de Água tem vantagem ao atacar um Zobo de Fogo.
+
+![Ciclo de vantagem ao atacar. Cada elemento tem vantagem sobre o próximo: Água, Fogo, Planta, Pedra, Elétrico e de volta a Água.](../assets/diagramas/ciclo-elemental.svg){ .wiki-diagram loading="lazy" }
 
 | Tatari atacante | Tem vantagem contra | Tem desvantagem contra |
 | --- | --- | --- |

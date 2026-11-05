@@ -345,3 +345,45 @@
   outline: 2px solid var(--md-typeset-a-color);
   outline-offset: .15rem;
 }
+
+.md-typeset .wiki-diagram {
+  display: block;
+  width: min(100%, 30rem);
+  height: auto;
+  margin: 1rem 0;
+}
+
+.wiki-tier-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+  gap: .65rem;
+  margin: 1rem 0;
+}
+
+.wiki-tier {
+  padding: .7rem .8rem;
+  border: 1px solid var(--wiki-border);
+  border-top: .22rem solid var(--wiki-tier-accent, var(--wiki-border));
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+
+.wiki-tier--s {
+  --wiki-tier-accent: var(--wiki-gold);
+}
+
+.wiki-tier--a {
+  --wiki-tier-accent: #92c8ad;
+}
+
+.wiki-tier--b {
+  --wiki-tier-accent: #b5a9d1;
+}
+
+.md-typeset .wiki-tier h3 {
+  margin: 0;
+}
+
+.md-typeset .wiki-tier ul {
+  margin-bottom: 0;
+}

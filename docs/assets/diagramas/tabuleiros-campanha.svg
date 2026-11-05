@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 244" width="600" height="244" font-family="system-ui, sans-serif">
+  <title>O tabuleiro da campanha cresce a partir do capítulo 4</title>
+  <desc>À esquerda, três colunas com três posições cada. À direita, cinco colunas com três posições cada.</desc>
+  <rect width="600" height="244" rx="20" fill="#132f2a"/>
+  <g fill="#1d4038" stroke="#3f655b">
+    <rect x="16" y="16" width="268" height="212" rx="15"/>
+    <rect x="316" y="16" width="268" height="212" rx="15"/>
+  </g>
+  <defs>
+    <g id="coluna" fill="#94cdb4" stroke="#bfe9d5" stroke-width="1.5">
+      <rect width="30" height="26" rx="5"/>
+      <rect y="33" width="30" height="26" rx="5"/>
+      <rect y="66" width="30" height="26" rx="5"/>
+    </g>
+  </defs>
+  <g font-size="21" font-weight="700" text-anchor="middle" fill="#f5fbf8">
+    <text x="150" y="54">Capítulos 1 a 3</text>
+    <text x="450" y="54">A partir do capítulo 4</text>
+  </g>
+  <g>
+    <use href="#coluna" x="96" y="76"/>
+    <use href="#coluna" x="135" y="76"/>
+    <use href="#coluna" x="174" y="76"/>
+    <use href="#coluna" x="357" y="76"/>
+    <use href="#coluna" x="396" y="76"/>
+    <use href="#coluna" x="435" y="76"/>
+    <use href="#coluna" x="474" y="76"/>
+    <use href="#coluna" x="513" y="76"/>
+  </g>
+  <g font-size="18" text-anchor="middle" fill="#e2f2ea">
+    <text x="150" y="202">3 colunas · 9 posições</text>
+    <text x="450" y="202">5 colunas · 15 posições</text>
+  </g>
+  <path d="M289 121h22m-6-6 6 6-6 6" fill="none" stroke="#f2c879" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

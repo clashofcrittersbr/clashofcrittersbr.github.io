@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 249" width="600" height="249" font-family="system-ui, sans-serif">
+  <title>Exemplo de divisão de funções na Horda</title>
+  <desc>Os dois jogadores seguram seus lados na frente. No meio, combinam cura e controle. Atrás, concentram dano na faixa do chefe.</desc>
+  <rect width="600" height="249" rx="20" fill="#132f2a"/>
+  <g fill="#1d4038" stroke="#3f655b">
+    <rect x="16" y="16" width="268" height="217" rx="15"/>
+    <rect x="316" y="16" width="268" height="217" rx="15"/>
+  </g>
+  <g fill="#f5fbf8" font-size="22" font-weight="700" text-anchor="middle">
+    <text x="150" y="53">Jogador A</text>
+    <text x="450" y="53">Jogador B</text>
+  </g>
+  <g fill="#a7e3cb">
+    <rect x="34" y="70" width="232" height="39" rx="8"/>
+    <rect x="334" y="70" width="232" height="39" rx="8"/>
+  </g>
+  <g fill="#a9d7ef">
+    <rect x="34" y="121" width="232" height="39" rx="8"/>
+    <rect x="334" y="121" width="232" height="39" rx="8"/>
+  </g>
+  <g fill="#f2c879">
+    <rect x="34" y="172" width="232" height="39" rx="8"/>
+    <rect x="334" y="172" width="232" height="39" rx="8"/>
+  </g>
+  <g fill="#132824" font-size="18" font-weight="650" text-anchor="middle">
+    <text x="150" y="96">Frente · segurar o lado</text>
+    <text x="450" y="96">Frente · segurar o lado</text>
+    <text x="150" y="147">Meio · cobrir com cura</text>
+    <text x="450" y="147">Meio · apoiar com controle</text>
+    <text x="150" y="198">Fundo · dano ao chefe</text>
+    <text x="450" y="198">Fundo · dano ao chefe</text>
+  </g>
+  <path d="M279 140h42m-34-7-8 7 8 7m26-14 8 7-8 7" fill="none" stroke="#f5fbf8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
