@@ -2,6 +2,10 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
+## Em revisão
+
+- Guia da Invasão da Horda com referências por dificuldade e formato, preparação da dupla e modelo para registrar partidas.
+
 ## Publicado em 04/11/2026
 
 - Dojo com índice de formações relatadas por jogadores, créditos, requisitos de entrada e modelo para registrar vitórias da comunidade BR. [PR #6](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/6)

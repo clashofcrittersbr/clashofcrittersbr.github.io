@@ -40,3 +40,22 @@ Crédito ou link, se adaptou uma formação:
 ```
 
 [Propor uma formação no GitHub](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/edit/main/docs/formacoes/dojo.md){ .md-button }
+
+## Modelo de partida da Horda
+
+Registre a formação de cada jogador separadamente. Indique quem cobriu cada lado e destaque as mudanças de posição ou de nível que fizeram diferença. Na captura do resultado, oculte os UIDs caso apareçam.
+
+```text
+Temporada e dificuldade:
+Data e versão do jogo, se conhecida:
+Jogador A — lado, Tataris, graus e posições:
+Jogador B — lado, Tataris, graus e posições:
+Chips de cada lado, na ordem se conhecida:
+Níveis importantes atingidos durante a partida:
+Onda, chefe e ajuste decisivo:
+Resultado — última onda e eliminações:
+Captura do relatório ou vídeo:
+Créditos e link, se adaptou uma formação:
+```
+
+[Propor um registro da Horda no GitHub](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/edit/main/docs/formacoes/horda.md){ .md-button }
