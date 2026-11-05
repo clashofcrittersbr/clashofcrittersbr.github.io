@@ -4,6 +4,18 @@ hide:
   - toc
 ---
 
+<aside class="wiki-latest" aria-label="Última novidade da wiki" markdown="1">
+
+<div class="wiki-latest-copy" markdown="1">
+
+<!-- ultima-novidade -->
+
+</div>
+
+[Ver todas as novidades →](novidades.md){ .wiki-latest-link }
+
+</aside>
+
 <div class="wiki-hero" markdown="1">
 
 <div class="wiki-hero-copy" markdown="1">

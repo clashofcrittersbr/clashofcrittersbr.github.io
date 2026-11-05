@@ -80,11 +80,45 @@
   top: .65rem;
   right: .65rem;
   margin: 0;
-  color: #bce0d1;
+  color: var(--wiki-muted);
 }
 
 .md-content__inner:has(.wiki-hero) > .md-content__button:hover {
-  color: #fff;
+  color: var(--md-accent-fg-color);
+}
+
+.wiki-latest {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .45rem 1rem;
+  margin-bottom: .75rem;
+  padding: .65rem 2rem .65rem .85rem;
+  border: 1px solid var(--wiki-border);
+  border-inline-start: .2rem solid var(--wiki-gold);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+
+.wiki-latest-copy {
+  flex: 1 1 23rem;
+  min-width: 0;
+}
+
+.md-typeset .wiki-latest p {
+  margin: 0;
+}
+
+.md-typeset .wiki-latest .wiki-latest-meta {
+  margin-bottom: .2rem;
+  color: var(--wiki-muted);
+  font-size: .65rem;
+}
+
+.md-typeset .wiki-latest-link {
+  font-size: .72rem;
+  font-weight: 700;
 }
 
 .wiki-hero {
