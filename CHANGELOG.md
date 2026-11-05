@@ -2,6 +2,10 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
+## Em revisão
+
+- Dojo com índice de formações relatadas por jogadores, créditos, requisitos de entrada e modelo para registrar vitórias da comunidade BR.
+
 ## Publicado em 04/11/2026
 
 - Guias em PT-BR sobre combate, vantagens elementais, evolução de Tataris, recursos, Desafio de Chefe e Álbum de Cartas. [PR #5](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/5)

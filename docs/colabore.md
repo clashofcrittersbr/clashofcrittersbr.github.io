@@ -19,3 +19,24 @@ Ao documentar um teste, informe o que observou e em quais condições. Para uma 
 ## Antes de enviar
 
 Confira se as posições batem com o print e se qualquer sugestão ainda sem teste está identificada. Use os nomes dos Tataris como aparecem no jogo para facilitar a busca.
+
+## Modelo de formação do Dojo
+
+Use este modelo para registrar uma vitória. Nas posições, descreva a grade do seu lado da tela e conte as fileiras a partir da frente, a mais próxima do adversário. Na captura, deixe visíveis a fase e o resultado e oculte seu UID se ele aparecer.
+
+```text
+Elemento e fase:
+Nível mostrado no combate:
+1. Tatari / grau / fileira e coluna:
+2. Tatari / grau / fileira e coluna:
+3. Tatari / grau / fileira e coluna:
+4. Tatari / grau / fileira e coluna:
+5. Tatari / grau / fileira e coluna:
+Atributos ou alimentação relevantes:
+Substituições testadas e resultado:
+Data e versão do jogo, se conhecida:
+Captura ou vídeo da vitória:
+Crédito ou link, se adaptou uma formação:
+```
+
+[Propor uma formação no GitHub](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/edit/main/docs/formacoes/dojo.md){ .md-button }
