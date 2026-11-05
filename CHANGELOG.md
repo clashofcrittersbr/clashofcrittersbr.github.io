@@ -2,7 +2,11 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
-<!-- Mantenha os itens publicados dentro deste trecho para exibi-los em Novidades. -->
+## Em revisão
+
+- Prévia da última novidade na página inicial, com link para o histórico completo.
+
+<!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
 ## Publicado em 04/11/2026
 

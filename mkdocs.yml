@@ -46,6 +46,9 @@ plugins:
   - search:
       lang: [pt, en]
 
+hooks:
+  - hooks/novidade.py
+
 markdown_extensions:
   - admonition
   - md_in_html
