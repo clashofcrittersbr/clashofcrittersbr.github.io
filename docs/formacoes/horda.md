@@ -26,7 +26,13 @@ Estas referências foram publicadas no início da Temporada 3, antes das notas d
 | [Critter Clashbook · funções dos Tataris na Temporada 3](https://clashcritters.com/tier-list/horde-invasion/) · 27/10/2026 | Opções para segurar a frente, curar e lidar com chefes. O guia usa os nomes em inglês. |
 | [r/ClashofCritters · proposta de formação D3/D4 com crédito a Artiar](https://www.reddit.com/r/ClashofCritters/comments/1xcpq2e/new_d3_d4_meta_horde_formation/) · 22/10/2026 | Imagem da formação sugerida e discussão de substituições. A postagem é uma proposta de teste. |
 
+[Consultar a tier list por função na Horda](../guias/tier-list.md#horda-temporada-3)
+
 ## O que combinar com a dupla
+
+![Exemplo de divisão de funções. Cada jogador segura um lado na frente. No meio, um cobre a cura e o outro apoia com controle. No fundo, os dois concentram dano no chefe.](../assets/diagramas/horda-em-dupla.svg){ .wiki-diagram loading="lazy" }
+
+*Exemplo de divisão de tarefas. Ajustem as posições de acordo com a faixa onde a rodada está travando.*
 
 | Quando | O que decidir |
 | --- | --- |

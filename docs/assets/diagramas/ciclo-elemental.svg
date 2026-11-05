@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 224" width="600" height="224" font-family="system-ui, sans-serif">
+  <title>Ciclo de vantagens elementais</title>
+  <desc>Água tem vantagem contra Fogo, Fogo contra Planta, Planta contra Pedra, Pedra contra Elétrico e Elétrico contra Água.</desc>
+  <rect width="600" height="224" rx="20" fill="#132f2a"/>
+  <defs>
+    <marker id="seta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 1l9 4-9 4z" fill="#c1d7ce"/>
+    </marker>
+  </defs>
+  <text x="300" y="42" text-anchor="middle" font-size="20" font-weight="700" fill="#f5fbf8">Vantagem ao atacar</text>
+  <g fill="none" stroke="#c1d7ce" stroke-width="2.5" marker-end="url(#seta)">
+    <path d="M118 104h17"/>
+    <path d="M234 104h17"/>
+    <path d="M350 104h17"/>
+    <path d="M466 104h17"/>
+    <path d="M532 135v34q0 11-11 11H80q-12 0-12-12v-27"/>
+  </g>
+  <g font-size="18" font-weight="750" text-anchor="middle" fill="#152824">
+    <rect x="20" y="77" width="96" height="54" rx="11" fill="#9edbf7"/>
+    <text x="68" y="111">Água</text>
+    <rect x="136" y="77" width="96" height="54" rx="11" fill="#ffb99e"/>
+    <text x="184" y="111">Fogo</text>
+    <rect x="252" y="77" width="96" height="54" rx="11" fill="#a7e3ac"/>
+    <text x="300" y="111">Planta</text>
+    <rect x="368" y="77" width="96" height="54" rx="11" fill="#dac5ac"/>
+    <text x="416" y="111">Pedra</text>
+    <rect x="484" y="77" width="96" height="54" rx="11" fill="#f6d475"/>
+    <text x="532" y="111">Elétrico</text>
+  </g>
+</svg>

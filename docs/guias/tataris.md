@@ -2,6 +2,8 @@
 
 Ao comparar dois Tataris, confira o elemento, a habilidade e o alcance. Um Tatari que segura a frente, um que ataca grupos e um que cura resolvem problemas diferentes. Veja qual função falta na sua formação antes de escolher quem fortalecer.
 
+[Consultar a tier list por fase do jogo](tier-list.md)
+
 ## O que cada melhoria faz?
 
 | Melhoria | Como funciona |

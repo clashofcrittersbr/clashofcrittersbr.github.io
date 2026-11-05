@@ -345,3 +345,75 @@
   outline: 2px solid var(--md-typeset-a-color);
   outline-offset: .15rem;
 }
+
+.md-typeset .wiki-diagram {
+  display: block;
+  width: min(100%, 30rem);
+  height: auto;
+  margin: 1rem 0;
+}
+
+.wiki-tier {
+  margin: .8rem 0;
+  padding: .7rem .8rem;
+  border: 1px solid var(--wiki-border);
+  border-inline-start: .22rem solid var(--wiki-tier-accent, var(--wiki-border));
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+
+.wiki-tier--s {
+  --wiki-tier-accent: var(--wiki-gold);
+}
+
+.wiki-tier--a {
+  --wiki-tier-accent: #92c8ad;
+}
+
+.wiki-tier--b {
+  --wiki-tier-accent: #b5a9d1;
+}
+
+.md-typeset .wiki-tier h3 {
+  margin: 0;
+}
+
+.md-typeset .wiki-tatari-grid ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: .5rem;
+  margin: .65rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.md-typeset .wiki-tatari-grid li {
+  display: flow-root;
+  margin: 0;
+  padding: .45rem;
+  border: 1px solid var(--wiki-border);
+  border-radius: .45rem;
+  background: var(--md-default-bg-color);
+  font-size: .72rem;
+}
+
+.md-typeset .wiki-tatari-portrait {
+  float: inline-start;
+  width: 3.25rem;
+  height: 3.25rem;
+  margin-inline-end: .45rem;
+  border-radius: .4rem;
+  background: var(--wiki-tile-accent);
+  object-fit: contain;
+}
+
+.wiki-tatari-grade {
+  display: inline-block;
+  padding: .04rem .28rem;
+  border: 1px solid var(--wiki-border);
+  border-radius: .25rem;
+  background: var(--wiki-surface);
+  color: var(--wiki-muted);
+  font-size: .62rem;
+  font-weight: 700;
+}

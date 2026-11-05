@@ -87,7 +87,7 @@ Veja como funcionam as ondas, a dupla e os chips da Horda.
 
 Entenda o tabuleiro e saiba o que testar quando uma fase travar.
 
-[Ver guia de iniciante →](comece-aqui.md)
+[Ver guia de iniciante →](comece-aqui.md) · [Consultar tier list →](guias/tier-list.md)
 
 </div>
 
