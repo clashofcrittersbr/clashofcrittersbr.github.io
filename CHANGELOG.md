@@ -4,7 +4,7 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Em revisão
 
-- Tier list de Tataris para a campanha inicial e para a Horda da Temporada 3, com fontes e escopo de versão.
+- Tier list de Tataris para a campanha inicial e para a Horda da Temporada 3, com retratos, selos de evolução, fontes e escopo de versão.
 - Diagramas do tabuleiro da campanha, do ciclo de vantagens elementais e da divisão de funções na Horda.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
