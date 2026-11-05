@@ -45,7 +45,7 @@ Consulte a campanha por capítulo e fase, a partir do capítulo 1.
 
 ### Dojo
 
-Encontre o espaço reservado para formações do Dojo.
+Entenda os duelos por elemento e as insígnias do Dojo.
 
 [Abrir Dojo →](formacoes/dojo.md)
 
@@ -57,7 +57,7 @@ Encontre o espaço reservado para formações do Dojo.
 
 ### Horda
 
-Encontre o espaço reservado para formações da Horda.
+Veja como funcionam as ondas, a dupla e os chips da Horda.
 
 [Abrir Horda →](formacoes/horda.md)
 
@@ -85,7 +85,7 @@ Entenda o tabuleiro e saiba o que testar quando uma fase travar.
 
 Configure o tabuleiro no solver e registre as escavações.
 
-[Ver guia do evento →](eventos/caca-ao-tesouro.md)
+[Ver guia do evento →](eventos/caca-ao-tesouro.md) · [Ver outros eventos →](eventos/index.md)
 
 </div>
 

@@ -59,13 +59,20 @@ extra_javascript:
 
 nav:
   - Início: index.md
-  - Comece aqui: comece-aqui.md
+  - Guias:
+      - Comece aqui: comece-aqui.md
+      - Combate e elementos: guias/combate.md
+      - Tataris e evolução: guias/tataris.md
+      - Pinball e recursos: guias/recursos.md
+      - Desafio de Chefe: guias/desafio-de-chefe.md
+      - Álbum de Cartas: guias/album-de-cartas.md
   - Formações:
       - Visão geral: formacoes/index.md
       - Modo História: formacoes/modo-historia.md
       - Dojo: formacoes/dojo.md
       - Horda: formacoes/horda.md
   - Eventos:
+      - Visão geral: eventos/index.md
       - Caça ao Tesouro: eventos/caca-ao-tesouro.md
   - Colabore: colabore.md
 
