@@ -2,13 +2,11 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
-## Em revisão
-
-- Prévia da última novidade na página inicial, com link para o histórico completo.
-
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
 ## Publicado em 04/11/2026
+
+- Prévia da última novidade na página inicial, com link para o histórico completo. [PR #8](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/8)
 
 - Guia da Invasão da Horda revisto para a Temporada 3 com base nas notas até a versão 0.51.1. Referências recentes e relatos históricos separados, com modelo de partida que registra a versão. [PR #7](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/7)
 - Aviso nos capítulos 24 a 28 do Modo História sobre as mudanças nos inimigos da versão 0.50.1.
