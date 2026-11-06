@@ -70,6 +70,7 @@ nav:
       - Comece aqui: comece-aqui.md
       - Combate e elementos: guias/combate.md
       - Tataris e evolução: guias/tataris.md
+      - Pyropup: guias/pyropup.md
       - Pinball e recursos: guias/recursos.md
       - Desafio de Chefe: guias/desafio-de-chefe.md
       - Álbum de Cartas: guias/album-de-cartas.md
@@ -82,6 +83,8 @@ nav:
   - Eventos:
       - Visão geral: eventos/index.md
       - Caça ao Tesouro: eventos/caca-ao-tesouro.md
+      - Concurso de Pesca: eventos/concurso-de-pesca.md
+      - Tiro aos Zobos: eventos/tiro-aos-zobos.md
   - Novidades: novidades.md
   - Colabore: colabore.md
 

@@ -15,7 +15,7 @@ Seleção do ranking de iniciantes do Critter Clashbook, revisado pela fonte em 
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Pyropup, forma T1](../assets/tataris/pyropup.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Pyropup** <span class="wiki-tatari-grade">T1</span><br>
+- ![Pyropup, forma T1](../assets/tataris/pyropup.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **[Pyropup](pyropup.md)** <span class="wiki-tatari-grade">T1</span><br>
   Frente de Fogo
 - ![Rubblet, forma T1](../assets/tataris/rubblet.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Rubblet** <span class="wiki-tatari-grade">T1</span><br>
   Frente de Pedra

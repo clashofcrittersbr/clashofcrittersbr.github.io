@@ -5,14 +5,11 @@ Confira no jogo quais eventos estão abertos. Muitos usam itens coletados na má
 | Evento | Recurso | O que fazer |
 | --- | --- | --- |
 | [Caça ao Tesouro](caca-ao-tesouro.md) | Picaretas | Escavar a grade para encontrar os tesouros indicados. O guia inclui o simulador em português. |
-| Concurso de Pesca | Varas de pesca | Pescar e acumular pontos. |
+| [Concurso de Pesca](concurso-de-pesca.md) | Varas de pesca | Pescar para avançar nos marcos pessoais e bater recordes para a equipe. |
+| [Tiro aos Zobos](tiro-aos-zobos.md) | Moedas de disparo | Eliminar Zobos nas arenas para somar pontos à equipe. |
 | Marathon Party | Skates | Avançar no percurso para somar distância à equipe. |
 | Corrida do Ouro | Energéticos | Disputar territórios que geram ouro para a liga. |
 | Cozy Farm | Fertilizante | Cultivar e colher plantas na competição em equipe. |
-
-## Concurso de Pesca
-
-Use as varas para pescar. Nas fisgadas de peixes grandes, acerte a área indicada na barra para recolher o peixe. A wiki comunitária distingue as moedas prateadas, ligadas às recompensas pessoais, das douradas, usadas na classificação.
 
 ## Marathon Party
 
@@ -29,4 +26,4 @@ Use o fertilizante do evento para cultivar. Ao jogar em equipe, acompanhe a pont
 ## Fontes
 
 - [Clash of Critters Wiki · Eventos](https://clashofcritters.wiki.gg/wiki/Events) e [itens da máquina de pinball](https://clashofcritters.wiki.gg/wiki/Pinball)
-- [Concurso de Pesca](https://clashofcritters.wiki.gg/wiki/Fishing_Contest), [Marathon Party](https://clashofcritters.wiki.gg/wiki/Marathon_Party) e [Corrida do Ouro](https://clashofcritters.wiki.gg/wiki/Island_Gold_Rush) na wiki comunitária
+- [Marathon Party](https://clashofcritters.wiki.gg/wiki/Marathon_Party) e [Corrida do Ouro](https://clashofcritters.wiki.gg/wiki/Island_Gold_Rush) na wiki comunitária
