@@ -5,7 +5,7 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 ## Em revisão
 
 - Guias do Concurso de Pesca e do Tiro aos Zobos com regras, estratégias e referências.
-- Ficha do Pyropup com retrato, habilidade e provas de evolução até T4 na versão 0.51.1.
+- Ficha do Pyropup com retrato, comparação das habilidades e raridades por forma, provas T1 a T4 na versão 0.51.1 e divergências entre fontes. Modelo de contribuição para novas fichas.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->

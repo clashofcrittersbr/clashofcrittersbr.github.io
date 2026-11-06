@@ -24,7 +24,9 @@ Ao comparar dois Tataris, confira o elemento, a habilidade e o alcance. Um Tatar
 
 ## Fichas de Tataris
 
-- [Pyropup](pyropup.md) · Guardião de Fogo, T1. Veja a habilidade e as provas até T4.
+- [Pyropup](pyropup.md) · Guardião de Fogo. Compare as quatro formas, suas habilidades e provas.
+
+[Use o modelo para propor outra ficha de evolução](../colabore.md#modelo-de-ficha-de-evolucao).
 
 ## Fontes
 

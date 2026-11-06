@@ -59,3 +59,15 @@ Créditos e link, se adaptou uma formação:
 ```
 
 [Propor um registro da Horda no GitHub](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/edit/main/docs/formacoes/horda.md){ .md-button }
+
+## Modelo de ficha de evolução
+
+Organize a ficha por linhagem, a partir da primeira forma. Use a [ficha do Pyropup](guias/pyropup.md) como exemplo e registre somente os graus que existem na versão consultada.
+
+| Campo | O que registrar |
+| --- | --- |
+| Linhagem | Nome, elemento, função e retrato creditado. Para cada forma, informe seu grau e sua raridade, quando confirmada. |
+| Mudanças em combate | Nome e efeito da habilidade em cada forma. Destaque o que muda na área, no efeito de estado ou na aura. Separe as habilidades exclusivas de modos como a Horda. |
+| Acesso a cada forma | Estrelas para abrir a prova e tarefas feitas na forma anterior. Indique quais requisitos são cumulativos e quais são alternativas. |
+| Versão e fontes | Data, versão ou build e fonte de cada grupo de dados. Registre o que a tela do jogo mostra quando houver captura da versão indicada. |
+| Divergências | Mostre os valores conflitantes e informe qual referência tem versão identificada. Oriente o leitor a conferir a tarefa no jogo antes de gastar recursos. |
