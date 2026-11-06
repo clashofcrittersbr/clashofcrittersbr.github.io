@@ -22,6 +22,10 @@ Ao comparar dois Tataris, confira o elemento, a habilidade e o alcance. Um Tatar
 
 **Cintilantes** são variantes especiais. A Farlight menciona essas formas na descrição oficial do jogo. Consulte a disponibilidade para o Tatari desejado na versão que você está jogando.
 
+## Fichas de Tataris
+
+- [Pyropup](pyropup.md) · Guardião de Fogo, T1. Veja a habilidade e as provas até T4.
+
 ## Fontes
 
 - [Farlight · Clash of Critters no Google Play](https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=pt-BR)
