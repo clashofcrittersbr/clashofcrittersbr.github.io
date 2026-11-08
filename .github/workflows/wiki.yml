@@ -31,6 +31,7 @@ jobs:
       - run: python -m mkdocs build --strict
         env:
           SITE_URL: ${{ steps.pages.outputs.base_url }}
+      - run: python scripts/check_catalog.py
       - uses: actions/upload-pages-artifact@v3
         if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
         with:

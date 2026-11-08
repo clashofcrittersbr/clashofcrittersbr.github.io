@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 1,
+  "reviewed": "2026-11-07",
+  "coverage": "27 formas disponíveis · 1 linhagem com ficha completa",
+  "records": [
+    {
+      "id": "pyropup",
+      "name": "Pyropup",
+      "tier": "T1",
+      "element": "Fogo",
+      "use": "Frente",
+      "note": "Frente de Fogo",
+      "portrait": "assets/tataris/pyropup.webp",
+      "detail": "guias/pyropup.md",
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "pyrohound",
+      "name": "Pyrohound",
+      "tier": "T2",
+      "element": "Fogo",
+      "use": "Frente",
+      "note": "Continua como Guardião com dano em área.",
+      "portrait": "assets/tataris/pyrohound.webp",
+      "detail": "guias/pyropup.md#forma-t2",
+      "reference": "guias/pyropup.md#forma-t2"
+    },
+    {
+      "id": "hellhound",
+      "name": "Hellhound",
+      "tier": "T3",
+      "element": "Fogo",
+      "use": "Frente",
+      "note": "Acrescenta Enfraquecimento ao ataque em área.",
+      "portrait": "assets/tataris/hellhound.webp",
+      "detail": "guias/pyropup.md#forma-t3",
+      "reference": "guias/pyropup.md#forma-t3"
+    },
+    {
+      "id": "pyrodaemon",
+      "name": "Pyrodaemon",
+      "tier": "T4",
+      "element": "Fogo",
+      "use": "Frente",
+      "note": "Acrescenta a Aura de Fogo à linhagem.",
+      "portrait": "assets/tataris/pyrodaemon.webp",
+      "detail": "guias/pyropup.md#forma-t4",
+      "reference": "guias/pyropup.md#forma-t4"
+    },
+    {
+      "id": "rubblet",
+      "name": "Rubblet",
+      "tier": "T1",
+      "element": "Pedra",
+      "use": "Frente",
+      "note": "Frente de Pedra",
+      "portrait": "assets/tataris/rubblet.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "blueflick",
+      "name": "Blueflick",
+      "tier": "T1",
+      "element": "Fogo",
+      "use": "Dano",
+      "note": "Dano de Fogo",
+      "portrait": "assets/tataris/blueflick.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "ringtail",
+      "name": "Ringtail",
+      "tier": "T1",
+      "element": "Pedra",
+      "use": "Suporte",
+      "note": "Apoio aos aliados próximos",
+      "portrait": "assets/tataris/ringtail.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "waddledo",
+      "name": "Waddledo",
+      "tier": "T1",
+      "element": "Água",
+      "use": "Frente",
+      "note": "Frente de Água",
+      "portrait": "assets/tataris/waddledo.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "voltfawn",
+      "name": "Voltfawn",
+      "tier": "T1",
+      "element": "Elétrico",
+      "use": "Dano",
+      "note": "Dano Elétrico",
+      "portrait": "assets/tataris/voltfawn.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "cheerling",
+      "name": "Cheerling",
+      "tier": "T1",
+      "element": "Elétrico",
+      "use": "Cura",
+      "note": "Cura e bônus",
+      "portrait": "assets/tataris/cheerling.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "droppit",
+      "name": "Droppit",
+      "tier": "T1",
+      "element": "Água",
+      "use": "Dano",
+      "note": "Dano de Água",
+      "portrait": "assets/tataris/droppit.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "pandaroo",
+      "name": "Pandaroo",
+      "tier": "T1",
+      "element": "Planta",
+      "use": "Dano",
+      "note": "Dano de Planta",
+      "portrait": "assets/tataris/pandaroo.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "taptail",
+      "name": "Taptail",
+      "tier": "T1",
+      "element": "Pedra",
+      "use": "Dano",
+      "note": "Dano de Pedra",
+      "portrait": "assets/tataris/taptail.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#campanha-inicial-t1"
+    },
+    {
+      "id": "rockzilla",
+      "name": "Rockzilla",
+      "tier": "T3",
+      "element": "Pedra",
+      "use": "Frente",
+      "note": "Frente de Pedra",
+      "portrait": "assets/tataris/rockzilla.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "voltverine",
+      "name": "Voltverine",
+      "tier": "T3",
+      "element": "Elétrico",
+      "use": "Frente",
+      "note": "Frente com dano Elétrico",
+      "portrait": "assets/tataris/voltverine.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "voltmare",
+      "name": "Voltmare",
+      "tier": "T3",
+      "element": "Elétrico",
+      "use": "Dano",
+      "note": "Dano concentrado em chefes",
+      "portrait": "assets/tataris/voltmare.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "waveflutter",
+      "name": "Waveflutter",
+      "tier": "T3",
+      "element": "Água",
+      "use": "Dano",
+      "note": "Dano para cobrir a faixa",
+      "portrait": "assets/tataris/waveflutter.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "cheerspring",
+      "name": "Cheerspring",
+      "tier": "T3",
+      "element": "Elétrico",
+      "use": "Cura",
+      "note": "Cura e bônus para a equipe",
+      "portrait": "assets/tataris/cheerspring.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "sonarbat",
+      "name": "Sonarbat",
+      "tier": "T3",
+      "element": "Planta",
+      "use": "Suporte",
+      "note": "Suporte que depende da cobertura da dupla",
+      "portrait": "assets/tataris/sonarbat.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "blitzmane",
+      "name": "Blitzmane",
+      "tier": "T3",
+      "element": "Elétrico",
+      "use": "Frente",
+      "note": "Estabilidade na frente",
+      "portrait": "assets/tataris/blitzmane.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "flarevix",
+      "name": "Flarevix",
+      "tier": "T3",
+      "element": "Fogo",
+      "use": "Dano",
+      "note": "Dano de Fogo na retaguarda",
+      "portrait": "assets/tataris/flarevix.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "aquariel",
+      "name": "Aquariel",
+      "tier": "T3",
+      "element": "Água",
+      "use": "Cura",
+      "note": "Cura e bônus com ondas",
+      "portrait": "assets/tataris/aquariel.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "armorjaw",
+      "name": "Armorjaw",
+      "tier": "T3",
+      "element": "Pedra",
+      "use": "Suporte",
+      "note": "Puxa o chefe para a faixa de dano",
+      "portrait": "assets/tataris/armorjaw.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "rockshell",
+      "name": "Rockshell",
+      "tier": "T3",
+      "element": "Pedra",
+      "use": "Frente",
+      "note": "Proteção na frente",
+      "portrait": "assets/tataris/rockshell.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "pyroclobster",
+      "name": "Pyroclobster",
+      "tier": "T3",
+      "element": "Fogo",
+      "use": "Dano",
+      "note": "Alternativa de dano de Fogo",
+      "portrait": "assets/tataris/pyroclobster.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "charflutter",
+      "name": "Charflutter",
+      "tier": "T3",
+      "element": "Fogo",
+      "use": "Cura",
+      "note": "Cura e bônus na mesma unidade",
+      "portrait": "assets/tataris/charflutter.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    },
+    {
+      "id": "tideon",
+      "name": "Tideon",
+      "tier": "T3",
+      "element": "Água",
+      "use": "Suporte",
+      "note": "Lentidão e Fragile na retaguarda",
+      "portrait": "assets/tataris/tideon.webp",
+      "detail": null,
+      "reference": "guias/tier-list.md#horda-temporada-3"
+    }
+  ],
+  "pyropup": {
+    "element": "Fogo",
+    "role": "Guardião",
+    "gameVersion": "0.51.1",
+    "build": "171352",
+    "sourceVerified": "2026-11-04",
+    "forms": [
+      {
+        "tier": "T1",
+        "name": "Pyropup",
+        "rarity": "Roxa",
+        "skill": "Pyro Pillar",
+        "effect": "Invoca uma coluna de fogo que atinge inimigos em área.",
+        "change": "Forma inicial de Fogo para a frente.",
+        "stars": null,
+        "tasks": [
+          "Forma inicial. A próxima prova abre com 6 estrelas."
+        ],
+        "portrait": "assets/tataris/pyropup.webp"
+      },
+      {
+        "tier": "T2",
+        "name": "Pyrohound",
+        "rarity": "Dourada",
+        "skill": "Inferno Spire",
+        "effect": "Mantém a coluna de fogo em área em uma versão mais potente, conforme a descrição das fontes.",
+        "change": "Continua como Guardião com dano em área.",
+        "stars": 6,
+        "tasks": [
+          "Dê 30 biscoitos ao Pyropup OU alcance o nível 16 de alimentação nessa forma."
+        ],
+        "portrait": "assets/tataris/pyrohound.webp"
+      },
+      {
+        "tier": "T3",
+        "name": "Hellhound",
+        "rarity": "Vermelha",
+        "skill": "Scorching Strike",
+        "effect": "As chamas atingem uma área ampla e aplicam Enfraquecimento (Weak).",
+        "change": "Acrescenta Enfraquecimento ao ataque em área.",
+        "stars": 18,
+        "tasks": [
+          "Alcance o nível 3 de alimentação do Pyrohound.",
+          "Dispare 15.000 bolinhas de pinball, conforme o TataDex para a build 171352."
+        ],
+        "warning": "A wiki comunitária e o ClashOfCritters.Info registram 20.000 bolinhas. O TataDex registra 15.000 para a build 171352. Confira o contador da prova no jogo.",
+        "portrait": "assets/tataris/hellhound.webp"
+      },
+      {
+        "tier": "T4",
+        "name": "Pyrodaemon",
+        "rarity": "Arco-íris",
+        "skill": "Hell Strike",
+        "effect": "Mantém o dano em área e o Enfraquecimento. Enquanto está em campo, a Aura de Fogo aumenta o ataque dos aliados.",
+        "change": "Acrescenta a Aura de Fogo à linhagem.",
+        "stars": 30,
+        "tasks": [
+          "Alcance o nível 7 de alimentação do Hellhound, correspondente à qualidade B.",
+          "Use 20.000 energéticos na Corrida do Ouro.",
+          "Dê 15 pizzas vulcânicas ao Hellhound OU alcance o nível 16 de alimentação nessa forma."
+        ],
+        "portrait": "assets/tataris/pyrodaemon.webp"
+      }
+    ],
+    "sourcesMarkdown": "\n- **Provas por versão** · [TataDex, linhagem do Pyropup](https://tatadex.org/evolutions/pyropup/).\n- **Habilidades, raridades e provas** · Clash of Critters Wiki, fichas de [Pyropup](https://clashofcritters.wiki.gg/wiki/Pyropup), [Pyrohound](https://clashofcritters.wiki.gg/wiki/Pyrohound), [Hellhound](https://clashofcritters.wiki.gg/wiki/Hellhound) e [Pyrodaemon](https://clashofcritters.wiki.gg/wiki/Pyrodaemon).\n- **Habilidades e raridades por forma** · [Tatari Den, índice de Fogo](https://clashofcritters.online/tatari/element/fire/).\n- **Comparação da prova T3** · [ClashOfCritters.Info, Evolution Trials](https://www.clashofcritters.info/evolution-trials), com crédito a Vuinan.\n- **Aparências e retrato** · Farlight Games, [notas da versão 0.51.1](https://coc-club.farlightgames.com/) e [Creator Kit](https://activity-cc.farlightgames.com/CreatorZone/#kit).\n",
+    "notes": "Os nomes das habilidades estão em inglês, conforme as referências da ficha. Esta versão preserva as divergências já documentadas; não declara que toda a ficha foi testada no jogo atual.",
+    "appearance": "Na 0.51.1, a Farlight anunciou sete aparências Sparkle para o T4 desta linhagem. São opções visuais do Pyrodaemon."
+  },
+  "artSources": {
+    "pyrohound": "https://drive.google.com/file/d/1sQBCcsGyuNXBnUE2KPKB9Ehg9qau4Gsl/view",
+    "hellhound": "https://drive.google.com/file/d/1DL67G8VkeubWxjjOd2WweM0roikQf_qX/view",
+    "pyrodaemon": "https://drive.google.com/file/d/1Ezwx9exi7qGXcYsFV0J1iGEDYothNz93/view"
+  }
+}

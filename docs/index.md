@@ -35,6 +35,8 @@ Guias para começar, consultar formações e aproveitar os eventos do jogo.
 
 </div>
 
+[Explorar o catálogo de Tataris →](tataris.md){ .md-button }
+
 ## Formações por modo
 
 <div class="wiki-modes" markdown="1">

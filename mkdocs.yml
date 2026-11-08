@@ -48,6 +48,7 @@ plugins:
 
 hooks:
   - hooks/novidade.py
+  - hooks/tataris.py
 
 markdown_extensions:
   - admonition
@@ -60,9 +61,11 @@ markdown_extensions:
 
 extra_css:
   - assets/wiki.css
+  - assets/tataris.css
 
 extra_javascript:
   - assets/capitulos.js
+  - assets/tataris.js
 
 nav:
   - Início: index.md
@@ -74,6 +77,7 @@ nav:
       - Pinball e recursos: guias/recursos.md
       - Desafio de Chefe: guias/desafio-de-chefe.md
       - Álbum de Cartas: guias/album-de-cartas.md
+  - Tataris: tataris.md
   - Tier list: guias/tier-list.md
   - Formações:
       - Visão geral: formacoes/index.md
