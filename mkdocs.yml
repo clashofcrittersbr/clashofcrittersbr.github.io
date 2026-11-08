@@ -77,7 +77,77 @@ nav:
       - Pinball e recursos: guias/recursos.md
       - Desafio de Chefe: guias/desafio-de-chefe.md
       - Álbum de Cartas: guias/album-de-cartas.md
-  - Tataris: tataris.md
+  - Tataris:
+      - Catálogo: tataris.md
+      - Patches e fontes: patches-tataris.md
+      - Famílias:
+          - Popa: tataris/popa.md
+          - Dolphie: tataris/dolphie.md
+          - Ringtail: tataris/ringtail.md
+          - Snowcub: tataris/snowcub.md
+          - Cavyzap: tataris/cavyzap.md
+          - Budboo: tataris/budboo.md
+          - Poakie: tataris/poakie.md
+          - Glowfly: tataris/glowfly.md
+          - Blowfin: tataris/blowfin.md
+          - Momopo: tataris/momopo.md
+          - Hootlet: tataris/hootlet.md
+          - Maskfry: tataris/maskfry.md
+          - Zaplet: tataris/zaplet.md
+          - Drilleroo: tataris/drilleroo.md
+          - Flameow: tataris/flameow.md
+          - Dumbopus: tataris/dumbopus.md
+          - Lollama: tataris/lollama.md
+          - Kittazap: tataris/kittazap.md
+          - Taptail: tataris/taptail.md
+          - Fumekit: tataris/fumekit.md
+          - Dewgrub: tataris/dewgrub.md
+          - Funglet: tataris/funglet.md
+          - Fluffle: tataris/fluffle.md
+          - Humbug: tataris/humbug.md
+          - Tindercub: tataris/tindercub.md
+          - Lullelly: tataris/lullelly.md
+          - Cactobud: tataris/cactobud.md
+          - Cheerling: tataris/cheerling.md
+          - Shardsnail: tataris/shardsnail.md
+          - Souphog: tataris/souphog.md
+          - Skinklet: tataris/skinklet.md
+          - Sackling: tataris/sackling.md
+          - Sparkeet: tataris/sparkeet.md
+          - Joeyo: tataris/joeyo.md
+          - Buddi: tataris/buddi.md
+          - Shrimpyro: tataris/shrimpyro.md
+          - Cribbler: tataris/cribbler.md
+          - Pandaroo: tataris/pandaroo.md
+          - Ashlarva: tataris/ashlarva.md
+          - Gopher: tataris/gopher.md
+          - Zapuni: tataris/zapuni.md
+          - Waddledo: tataris/waddledo.md
+          - Voltkit: tataris/voltkit.md
+          - Punchimp: tataris/punchimp.md
+          - Goonbug: tataris/goonbug.md
+          - Sparkit: tataris/sparkit.md
+          - Droppit: tataris/droppit.md
+          - Voltfawn: tataris/voltfawn.md
+          - Gibber: tataris/gibber.md
+          - Manteeny: tataris/manteeny.md
+          - Blueflick: tataris/blueflick.md
+          - Sealing: tataris/sealing.md
+          - Zappur: tataris/zappur.md
+          - Rubblet: tataris/rubblet.md
+          - Frugling: tataris/frugling.md
+          - Pyropup: tataris/pyropup.md
+          - Frostnip: tataris/frostnip.md
+          - Dozy: tataris/dozy.md
+          - Wobbler: tataris/wobbler.md
+          - Mudrump: tataris/mudrump.md
+          - Solpear: tataris/solpear.md
+          - Sparkrow: tataris/sparkrow.md
+          - Capywata: tataris/capywata.md
+          - Shellshy: tataris/shellshy.md
+          - Cindermunk: tataris/cindermunk.md
+          - Clucky: tataris/clucky.md
+          - Zapup: tataris/zapup.md
   - Tier list: guias/tier-list.md
   - Formações:
       - Visão geral: formacoes/index.md
