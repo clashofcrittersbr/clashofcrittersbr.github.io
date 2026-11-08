@@ -4,13 +4,19 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
-- Revisão geral: referências de versão alinhadas às transcrições oficiais, distinção entre raridade e cor de evolução, ligações entre as fichas e atualização dos guias afetados.
-- Corrigidos links sobrepostos na página inicial; famílias organizadas alfabeticamente.
-- Verificação automática de todas as páginas, imagens locais, links e âncoras; conferência das fichas contra a base e as traduções.
+Nenhuma alteração pendente.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
 ## Publicado em 08/11/2026
+
+- Revisão geral da wiki: patches corrigidos nos guias, navegação ajustada e famílias em ordem alfabética. [PR #13](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/13)
+- Horda, tier list, campanha e aparências do Pyropup agora usam as referências das transcrições oficiais. As divergências nas provas de evolução continuam sinalizadas.
+- Raridade e cor de evolução explicadas separadamente; ficha de provas do Pyropup conectada às habilidades da Horda.
+- Guias atualizados com Aventura dos Artefatos, ajustes do Goldrush e do Spa, cartas Foil e mudanças no agrupamento do Desafio de Chefe.
+- Corrigidos links sobrepostos nos guias rápidos da página inicial e substituída uma referência indisponível do Álbum de Cartas.
+- Validação ampliada para todas as páginas, links internos e fichas traduzidas. Limites da revisão e pendências documentados.
+- Notas desta revisão adicionadas ao histórico e à prévia de novidades da página inicial.
 
 - Catálogo com 248 formas em 67 famílias, 448 descrições traduzidas, habilidades normais e da Horda, fontes, créditos e correções dos patches fornecidos pelo mantenedor. [PR #12](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/12)
 - Bonobean e Wattail registrados como adições pendentes. Datas da base, limites de validação e divergências entre fontes explicitados.
