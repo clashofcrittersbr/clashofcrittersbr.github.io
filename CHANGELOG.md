@@ -4,12 +4,16 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Em revisão
 
-- Catálogo visual de 27 formas com busca e filtros por elemento, grau e uso editorial.
-- Ficha interativa do Pyropup com retratos T1–T4, habilidades, provas e fontes; leitura completa disponível sem JavaScript.
-- Cadastro estruturado compartilhado com a tier list, mantendo a identidade verde e dourada.
+- PR12: catálogo com 248 formas em 67 famílias, fichas locais, habilidades normais e da Horda, fontes e créditos.
+- Correções dos patches de 07/10, 21/10 e 04/11 fornecidos pelo mantenedor, com Bonobean e Wattail registrados como adições pendentes.
+- Datas da base, divergências de versão e tradução pendente explicitadas.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
+## Publicado em 07/11/2026
+
+- Catálogo visual, filtros e ficha interativa do Pyropup T1–T4. [PR #11](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/11)
+
 ## Publicado em 06/11/2026
 
 - Guias do Concurso de Pesca e do Tiro aos Zobos com regras, estratégias e referências. [PR #10](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/10)

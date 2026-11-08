@@ -11,18 +11,22 @@ def on_page_markdown(markdown, *, page, config, files, **kwargs):
     records = {r['id']: r for r in data['records']}
 
     def url(path):
+        if path.startswith('https://'):
+            return path
         path, sep, anchor = path.partition('#')
         target = files.get_file_from_path(path).url if path.endswith('.md') else path
         return get_relative_url(target, page.url) + (sep + anchor if sep else '')
 
     def image(path, name, size=72):
+        if not path:
+            return '<span class="tc-muted">Retrato pendente</span>'
         return f'<img src="{escape(url(path))}" alt="{escape(name)}" width="{size}" height="{size}" loading="lazy">'
 
     for key, r in records.items():
         token = f'<!-- tatari-card:{key} -->'
         if token not in markdown:
             continue
-        name = f"[{r['name']}](pyropup.md)" if r['detail'] else r['name']
+        name = r["name"]
         card = f'- ![{r["name"]}, forma {r["tier"]}]({posixpath.relpath(r["portrait"], posixpath.dirname(page.file.src_uri))}){{ .wiki-tatari-portrait loading="lazy" width="72" height="72" }} **{name}** <span class="wiki-tatari-grade">{r["tier"]}</span><br>\n  {r["note"]}'
         markdown = markdown.replace(token, card)
 
@@ -39,13 +43,13 @@ def on_page_markdown(markdown, *, page, config, files, **kwargs):
         for r in records.values():
             full = bool(r['detail'])
             target = url(r['detail'] or r['reference'])
-            search = r['name'] + (' Pyrohound Hellhound Pyrodaemon' if full else '')
+            search = r['name'] + ' ' + r.get('family', '')
             cards.append(f'''<article class="tc-card" data-name="{escape(search)}" data-element="{escape(r['element'])}" data-tier="{r['tier']}" data-use="{r['use']}">
 <div class="tc-card-top"><span>{r['element']}</span><span>{r['tier']}</span></div>
 {image(r['portrait'],r['name']+' · '+r['tier'],112)}
 <h2><a href="{escape(target)}">{r['name']}</a></h2><span class="tc-use">{r['use']}</span>
-<p>{escape(r['note'])}</p><p class="tc-card-footer">{'Ficha T1–T4 →' if full else 'Ver na tier list →'}</p></article>''')
-        html = f'''<div class="tc-catalog"><div class="tc-coverage"><strong>{len(records)} formas para consultar</strong><span>1 linhagem com ficha completa · acervo em expansão</span></div>{controls}<p id="tc-count" role="status" aria-live="polite">{len(records)} formas disponíveis</p><div class="tc-grid">{''.join(cards)}</div><div id="tc-empty" hidden><h2>Nenhuma forma encontrada</h2><p>Tente outro nome ou remova um filtro. O catálogo contém apenas as formas já cadastradas.</p></div></div>'''
+<p>{escape(r['note'])}</p><p class="tc-card-footer">{'Consultar família →' if full else 'Ver na tier list →'}</p></article>''')
+        html = f'''<div class="tc-catalog"><div class="tc-coverage"><strong>{len(records)} formas para consultar</strong><span>67 famílias · base histórica com correções documentadas</span></div>{controls}<p id="tc-count" role="status" aria-live="polite">{len(records)} formas disponíveis</p><div class="tc-grid">{''.join(cards)}</div><div id="tc-empty" hidden><h2>Nenhuma forma encontrada</h2><p>Tente outro nome ou remova um filtro. O catálogo contém apenas as formas já cadastradas.</p></div></div>'''
         markdown = markdown.replace('<!-- tatari-catalog -->',html)
 
     if '<!-- tatari-profile:pyropup -->' in markdown:

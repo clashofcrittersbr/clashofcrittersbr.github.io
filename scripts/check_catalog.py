@@ -18,7 +18,8 @@ assert {r['tier'] for r in records} == {'T1', 'T2', 'T3', 'T4'}
 for r in records:
     assert r['element'] in {'Água', 'Fogo', 'Planta', 'Pedra', 'Elétrico'}
     assert r['use'] in {'Frente', 'Dano', 'Cura', 'Suporte'}
-    assert (root / 'docs' / r['portrait']).is_file(), r['id']
+    if r['portrait'] and not r['portrait'].startswith('https://'):
+        assert (root / 'docs' / r['portrait']).is_file(), r['id']
 
 class References(HTMLParser):
     def __init__(self, text):
@@ -33,7 +34,9 @@ class References(HTMLParser):
             ref = attrs.get('src') if tag in ('img', 'script') else attrs.get('href')
             if ref: self.refs.append(ref)
 
-for page in ['tataris/index.html', 'guias/pyropup/index.html', 'guias/tier-list/index.html']:
+assert len(records) == 248
+assert len({r['family'] for r in records}) == 67
+for page in ['tataris/index.html', 'guias/pyropup/index.html', 'guias/tier-list/index.html'] + [str(p.relative_to(site)) for p in (site / 'tataris').glob('*/index.html')]:
     path = site / page
     text = path.read_text()
     assert '<!-- tatari-' not in text, page

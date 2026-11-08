@@ -53,3 +53,9 @@ O cadastro está em `docs/assets/data/tataris.json`. Ele alimenta o catálogo, o
 Para adicionar outra linhagem completa, estenda o modelo de ficha e o renderizador com dados revisados; não preencha habilidades ou requisitos por inferência. As tags do catálogo não pretendem substituir a classe oficial do Tatari.
 
 Validação: execute `python -m mkdocs build --strict` e `python scripts/check_catalog.py`. A segunda checagem verifica imagens, referências locais, âncoras e integridade do cadastro. Na prévia, teste busca com acentos, filtros combinados, ausência de resultados, troca T1–T4 com teclado, link direto por forma, celular e leitura sem JavaScript.
+
+## Catálogo completo e patches manuais (PR12)
+
+`docs/assets/data/tataris-wiki.json` preserva a origem, revisão do espelho e coleta de 248 formas / 67 famílias. As fichas em `docs/tataris/` são locais e pesquisáveis. Descrições originais em inglês sob CC BY-SA 4.0; rótulos e notas em português. Imagens adicionais são remotas, fixadas em commit, com lazy loading e créditos. Não há promessa de atualização automática.
+
+Atualizar `docs/patches-tataris.md` e as fichas afetadas ao receber transcrição oficial. Não inferir valores que o anúncio remete à interface do jogo. Bonobean e Wattail permanecem pendências explícitas fora da contagem histórica. Conferir divergência de versões com a ficha anterior de Pyropup antes de alterar suas provas. Executar build estrito e `python scripts/check_catalog.py`.
