@@ -2,24 +2,24 @@
 
 Na Invasão da Horda, dois jogadores defendem o tabuleiro contra ondas de Zobos. Durante a partida, a dupla posiciona Tataris, melhora unidades e escolhe chips.
 
-**Revisão das fontes em 04/11/2026.** Esta página usa as notas oficiais até a versão **0.51.1**. As referências de formação foram separadas por temporada e data.
+**Revisão em 08/11/2026.** As mudanças abaixo seguem as transcrições oficiais de **21/10 (0.49.1.4372.6766)** e **04/11 (0.50.1.1150.6906)** fornecidas pelo mantenedor. As versões 0.50.1/0.51.1 citadas anteriormente não foram reconciliadas entre as fontes. [Consultar patches e origem](../patches-tataris.md#referencias-recebidas).
 
 ## O que mudou na Temporada 3
 
-A versão **0.50.1** abriu a Temporada 3. Ela acrescentou **D5 e D6**, rebalanceou **D1 a D4**, zerou o ranking sazonal e mudou os inimigos e a ordem de alguns chefes. A dificuldade inicial da temporada ficou um nível abaixo da maior alcançada na Temporada 2.
+O anúncio de **21/10/2026 · 0.49.1.4372.6766** abriu a Temporada 3. Ela acrescentou **D5 e D6**, rebalanceou **D1 a D4**, zerou o ranking sazonal e mudou os inimigos e a ordem de alguns chefes. A dificuldade inicial da temporada ficou um nível abaixo da maior alcançada na Temporada 2.
 
 | O que mudou | Como afeta a leitura dos guias |
 | --- | --- |
 | Dificuldade e inimigos | Compare a dificuldade e a ordem dos chefes antes de usar uma formação de outra temporada. |
-| Chips | A 0.50.1 reduziu o dano do chip Lawn Care de 40% para 35% do HP máximo e o ganho de Mission Reset de 200 para 180 energizadores. Confira os nomes e os efeitos na interface do jogo. |
-| Habilidades de Tataris | A 0.50.1 manteve a aplicação de lentidão e sono de Waveflutter e Morphanessa nas habilidades regulares dos aliados adjacentes. As habilidades exclusivas da Horda desses aliados deixaram de receber esse efeito. |
-| Versão 0.51.1 | A Farlight anunciou habilidades da Horda para Wattail e suas evoluções, melhorias de desempenho e avisos quando um Tatari fica impedido de se mover. |
+| Chips | O patch de 21/10 alterou AFK de 300 para 400 energizadores, First-Aid Kit de 15% para 12% de HP recuperado, Lawn Care de 40% para 35% de dano baseado no HP máximo e Mission Reset de 200 para 180 energizadores. Confira os nomes e os efeitos na interface do jogo. |
+| Habilidades de Tataris | O patch de 21/10 manteve a aplicação de lentidão e sono de Waveflutter e Morphanessa nas habilidades regulares dos aliados adjacentes. As habilidades exclusivas da Horda desses aliados deixaram de receber esse efeito. |
+| Patch de 04/11 · 0.50.1.1150.6906 | A Farlight anunciou habilidades da Horda para Wattail e suas evoluções, melhorias de desempenho e avisos quando um Tatari fica impedido de se mover. |
 
-[Fonte oficial · notas das versões 0.50.1 e 0.51.1](https://coc-club.farlightgames.com/)
+[Transcrições oficiais e limites de verificação](../patches-tataris.md)
 
 ## Referências da Temporada 3
 
-Estas referências foram publicadas no início da Temporada 3, antes das notas da 0.51.1. As sugestões abaixo servem para escolher o que testar. Ainda faltam nesta wiki partidas com formação, resultado e versão 0.51.1 documentados.
+Estas referências foram publicadas no início da Temporada 3, antes do anúncio de 04/11. As sugestões abaixo servem para escolher o que testar. Ainda faltam nesta wiki partidas com formação, resultado e versão do anúncio de 04/11 documentados.
 
 | Referência | O que consultar |
 | --- | --- |

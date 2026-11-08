@@ -21,6 +21,14 @@ A máquina do acampamento usa bolinhas de pinball para gerar recompensas. Entre 
 
 As estrelas obtidas ao vencer chefes da campanha também dão melhorias permanentes. Consulte a próxima recompensa no painel de estrelas para ver o que está perto de desbloquear.
 
+## Sparkly Spa e Sparkle
+
+O anúncio de **07/10/2026 · 0.49.1** apresentou o Sparkly Spa, desbloqueado ao obter um Tatari T4 e vencer como MVP no Goldrush. As aparências Sparkle são exclusivas de T4 Glitter e dependem de tempo no Spa. O Spa Station permite visitar spas de amigos após obter um T4 e um amigo desbloquear o Spa.
+
+O anúncio de **04/11/2026 · 0.50.1.1150.6906** mudou os buffs: passaram a existir efeitos fixos (ATK, DEF, HP e progresso Sparkle diário) e dois efeitos rotativos semanais. O sabão (Spa Soap) agora aprimora os efeitos, substituindo o sorteio de buffs descrito antes. Entre os possíveis efeitos semanais estão maior chance de Glitter, progresso de alimentação em dobro, benefícios para não T4, Bentos em dobro, dano maior a chefes e menor consumo de bebidas no Goldrush. Confira os dois efeitos ativos no jogo; não são todos simultâneos.
+
+[Fonte: transcrições oficiais fornecidas pelo mantenedor](../patches-tataris.md).
+
 ## Fontes
 
 - [Clash of Critters Wiki · Máquina de pinball](https://clashofcritters.wiki.gg/wiki/Pinball), [decorações e árvores](https://clashofcritters.wiki.gg/wiki/Decorations), [missões](https://clashofcritters.wiki.gg/wiki/Quests), [batalhas](https://clashofcritters.wiki.gg/wiki/Battle) e [alimentação dos Tataris](https://clashofcritters.wiki.gg/wiki/Tatari#Feeding)

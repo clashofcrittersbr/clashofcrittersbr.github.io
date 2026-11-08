@@ -11,6 +11,10 @@ O Desafio de Chefe tem uma classificação própria. A posição considera o ní
 
 O modo é uma fonte de comida para [alimentar os Tataris](tataris.md#o-que-cada-melhoria-faz). Consulte a tela do desafio para ver os prêmios da rotação.
 
+## Classificação e agrupamento
+
+O anúncio de **21/10/2026 · 0.49.1.4372.6766** aumentou o intervalo entre fusões de classificações e a quantidade de treinadores necessária para uma fusão. O texto não informa valores. [Consultar o patch transcrito](../patches-tataris.md).
+
 ## Fontes
 
 - [Clash of Critters Wiki · Desafio de Chefe](https://clashofcritters.wiki.gg/wiki/Boss_Challenge)

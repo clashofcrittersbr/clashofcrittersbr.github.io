@@ -24,7 +24,11 @@ Ao comparar dois Tataris, confira o elemento, a habilidade e o alcance. Um Tatar
 
 ## Fichas de Tataris
 
-- [Pyropup](pyropup.md) · Guardião de Fogo. Compare as quatro formas, suas habilidades e provas.
+- [Catálogo de Tataris](../tataris.md) · 248 formas em 67 famílias, com habilidades normais e da Horda. A contagem é da base histórica, não o total atual confirmado.
+- [Provas do Pyropup](pyropup.md) · Referências de requisitos e divergências para as quatro formas.
+- [Patches e fontes](../patches-tataris.md) · Correções oficiais fornecidas pelo mantenedor e dados ainda pendentes.
+
+**Provas alteradas em 04/11/2026:** “Fishing Contest ou Zobo Shooter” passou a “Fishing Contest ou Artifact Adventure”; “Raft Race ou Fishing Contest” passou a “Raft Race ou Zobo Shooter”. O progresso foi transferido proporcionalmente. O anúncio não lista todas as famílias afetadas; confira a prova da sua forma no jogo.
 
 [Use o modelo para propor outra ficha de evolução](../colabore.md#modelo-de-ficha-de-evolucao).
 
