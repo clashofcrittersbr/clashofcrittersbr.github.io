@@ -6,7 +6,7 @@
 [Pyropup · T1](#pyropup) → [Pyrohound · T2](#pyrohound) → [Hellhound · T3](#hellhound) → [Pyrodaemon · T4](#pyrodaemon)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 !!! note "Patch oficial fornecido"
     04/11: adicionadas sete aparências Sparkle à evolução T4 desta família.
@@ -19,15 +19,17 @@
 
 ### Habilidade normal
 
-Pyro Pillar: Summons a fire pillar that deals AoE damage.
+Pyro Pillar: Invoca uma coluna de fogo que causa dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Pyro Pillar: Summons a fire pillar that deals AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fire Serpent:** Attacks have a chance to summon extra fire pillars that extend outward randomly.
-- **Nível 5 — Flame Halo:** Periodically creates rings of fire orbs, dealing DoT damage in an area to nearby enemies.
-- **Nível 7 — Hellflame:** Continuously summons powerful flame pillars in the surrounding area.
+- **Nível 3 — Fire Serpent:** Os ataques têm chance de invocar colunas de fogo extras que se estendem para fora em direções aleatórias.
+- **Nível 5 — Flame Halo:** Cria periodicamente anéis de esferas de fogo, causando dano contínuo em área aos inimigos próximos.
+- **Nível 7 — Hellflame:** Invoca continuamente colunas de fogo poderosas na área ao redor.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Pyropup)
 
@@ -39,15 +41,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Inferno Spire: Summons a powerful fire pillar that deals AoE damage.
+Inferno Spire: Invoca uma coluna de fogo poderosa que causa dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Inferno Spire: Summons a powerful fire pillar that deals AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fire Serpent:** Attacks have a chance to summon extra fire pillars that extend outward randomly.
-- **Nível 5 — Flame Halo:** Periodically creates rings of fire orbs, dealing DoT damage in an area to nearby enemies.
-- **Nível 7 — Hellflame:** Continuously summons powerful flame pillars in the surrounding area.
+- **Nível 3 — Fire Serpent:** Os ataques têm chance de invocar colunas de fogo extras que se estendem para fora em direções aleatórias.
+- **Nível 5 — Flame Halo:** Cria periodicamente anéis de esferas de fogo, causando dano contínuo em área aos inimigos próximos.
+- **Nível 7 — Hellflame:** Invoca continuamente colunas de fogo poderosas na área ao redor.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Pyrohound)
 
@@ -59,15 +63,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Scorching Strike: Summons fearsome flames that deal large AoE damage and inflict Weak.
+Scorching Strike: Invoca chamas intensas que causam dano em uma área grande e aplicam Enfraquecimento.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Scorching Strike: Summons fearsome flames that deal large AoE damage and inflict Weak.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fire Serpent:** Attacks have a chance to summon extra fire pillars that extend outward randomly.
-- **Nível 5 — Flame Halo:** Periodically creates rings of fire orbs, dealing DoT damage in an area to nearby enemies.
-- **Nível 7 — Hellflame:** Continuously summons powerful flame pillars in the surrounding area.
+- **Nível 3 — Fire Serpent:** Os ataques têm chance de invocar colunas de fogo extras que se estendem para fora em direções aleatórias.
+- **Nível 5 — Flame Halo:** Cria periodicamente anéis de esferas de fogo, causando dano contínuo em área aos inimigos próximos.
+- **Nível 7 — Hellflame:** Invoca continuamente colunas de fogo poderosas na área ao redor.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Hellhound)
 
@@ -79,15 +85,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Hell Strike: Summons fearsome flames that deal large AoE damage and inflict Weak. Pyrodaemon carries Aura: Fire whenever on the field.
+Hell Strike: Invoca chamas intensas que causam dano em uma área grande e aplicam Enfraquecimento. Pyrodaemon possui Aura: Fire enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Hell Strike: Summons fearsome flames that deal large AoE damage and inflict Weak. Pyrodaemon carries Aura: Fire whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fire Serpent:** Attacks have a chance to summon extra fire pillars that extend outward randomly.
-- **Nível 5 — Flame Halo:** Periodically creates rings of fire orbs, dealing DoT damage in an area to nearby enemies.
-- **Nível 7 — Hellflame:** Continuously summons powerful flame pillars in the surrounding area.
+- **Nível 3 — Fire Serpent:** Os ataques têm chance de invocar colunas de fogo extras que se estendem para fora em direções aleatórias.
+- **Nível 5 — Flame Halo:** Cria periodicamente anéis de esferas de fogo, causando dano contínuo em área aos inimigos próximos.
+- **Nível 7 — Hellflame:** Invoca continuamente colunas de fogo poderosas na área ao redor.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Pyrodaemon)
 
@@ -99,6 +107,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

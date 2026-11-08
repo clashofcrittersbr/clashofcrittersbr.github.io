@@ -56,6 +56,8 @@ Validação: execute `python -m mkdocs build --strict` e `python scripts/check_c
 
 ## Catálogo completo e patches manuais (PR12)
 
-`docs/assets/data/tataris-wiki.json` preserva a origem, revisão do espelho e coleta de 248 formas / 67 famílias. As fichas em `docs/tataris/` são locais e pesquisáveis. Descrições originais em inglês sob CC BY-SA 4.0; rótulos e notas em português. Imagens adicionais são remotas, fixadas em commit, com lazy loading e créditos. Não há promessa de atualização automática.
+`docs/assets/data/tataris-wiki.json` preserva a origem, revisão do espelho e coleta de 248 formas / 67 famílias. As fichas em `docs/tataris/` são locais e pesquisáveis. Descrições traduzidas em pt-BR sob CC BY-SA 4.0; originais preservados em JSON e nas seções expansíveis das habilidades normais. Imagens adicionais são remotas, fixadas em commit, com lazy loading e créditos. Não há promessa de atualização automática.
 
 Atualizar `docs/patches-tataris.md` e as fichas afetadas ao receber transcrição oficial. Não inferir valores que o anúncio remete à interface do jogo. Bonobean e Wattail permanecem pendências explícitas fora da contagem histórica. Conferir divergência de versões com a ficha anterior de Pyropup antes de alterar suas provas. Executar build estrito e `python scripts/check_catalog.py`.
+
+Traduções: `docs/assets/data/tataris-pt-br.json` mapeia cada descrição original integral à tradução. Ao editar, preservar quantidades, probabilidades qualitativas e condições de ativação. `python scripts/check_translations.py` verifica cobertura e quantidades; a revisão semântica permanece editorial. Correções oficiais são notas específicas, não alterações silenciosas na fonte importada.

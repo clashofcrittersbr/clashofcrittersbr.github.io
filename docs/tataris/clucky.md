@@ -6,7 +6,7 @@
 [Clucky · T1](#clucky) → [Cluckeroo · T2](#cluckeroo)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Clucky · T1 {#clucky}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Seedshot: Shoots one seed.
+Seedshot: Dispara uma semente.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Seedshot: Shoots one seed.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Seed Trigger:** Attacks have a chance to shoot extra damaging seeds or healing seeds.
-- **Nível 5 — Chain Heal:** When Weakened allies are nearby, provides continuous healing to that ally.
-- **Nível 7 — Seedscatter:** Rapidly shoots lots of damaging or healing seeds at different targets.
+- **Nível 3 — Seed Trigger:** Os ataques têm chance de disparar sementes extras que causam dano ou curam.
+- **Nível 5 — Chain Heal:** Quando há aliados com Enfraquecimento por perto, fornece cura contínua a esse aliado.
+- **Nível 7 — Seedscatter:** Dispara rapidamente várias sementes de dano ou cura contra alvos diferentes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Clucky)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Nutri-Shot: Shoots two seeds, one that inflicts damage, and one that recovers HP.
+Nutri-Shot: Dispara duas sementes: uma causa dano e a outra recupera HP.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Nutri-Shot: Shoots two seeds, one that inflicts damage, and one that recovers HP.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Seed Trigger:** Attacks have a chance to shoot extra damaging seeds or healing seeds.
-- **Nível 5 — Chain Heal:** When Weakened allies are nearby, provides continuous healing to that ally.
-- **Nível 7 — Seedscatter:** Rapidly shoots lots of damaging or healing seeds at different targets.
+- **Nível 3 — Seed Trigger:** Os ataques têm chance de disparar sementes extras que causam dano ou curam.
+- **Nível 5 — Chain Heal:** Quando há aliados com Enfraquecimento por perto, fornece cura contínua a esse aliado.
+- **Nível 7 — Seedscatter:** Dispara rapidamente várias sementes de dano ou cura contra alvos diferentes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Cluckeroo)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

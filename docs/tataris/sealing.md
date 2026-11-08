@@ -6,7 +6,7 @@
 [Sealing · T1](#sealing) → [Sealoon · T2](#sealoon) → [Seaswirl · T3](#seaswirl) → [Sealord · T4](#sealord)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 !!! note "Patch oficial fornecido"
     04/11: adicionadas sete aparências Sparkle à evolução T4 desta família.
@@ -19,15 +19,17 @@
 
 ### Habilidade normal
 
-Bubble Bounce: Launches a bouncing ball that ricochets.
+Bubble Bounce: Lança uma bola saltitante que ricocheteia.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bubble Bounce: Launches a bouncing ball that ricochets.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Hit Practice:** Launches 2 piercing balls that, after flying a certain distance, will return and be launched again.
-- **Nível 5 — Pressure Orb:** Launches a piercing high-pressure water orb that sometimes explodes to deal large AoE damage.
-- **Nível 7 — Wave Blast:** Periodically summons massive waves, dealing large AoE damage with a chance to inflict Knockback.
+- **Nível 3 — Hit Practice:** Lança 2 bolas perfurantes que, após percorrer certa distância, retornam e são lançadas novamente.
+- **Nível 5 — Pressure Orb:** Lança uma esfera de água perfurante de alta pressão que às vezes explode, causando dano em uma área grande.
+- **Nível 7 — Wave Blast:** Invoca periodicamente ondas enormes, causando dano em uma área grande com chance de aplicar Repulsão.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Sealing)
 
@@ -39,15 +41,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Tide Tumble: Launches a bouncing ball that ricochets and inflicts Weak.
+Tide Tumble: Lança uma bola saltitante que ricocheteia e aplica Enfraquecimento.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Tide Tumble: Launches a bouncing ball that ricochets and inflicts Weak.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Hit Practice:** Launches 2 piercing balls that, after flying a certain distance, will return and be launched again.
-- **Nível 5 — Pressure Orb:** Launches a piercing high-pressure water orb that sometimes explodes to deal large AoE damage.
-- **Nível 7 — Wave Blast:** Periodically summons massive waves, dealing large AoE damage with a chance to inflict Knockback.
+- **Nível 3 — Hit Practice:** Lança 2 bolas perfurantes que, após percorrer certa distância, retornam e são lançadas novamente.
+- **Nível 5 — Pressure Orb:** Lança uma esfera de água perfurante de alta pressão que às vezes explode, causando dano em uma área grande.
+- **Nível 7 — Wave Blast:** Invoca periodicamente ondas enormes, causando dano em uma área grande com chance de aplicar Repulsão.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Sealoon)
 
@@ -59,15 +63,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Splash Volley: Launches 2 bouncing balls that ricochet and inflict Weak.
+Splash Volley: Lança 2 bolas saltitantes que ricocheteiam e aplicam Enfraquecimento.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Splash Volley: Launches 2 bouncing balls that ricochet and inflict Weak.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Hit Practice:** Launches 2 piercing balls that, after flying a certain distance, will return and be launched again.
-- **Nível 5 — Pressure Orb:** Launches a piercing high-pressure water orb that sometimes explodes to deal large AoE damage.
-- **Nível 7 — Wave Blast:** Periodically summons massive waves, dealing large AoE damage with a chance to inflict Knockback.
+- **Nível 3 — Hit Practice:** Lança 2 bolas perfurantes que, após percorrer certa distância, retornam e são lançadas novamente.
+- **Nível 5 — Pressure Orb:** Lança uma esfera de água perfurante de alta pressão que às vezes explode, causando dano em uma área grande.
+- **Nível 7 — Wave Blast:** Invoca periodicamente ondas enormes, causando dano em uma área grande com chance de aplicar Repulsão.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Seaswirl)
 
@@ -79,15 +85,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Ball Barrage: Launches 2 bouncing balls that ricochet and inflict Weak. Sealord carries Aura: Water whenever on the field.
+Ball Barrage: Lança 2 bolas saltitantes que ricocheteiam e aplicam Enfraquecimento. Sealord possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Ball Barrage: Launches 2 bouncing balls that ricochet and inflict Weak. Sealord carries Aura: Water whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Hit Practice:** Launches 2 piercing balls that, after flying a certain distance, will return and be launched again.
-- **Nível 5 — Pressure Orb:** Launches a piercing high-pressure water orb that sometimes explodes to deal large AoE damage.
-- **Nível 7 — Wave Blast:** Periodically summons massive waves, dealing large AoE damage with a chance to inflict Knockback.
+- **Nível 3 — Hit Practice:** Lança 2 bolas perfurantes que, após percorrer certa distância, retornam e são lançadas novamente.
+- **Nível 5 — Pressure Orb:** Lança uma esfera de água perfurante de alta pressão que às vezes explode, causando dano em uma área grande.
+- **Nível 7 — Wave Blast:** Invoca periodicamente ondas enormes, causando dano em uma área grande com chance de aplicar Repulsão.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Sealord)
 
@@ -97,6 +105,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

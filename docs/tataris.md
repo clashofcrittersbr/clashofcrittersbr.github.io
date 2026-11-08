@@ -16,6 +16,6 @@ Explore **248 formas em 67 famílias**. Busque pelo nome de uma forma ou de sua 
 
 ## Como ler
 
-**T1–T4** são graus de evolução. **Níveis 3, 5 e 7 da Horda** são melhorias na partida. Frente, Dano, Cura e Suporte são agrupamentos de navegação, não uma classificação de força; as funções da fonte aparecem nas fichas. Descrições das habilidades preservadas em inglês, com tradução ainda pendente.
+**T1–T4** são graus de evolução. **Níveis 3, 5 e 7 da Horda** são melhorias na partida. Frente, Dano, Cura e Suporte são agrupamentos de navegação, não uma classificação de força; as funções da fonte aparecem nas fichas. Descrições traduzidas em português brasileiro, com nomes de habilidades preservados e texto original consultável nas habilidades normais. [Glossário dos efeitos](patches-tataris.md#glossario).
 
 As fichas têm fonte individual e notas dos patches fornecidos pelo mantenedor. Os retratos adicionais são carregados sob demanda do acervo do Horde Drafter, fixado na revisão utilizada; a pesquisa e o conteúdo das fichas são locais.

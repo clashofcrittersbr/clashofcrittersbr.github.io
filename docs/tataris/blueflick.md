@@ -6,7 +6,7 @@
 [Blueflick · T1](#blueflick) → [Ignisnap · T2](#ignisnap) → [Azurion · T3](#azurion) → [Newflamander · T4](#newflamander)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Blueflick · T1 {#blueflick}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Ember Pop: Shoots a ball of fire that deals small AoE damage and inflicts Burn.
+Ember Pop: Dispara uma bola de fogo que causa dano em uma área pequena e aplica Queimadura.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Ember Pop: Shoots a ball of fire that deals small AoE damage and inflicts Burn.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rapid Fire:** Attacks have a chance to fire 3 extra fire orbs.
-- **Nível 5 — Fire Trigger:** When inflicting Burn, there is a chance to fire a follow-up fire orb at the target location.
-- **Nível 7 — Blazing Path:** Paves a blazing path forward, dealing wide-range AoE damage with a chance to inflict Burn.
+- **Nível 3 — Rapid Fire:** Os ataques têm chance de disparar 3 esferas de fogo extras.
+- **Nível 5 — Fire Trigger:** Ao aplicar Queimadura, tem chance de disparar uma esfera de fogo adicional no local do alvo.
+- **Nível 7 — Blazing Path:** Cria um caminho em chamas à frente, causando dano em uma área ampla com chance de aplicar Queimadura.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Blueflick)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Scorchblast: Shoots a ball of fire that deals AoE damage and inflicts Burn.
+Scorchblast: Dispara uma bola de fogo que causa dano em área e aplica Queimadura.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Scorchblast: Shoots a ball of fire that deals AoE damage and inflicts Burn.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rapid Fire:** Attacks have a chance to fire 3 extra fire orbs.
-- **Nível 5 — Fire Trigger:** When inflicting Burn, there is a chance to fire a follow-up fire orb at the target location.
-- **Nível 7 — Blazing Path:** Paves a blazing path forward, dealing wide-range AoE damage with a chance to inflict Burn.
+- **Nível 3 — Rapid Fire:** Os ataques têm chance de disparar 3 esferas de fogo extras.
+- **Nível 5 — Fire Trigger:** Ao aplicar Queimadura, tem chance de disparar uma esfera de fogo adicional no local do alvo.
+- **Nível 7 — Blazing Path:** Cria um caminho em chamas à frente, causando dano em uma área ampla com chance de aplicar Queimadura.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Ignisnap)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Searstorm: Shoots a ball of fire that deals AoE damage and inflicts Burn. Burn can be enhanced.
+Searstorm: Dispara uma bola de fogo que causa dano em área e aplica Queimadura. A Queimadura pode ser intensificada.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Searstorm: Shoots a ball of fire that deals AoE damage and inflicts Burn. Burn can be enhanced.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rapid Fire:** Attacks have a chance to fire 3 extra fire orbs.
-- **Nível 5 — Fire Trigger:** When inflicting Burn, there is a chance to fire a follow-up fire orb at the target location.
-- **Nível 7 — Blazing Path:** Paves a blazing path forward, dealing wide-range AoE damage with a chance to inflict Burn.
+- **Nível 3 — Rapid Fire:** Os ataques têm chance de disparar 3 esferas de fogo extras.
+- **Nível 5 — Fire Trigger:** Ao aplicar Queimadura, tem chance de disparar uma esfera de fogo adicional no local do alvo.
+- **Nível 7 — Blazing Path:** Cria um caminho em chamas à frente, causando dano em uma área ampla com chance de aplicar Queimadura.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Azurion)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Blaze Burst: Shoots a ball of fire that deals AoE damage and burns enemies. Burn can be enhanced. Also grants Aura: Fire whenever on the field.
+Blaze Burst: Dispara uma bola de fogo que causa dano em área e queima inimigos. A Queimadura pode ser intensificada. Também concede Aura: Fire enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Blaze Burst: Shoots a ball of fire that deals AoE damage and burns enemies. Burn can be enhanced. Also grants Aura: Fire whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rapid Fire:** Attacks have a chance to fire 3 extra fire orbs.
-- **Nível 5 — Fire Trigger:** When inflicting Burn, there is a chance to fire a follow-up fire orb at the target location.
-- **Nível 7 — Blazing Path:** Paves a blazing path forward, dealing wide-range AoE damage with a chance to inflict Burn.
+- **Nível 3 — Rapid Fire:** Os ataques têm chance de disparar 3 esferas de fogo extras.
+- **Nível 5 — Fire Trigger:** Ao aplicar Queimadura, tem chance de disparar uma esfera de fogo adicional no local do alvo.
+- **Nível 7 — Blazing Path:** Cria um caminho em chamas à frente, causando dano em uma área ampla com chance de aplicar Queimadura.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Newflamander)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

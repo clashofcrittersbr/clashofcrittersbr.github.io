@@ -60,3 +60,37 @@ O catálogo não realiza sincronização automática nem apresenta a base histó
 ## Créditos e licença
 
 Base: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), preservada por [Jeremy Canlas / jacc6475 no Horde Drafter](https://github.com/jeremycanlas/clash-of-critters-horde-planner). A revisão exata e a data da coleta estão em `assets/data/tataris-wiki.json`. Textos derivados da wiki e sua reorganização são distribuídos sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), conforme [a política da fonte](https://clashofcritters.wiki.gg/wiki/Meta:Copyrights). Artes e nomes do jogo pertencem aos seus titulares. O código do Horde Drafter não foi incorporado.
+
+## Glossário
+
+As traduções são da comunidade, não uma localização oficial. Nomes próprios de habilidades, escudos e efeitos permanecem em inglês. Dentro desses nomes: **ATK Boost** = aumento de ataque; **DEF Boost** = aumento de defesa; **HP Boost** = aumento de HP; **DMG Boost** = aumento de dano; **DMG Reduction** = redução de dano; **ATK Speed Boost / ATK SPD Boost** = aumento de velocidade de ataque; **Heal Reduction** = redução de cura; **All Stats UP** = aumento de todos os atributos. A sigla isolada SPD foi preservada quando a fonte não especifica o tipo de velocidade.
+
+| Termo da fonte | Tradução usada |
+| --- | --- |
+| AoE | Dano/efeito em área |
+| DoT | Dano contínuo |
+| Slow | Lentidão |
+| Sleep | Sono |
+| Weak / Weakened | Enfraquecimento |
+| Fragile | Fragilidade |
+| Stun | Atordoamento |
+| Bind | Imobilização |
+| Burn | Queimadura |
+| Freeze | Congelamento |
+| Paralysis | Paralisia |
+| Knockback | Repulsão |
+| Pull | Puxar |
+| Blind | Cegueira |
+| Poison | Veneno |
+| Crystallized | Cristalização |
+| Danger | Perigo (condição da fonte; limite de HP não informado) |
+
+Frail, Slowdown, Shredded, Sting, Bane, Prepared e outros efeitos próprios permanecem identificados pelo nome original. Não os equiparamos automaticamente a outros estados.
+
+## Revisão da tradução · 08/11/2026
+
+448 descrições distintas traduzidas, abrangendo habilidades normais e da Horda das 248 formas. Quantidades explícitas preservadas e verificadas. A fonte original está em `assets/data/tataris-wiki.json`; a correspondência de cada tradução está em `assets/data/tataris-pt-br.json`.
+
+Foram normalizados erros de grafia evidentes de nomes (Techniocan → Technocan, Esctamira → Ecstamira, Giganash → Gigagnash), conforme os nomes dos próprios registros. Referências ambíguas a formas anteriores no vínculo Paw Pals e a quantidade de aliados do sushi foram preservadas e sinalizadas nas fichas. Os nomes ausentes das habilidades de Armavolve e Cactobodhi não foram inventados.
+
+As correções de 21/10 de Waveflutter e Morphanessa também estão no texto principal traduzido, além da nota do patch. Revisar a tradução não certifica os valores atuais de balanceamento.

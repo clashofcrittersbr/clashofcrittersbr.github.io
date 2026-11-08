@@ -6,7 +6,7 @@
 [Budboo · T1](#budboo) → [Snapshade · T2](#snapshade) → [Thornwisp · T3](#thornwisp) → [Chomperwraith · T4](#chomperwraith)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Budboo · T1 {#budboo}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Bud Venom: Shoots a seed to deal single-target damage. Sometimes shoots a venomous seed to deal small AoE damage and inflict Poison.
+Bud Venom: Dispara uma semente que causa dano a um único alvo. Às vezes dispara uma semente venenosa que causa dano em uma área pequena e aplica Veneno.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bud Venom: Shoots a seed to deal single-target damage. Sometimes shoots a venomous seed to deal small AoE damage and inflict Poison.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bitter Bane:** Has a chance to apply 1 stack of Bane when inflicting Poison. Also has a chance to deal small AoE damage when applying Bane. Bane is a stackable lingering effect that deals damage continuously over time.
-- **Nível 5 — Shade Spray:** Periodically launches 5 shadows to deal single-target damage and apply 1 stack of Bane. Shadows will pierce enemies with Bane.
-- **Nível 7 — Shadow Bloom:** Summons many shadows to deal large AoE damage, inflicting 1 stack of Bane and doubling the enemy's current stacks. Prioritizes attacking bosses.
+- **Nível 3 — Bitter Bane:** Tem chance de aplicar 1 acúmulo de Bane ao aplicar Veneno. Também tem chance de causar dano em uma área pequena ao aplicar Bane. Bane é um efeito persistente e acumulável que causa dano contínuo.
+- **Nível 5 — Shade Spray:** Lança periodicamente 5 sombras para causar dano a um único alvo e aplicar 1 acúmulo de Bane. As sombras atravessam inimigos com Bane.
+- **Nível 7 — Shadow Bloom:** Invoca muitas sombras para causar dano em uma área grande, aplicar 1 acúmulo de Bane e dobrar os acúmulos atuais do inimigo. Prioriza chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Budboo)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Snap Trap: Shoots a seed to deal single-target damage. Sometimes shoots 3 venomous seeds to deal small AoE damage and inflict Poison.
+Snap Trap: Dispara uma semente que causa dano a um único alvo. Às vezes dispara 3 sementes venenosas que causam dano em uma área pequena e aplicam Veneno.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Snap Trap: Shoots a seed to deal single-target damage. Sometimes shoots 3 venomous seeds to deal small AoE damage and inflict Poison.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bitter Bane:** Has a chance to apply 1 stack of Bane when inflicting Poison. Also has a chance to deal small AoE damage when applying Bane. Bane is a stackable lingering effect that deals damage continuously over time.
-- **Nível 5 — Shade Spray:** Periodically launches 5 shadows to deal single-target damage and apply 1 stack of Bane. Shadows will pierce enemies with Bane.
-- **Nível 7 — Shadow Bloom:** Summons many shadows to deal large AoE damage, inflicting 1 stack of Bane and doubling the enemy's current stacks. Prioritizes attacking bosses.
+- **Nível 3 — Bitter Bane:** Tem chance de aplicar 1 acúmulo de Bane ao aplicar Veneno. Também tem chance de causar dano em uma área pequena ao aplicar Bane. Bane é um efeito persistente e acumulável que causa dano contínuo.
+- **Nível 5 — Shade Spray:** Lança periodicamente 5 sombras para causar dano a um único alvo e aplicar 1 acúmulo de Bane. As sombras atravessam inimigos com Bane.
+- **Nível 7 — Shadow Bloom:** Invoca muitas sombras para causar dano em uma área grande, aplicar 1 acúmulo de Bane e dobrar os acúmulos atuais do inimigo. Prioriza chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Snapshade)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Thorn Bite: Shoots a seed to deal single-target damage. Sometimes shoots 3 venomous seeds to deal small AoE damage and inflict Poison. Also creates a Poison Zone.
+Thorn Bite: Dispara uma semente que causa dano a um único alvo. Às vezes dispara 3 sementes venenosas que causam dano em uma área pequena e aplicam Veneno. Também cria uma zona de Veneno.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Thorn Bite: Shoots a seed to deal single-target damage. Sometimes shoots 3 venomous seeds to deal small AoE damage and inflict Poison. Also creates a Poison Zone.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bitter Bane:** Has a chance to apply 1 stack of Bane when inflicting Poison. Also has a chance to deal small AoE damage when applying Bane. Bane is a stackable lingering effect that deals damage continuously over time.
-- **Nível 5 — Shade Spray:** Periodically launches 5 shadows to deal single-target damage and apply 1 stack of Bane. Shadows will pierce enemies with Bane.
-- **Nível 7 — Shadow Bloom:** Summons many shadows to deal large AoE damage, inflicting 1 stack of Bane and doubling the enemy's current stacks. Prioritizes attacking bosses.
+- **Nível 3 — Bitter Bane:** Tem chance de aplicar 1 acúmulo de Bane ao aplicar Veneno. Também tem chance de causar dano em uma área pequena ao aplicar Bane. Bane é um efeito persistente e acumulável que causa dano contínuo.
+- **Nível 5 — Shade Spray:** Lança periodicamente 5 sombras para causar dano a um único alvo e aplicar 1 acúmulo de Bane. As sombras atravessam inimigos com Bane.
+- **Nível 7 — Shadow Bloom:** Invoca muitas sombras para causar dano em uma área grande, aplicar 1 acúmulo de Bane e dobrar os acúmulos atuais do inimigo. Prioriza chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Thornwisp)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Chomp Menace: Shoots a seed to deal single-target damage. Sometimes shoots 3 venomous seeds to deal small AoE damage and inflict Poison. Also creates a Poison Zone. Chomperwraith carries Aura: Grass whenever on the field.
+Chomp Menace: Dispara uma semente que causa dano a um único alvo. Às vezes dispara 3 sementes venenosas que causam dano em uma área pequena e aplicam Veneno. Também cria uma zona de Veneno. Chomperwraith possui Aura: Grass enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Chomp Menace: Shoots a seed to deal single-target damage. Sometimes shoots 3 venomous seeds to deal small AoE damage and inflict Poison. Also creates a Poison Zone. Chomperwraith carries Aura: Grass whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bitter Bane:** Has a chance to apply 1 stack of Bane when inflicting Poison. Also has a chance to deal small AoE damage when applying Bane. Bane is a stackable lingering effect that deals damage continuously over time.
-- **Nível 5 — Shade Spray:** Periodically launches 5 shadows to deal single-target damage and apply 1 stack of Bane. Shadows will pierce enemies with Bane.
-- **Nível 7 — Shadow Bloom:** Summons many shadows to deal large AoE damage, inflicting 1 stack of Bane and doubling the enemy's current stacks. Prioritizes attacking bosses.
+- **Nível 3 — Bitter Bane:** Tem chance de aplicar 1 acúmulo de Bane ao aplicar Veneno. Também tem chance de causar dano em uma área pequena ao aplicar Bane. Bane é um efeito persistente e acumulável que causa dano contínuo.
+- **Nível 5 — Shade Spray:** Lança periodicamente 5 sombras para causar dano a um único alvo e aplicar 1 acúmulo de Bane. As sombras atravessam inimigos com Bane.
+- **Nível 7 — Shadow Bloom:** Invoca muitas sombras para causar dano em uma área grande, aplicar 1 acúmulo de Bane e dobrar os acúmulos atuais do inimigo. Prioriza chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Chomperwraith)
 
@@ -94,6 +102,9 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).
+
+!!! info "Disponibilidade a confirmar"
+    O projeto de origem identificava o T4 desta família como ainda não lançado em sua documentação. Sua presença no cadastro histórico não confirma disponibilidade na versão atual.

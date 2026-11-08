@@ -6,7 +6,7 @@
 [Cindermunk · T1](#cindermunk) → [Embertail · T2](#embertail)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Cindermunk · T1 {#cindermunk}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Pinecone Mine: Plants a Pinecone Mine that deals limited AoE damage when triggered.
+Pinecone Mine: Planta uma mina de pinha que causa dano em uma área limitada ao ser ativada.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Pinecone Mine: Plants a Pinecone Mine that deals limited AoE damage when triggered.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pinecone Bomb:** Attacks have a chance to fire an extra Pinecone Bomb, dealing limited-range AoE damage with a chance to inflict Stun.
-- **Nível 5 — Fluff Ranger:** Periodically summons Cindermunk to plant mines on the battlefield, which deal limited AoE damage when triggered.
-- **Nível 7 — Hold Steady:** Plants a minefield that deal wide-range AoE damage after a short delay.
+- **Nível 3 — Pinecone Bomb:** Os ataques têm chance de disparar uma Pinecone Bomb extra, causando dano em uma área limitada e podendo aplicar Atordoamento.
+- **Nível 5 — Fluff Ranger:** Invoca periodicamente Cindermunk para plantar minas no campo, que causam dano em uma área limitada ao serem ativadas.
+- **Nível 7 — Hold Steady:** Planta um campo minado que causa dano em uma área ampla após um breve intervalo.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Cindermunk)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Twincone Mine: Plants a pinecone mine that deals small AoE damage when triggered. Plants a few extra mines at first.
+Twincone Mine: Planta uma mina de pinha que causa dano em uma área pequena ao ser ativada. Planta algumas minas extras no início.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Twincone Mine: Plants a pinecone mine that deals small AoE damage when triggered. Plants a few extra mines at first.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pinecone Bomb:** Attacks have a chance to fire an extra Pinecone Bomb, dealing limited-range AoE damage with a chance to inflict Stun.
-- **Nível 5 — Fluff Ranger:** Periodically summons Cindermunk to plant mines on the battlefield, which deal limited AoE damage when triggered.
-- **Nível 7 — Hold Steady:** Plants a minefield that deal wide-range AoE damage after a short delay.
+- **Nível 3 — Pinecone Bomb:** Os ataques têm chance de disparar uma Pinecone Bomb extra, causando dano em uma área limitada e podendo aplicar Atordoamento.
+- **Nível 5 — Fluff Ranger:** Invoca periodicamente Cindermunk para plantar minas no campo, que causam dano em uma área limitada ao serem ativadas.
+- **Nível 7 — Hold Steady:** Planta um campo minado que causa dano em uma área ampla após um breve intervalo.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Embertail)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

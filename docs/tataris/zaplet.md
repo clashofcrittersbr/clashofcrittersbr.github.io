@@ -6,7 +6,7 @@
 [Zaplet · T1](#zaplet) → [Synthhog · T2](#synthhog) → [Sonarbat · T3](#sonarbat) → [Umbraveil · T4](#umbraveil)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Zaplet · T1 {#zaplet}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Echo Electro: Inflicts Scouted on enemies over a wide area. When Scouted expires, affected enemies take damage.
+Echo Electro: Aplica Scouted aos inimigos em uma área ampla. Quando Scouted termina, os inimigos afetados sofrem dano.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Echo Electro: Inflicts Scouted on enemies over a wide area. When Scouted expires, affected enemies take damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Resonant Echoes:** Grants Small DMG Boost to your own Tatari allies an Large DMG Boost to those of your teammate.
-- **Nível 5 — Bat Swarm:** Summons a swarm of bats that deal large AoE damage ahead while healing allies in range.
-- **Nível 7 — Radar Rage:** Locks onto multiple locations to continuously deal small AoE damage. Prioritizes boss locations.
+- **Nível 3 — Resonant Echoes:** Concede um pequeno Aumento de Dano aos seus Tataris aliados e um grande Aumento de Dano aos Tataris do seu companheiro de equipe.
+- **Nível 5 — Bat Swarm:** Invoca um enxame de morcegos que causa dano em uma área grande à frente enquanto cura aliados dentro do alcance.
+- **Nível 7 — Radar Rage:** Mira em vários locais para causar dano contínuo em uma área pequena. Prioriza as posições dos chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Zaplet)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Wave Rave: Inflicts Scouted and Bat: Fragile on enemies over a wide area. When Scouted expires, affected enemies take damage.
+Wave Rave: Aplica Scouted e Bat: Fragile aos inimigos em uma área ampla. Quando Scouted termina, os inimigos afetados sofrem dano.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Wave Rave: Inflicts Scouted and Bat: Fragile on enemies over a wide area. When Scouted expires, affected enemies take damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Resonant Echoes:** Grants Small DMG Boost to your own Tatari allies an Large DMG Boost to those of your teammate.
-- **Nível 5 — Bat Swarm:** Summons a swarm of bats that deal large AoE damage ahead while healing allies in range.
-- **Nível 7 — Radar Rage:** Locks onto multiple locations to continuously deal small AoE damage. Prioritizes boss locations.
+- **Nível 3 — Resonant Echoes:** Concede um pequeno Aumento de Dano aos seus Tataris aliados e um grande Aumento de Dano aos Tataris do seu companheiro de equipe.
+- **Nível 5 — Bat Swarm:** Invoca um enxame de morcegos que causa dano em uma área grande à frente enquanto cura aliados dentro do alcance.
+- **Nível 7 — Radar Rage:** Mira em vários locais para causar dano contínuo em uma área pequena. Prioriza as posições dos chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Synthhog)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Sonar Power: Inflicts Perfectly Scouted and Bat: Fragile on enemies over a wide area. When Perfectly Scouted expires, affected enemies take damage.
+Sonar Power: Aplica Perfectly Scouted e Bat: Fragile aos inimigos em uma área ampla. Quando Perfectly Scouted termina, os inimigos afetados sofrem dano.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Sonar Power: Inflicts Perfectly Scouted and Bat: Fragile on enemies over a wide area. When Perfectly Scouted expires, affected enemies take damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Resonant Echoes:** Grants Small DMG Boost to your own Tatari allies an Large DMG Boost to those of your teammate.
-- **Nível 5 — Bat Swarm:** Summons a swarm of bats that deal large AoE damage ahead while healing allies in range.
-- **Nível 7 — Radar Rage:** Locks onto multiple locations to continuously deal small AoE damage. Prioritizes boss locations.
+- **Nível 3 — Resonant Echoes:** Concede um pequeno Aumento de Dano aos seus Tataris aliados e um grande Aumento de Dano aos Tataris do seu companheiro de equipe.
+- **Nível 5 — Bat Swarm:** Invoca um enxame de morcegos que causa dano em uma área grande à frente enquanto cura aliados dentro do alcance.
+- **Nível 7 — Radar Rage:** Mira em vários locais para causar dano contínuo em uma área pequena. Prioriza as posições dos chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Sonarbat)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Umbra Unleashed: Inflicts Perfectly Scouted and Bat: Fragile on enemies over a wide area. When Perfectly Scouted expires, affected enemies take damage. Umbraveil carries Aura: Lightning whenever on the field.
+Umbra Unleashed: Aplica Perfectly Scouted e Bat: Fragile aos inimigos em uma área ampla. Quando Perfectly Scouted termina, os inimigos afetados sofrem dano. Umbraveil possui Aura: Lightning enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Umbra Unleashed: Inflicts Perfectly Scouted and Bat: Fragile on enemies over a wide area. When Perfectly Scouted expires, affected enemies take damage. Umbraveil carries Aura: Lightning whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Resonant Echoes:** Grants Small DMG Boost to your own Tatari allies an Large DMG Boost to those of your teammate.
-- **Nível 5 — Bat Swarm:** Summons a swarm of bats that deal large AoE damage ahead while healing allies in range.
-- **Nível 7 — Radar Rage:** Locks onto multiple locations to continuously deal small AoE damage. Prioritizes boss locations.
+- **Nível 3 — Resonant Echoes:** Concede um pequeno Aumento de Dano aos seus Tataris aliados e um grande Aumento de Dano aos Tataris do seu companheiro de equipe.
+- **Nível 5 — Bat Swarm:** Invoca um enxame de morcegos que causa dano em uma área grande à frente enquanto cura aliados dentro do alcance.
+- **Nível 7 — Radar Rage:** Mira em vários locais para causar dano contínuo em uma área pequena. Prioriza as posições dos chefes.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Umbraveil)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

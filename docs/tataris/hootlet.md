@@ -6,7 +6,7 @@
 [Hootlet · T1](#hootlet) → [Tikowl · T2](#tikowl) → [Chronerva · T3](#chronerva) → [Hypnostrix · T4](#hypnostrix)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Hootlet · T1 {#hootlet}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Dawn Call: Creates an AoE terrain in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown.
+Dawn Call: Cria um terreno com efeito em área à frente. Inimigos no terreno sofrem dano e recebem Slowdown acumulável.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dawn Call: Creates an AoE terrain in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Timed Therapy:** Periodically heals nearby allies, with heal frequency occasionally increased.
-- **Nível 5 — Winged Rewind:** Periodically records the positions of enemies in range. After a period of time, moves enemies to their recorded positions.
-- **Nível 7 — Circle of Life:** Summons owl allies whose tiers do not exceed this Tatari's own. Summoned allies move across the battlefield and continuosly deal AoE damage.
+- **Nível 3 — Timed Therapy:** Cura aliados próximos periodicamente; às vezes a frequência de cura aumenta.
+- **Nível 5 — Winged Rewind:** Registra periodicamente as posições dos inimigos dentro do alcance. Após um tempo, move-os de volta às posições registradas.
+- **Nível 7 — Circle of Life:** Invoca corujas aliadas cujos graus não excedem o deste Tatari. As invocações percorrem o campo e causam dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Hootlet)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Evertide Echo: Creates an AoE terrain in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown. Slowdown can be upgraded to Stun.
+Evertide Echo: Cria um terreno com efeito em área à frente. Inimigos no terreno sofrem dano e recebem Slowdown acumulável. Slowdown pode evoluir para Atordoamento.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Evertide Echo: Creates an AoE terrain in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown. Slowdown can be upgraded to Stun.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Timed Therapy:** Periodically heals nearby allies, with heal frequency occasionally increased.
-- **Nível 5 — Winged Rewind:** Periodically records the positions of enemies in range. After a period of time, moves enemies to their recorded positions.
-- **Nível 7 — Circle of Life:** Summons owl allies whose tiers do not exceed this Tatari's own. Summoned allies move across the battlefield and continuosly deal AoE damage.
+- **Nível 3 — Timed Therapy:** Cura aliados próximos periodicamente; às vezes a frequência de cura aumenta.
+- **Nível 5 — Winged Rewind:** Registra periodicamente as posições dos inimigos dentro do alcance. Após um tempo, move-os de volta às posições registradas.
+- **Nível 7 — Circle of Life:** Invoca corujas aliadas cujos graus não excedem o deste Tatari. As invocações percorrem o campo e causam dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Tikowl)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Midnight Chime: Creates a large terrain AoE in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown. Slowdown can be upgraded to Stun.
+Midnight Chime: Cria um terreno grande com efeito em área à frente. Inimigos no terreno sofrem dano e recebem Slowdown acumulável. Slowdown pode evoluir para Atordoamento.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Midnight Chime: Creates a large terrain AoE in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown. Slowdown can be upgraded to Stun.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Timed Therapy:** Periodically heals nearby allies, with heal frequency occasionally increased.
-- **Nível 5 — Winged Rewind:** Periodically records the positions of enemies in range. After a period of time, moves enemies to their recorded positions.
-- **Nível 7 — Circle of Life:** Summons owl allies whose tiers do not exceed this Tatari's own. Summoned allies move across the battlefield and continuosly deal AoE damage.
+- **Nível 3 — Timed Therapy:** Cura aliados próximos periodicamente; às vezes a frequência de cura aumenta.
+- **Nível 5 — Winged Rewind:** Registra periodicamente as posições dos inimigos dentro do alcance. Após um tempo, move-os de volta às posições registradas.
+- **Nível 7 — Circle of Life:** Invoca corujas aliadas cujos graus não excedem o deste Tatari. As invocações percorrem o campo e causam dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Chronerva)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Dies Naturalis: Creates a large AoE terrain in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown. Slowdown can be upgraded to Stun. Hypnostrix carries Aura: Grass whenever on the field.
+Dies Naturalis: Cria um terreno grande com efeito em área à frente. Inimigos no terreno sofrem dano e recebem Slowdown acumulável. Slowdown pode evoluir para Atordoamento. Hypnostrix possui Aura: Grass enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dies Naturalis: Creates a large AoE terrain in front. Enemies in the terrain take damage and are inflicted with stackable Slowdown. Slowdown can be upgraded to Stun. Hypnostrix carries Aura: Grass whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Timed Therapy:** Periodically heals nearby allies, with heal frequency occasionally increased.
-- **Nível 5 — Winged Rewind:** Periodically records the positions of enemies in range. After a period of time, moves enemies to their recorded positions.
-- **Nível 7 — Circle of Life:** Summons owl allies whose tiers do not exceed this Tatari's own. Summoned allies move across the battlefield and continuosly deal AoE damage.
+- **Nível 3 — Timed Therapy:** Cura aliados próximos periodicamente; às vezes a frequência de cura aumenta.
+- **Nível 5 — Winged Rewind:** Registra periodicamente as posições dos inimigos dentro do alcance. Após um tempo, move-os de volta às posições registradas.
+- **Nível 7 — Circle of Life:** Invoca corujas aliadas cujos graus não excedem o deste Tatari. As invocações percorrem o campo e causam dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Hypnostrix)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

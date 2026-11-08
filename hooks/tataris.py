@@ -37,7 +37,7 @@ def on_page_markdown(markdown, *, page, config, files, **kwargs):
 <label>Buscar Tatari<input id="tc-search" type="search" placeholder="Nome da forma ou linhagem" autocomplete="off"></label>
 <label>Elemento<select id="tc-element"><option value="">Todos os elementos</option>{options(['Água','Fogo','Planta','Pedra','Elétrico'])}</select></label>
 <label>Grau<select id="tc-tier"><option value="">Todos os graus</option>{options(sorted(set(r['tier'] for r in records.values())))}</select></label>
-<label>Uso na tier list<select id="tc-use"><option value="">Todos os usos</option>{options(['Frente','Dano','Cura','Suporte'])}</select></label>
+<label>Papel na equipe<select id="tc-use"><option value="">Todos os usos</option>{options(['Frente','Dano','Cura','Suporte'])}</select></label>
 <button type="button" id="tc-clear">Limpar filtros</button></div>'''
         cards = []
         for r in records.values():

@@ -6,7 +6,7 @@
 [Droppit · T1](#droppit) → [Bubbit · T2](#bubbit) → [Tideon · T3](#tideon) → [Haplysia · T4](#haplysia)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Droppit · T1 {#droppit}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Cloud Mist: Releases a mist that continuously deals AoE damage and inflicts Slow.
+Cloud Mist: Libera uma névoa que causa dano contínuo em área e aplica Lentidão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Cloud Mist: Releases a mist that continuously deals AoE damage and inflicts Slow.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Sleep Mist:** Emits a sleep-inducing mist, dealing small AoE damage with a chance to inflict Sleep.
-- **Nível 5 — Boom Mist:** When dealing damage, has a chance to generate an explosive mist around the target that deals small AoE damage.
-- **Nível 7 — Sea Fog:** Summons sea fog, inflicting Super Fragile on all enemies.
+- **Nível 3 — Sleep Mist:** Emite uma névoa sonífera, causando dano em uma área pequena com chance de aplicar Sono.
+- **Nível 5 — Boom Mist:** Ao causar dano, tem chance de gerar uma névoa explosiva ao redor do alvo, causando dano em uma área pequena.
+- **Nível 7 — Sea Fog:** Invoca neblina marinha, aplicando Super Fragile a todos os inimigos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Droppit)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Fog Sap: Releases a thick mist that continuously deals AoE damage while inflicting Slow and Fragile.
+Fog Sap: Libera uma névoa espessa que causa dano contínuo em área e aplica Lentidão e Fragilidade.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fog Sap: Releases a thick mist that continuously deals AoE damage while inflicting Slow and Fragile.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Sleep Mist:** Emits a sleep-inducing mist, dealing small AoE damage with a chance to inflict Sleep.
-- **Nível 5 — Boom Mist:** When dealing damage, has a chance to generate an explosive mist around the target that deals small AoE damage.
-- **Nível 7 — Sea Fog:** Summons sea fog, inflicting Super Fragile on all enemies.
+- **Nível 3 — Sleep Mist:** Emite uma névoa sonífera, causando dano em uma área pequena com chance de aplicar Sono.
+- **Nível 5 — Boom Mist:** Ao causar dano, tem chance de gerar uma névoa explosiva ao redor do alvo, causando dano em uma área pequena.
+- **Nível 7 — Sea Fog:** Invoca neblina marinha, aplicando Super Fragile a todos os inimigos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Bubbit)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Haze Hex: Releases a thick mist that continuously deals large AoE while inflicting Slow and Fragile.
+Haze Hex: Libera uma névoa espessa que causa dano contínuo em uma área grande e aplica Lentidão e Fragilidade.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Haze Hex: Releases a thick mist that continuously deals large AoE while inflicting Slow and Fragile.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Sleep Mist:** Emits a sleep-inducing mist, dealing small AoE damage with a chance to inflict Sleep.
-- **Nível 5 — Boom Mist:** When dealing damage, has a chance to generate an explosive mist around the target that deals small AoE damage.
-- **Nível 7 — Sea Fog:** Summons sea fog, inflicting Super Fragile on all enemies.
+- **Nível 3 — Sleep Mist:** Emite uma névoa sonífera, causando dano em uma área pequena com chance de aplicar Sono.
+- **Nível 5 — Boom Mist:** Ao causar dano, tem chance de gerar uma névoa explosiva ao redor do alvo, causando dano em uma área pequena.
+- **Nível 7 — Sea Fog:** Invoca neblina marinha, aplicando Super Fragile a todos os inimigos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Tideon)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Fragility Cloud: Unleashes a cloud that continuously deals AoE damage and inflicts Slow and Fragile. Haplysia carries Aura: Water whenever on the field.
+Fragility Cloud: Libera uma nuvem que causa dano contínuo em área e aplica Lentidão e Fragilidade. Haplysia possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fragility Cloud: Unleashes a cloud that continuously deals AoE damage and inflicts Slow and Fragile. Haplysia carries Aura: Water whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Sleep Mist:** Emits a sleep-inducing mist, dealing small AoE damage with a chance to inflict Sleep.
-- **Nível 5 — Boom Mist:** When dealing damage, has a chance to generate an explosive mist around the target that deals small AoE damage.
-- **Nível 7 — Sea Fog:** Summons sea fog, inflicting Super Fragile on all enemies.
+- **Nível 3 — Sleep Mist:** Emite uma névoa sonífera, causando dano em uma área pequena com chance de aplicar Sono.
+- **Nível 5 — Boom Mist:** Ao causar dano, tem chance de gerar uma névoa explosiva ao redor do alvo, causando dano em uma área pequena.
+- **Nível 7 — Sea Fog:** Invoca neblina marinha, aplicando Super Fragile a todos os inimigos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Haplysia)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

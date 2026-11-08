@@ -6,7 +6,7 @@
 [Voltkit · T1](#voltkit) → [Voltling · T2](#voltling) → [Voltverine · T3](#voltverine) → [Voltreaver · T4](#voltreaver)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Voltkit · T1 {#voltkit}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Duskrush: Unleashes a shadow attack that deals AoE damage.
+Duskrush: Libera um ataque de sombras que causa dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Duskrush: Unleashes a shadow attack that deals AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Phantom Hit:** Attacks have a chance to trigger an extra shadow hit, which can continue to trigger follow-up shadow hits.
-- **Nível 5 — Target Lock:** Marks 1 enemy and deals continuous AoE damage around the target.
-- **Nível 7 — Bolt Slash:** Disappears briefly and travels across the battlefield, dealing large AoE damage.
+- **Nível 3 — Phantom Hit:** Os ataques têm chance de ativar um golpe de sombras extra, que pode continuar ativando golpes de sombras adicionais.
+- **Nível 5 — Target Lock:** Marca 1 inimigo e causa dano contínuo em área ao redor dele.
+- **Nível 7 — Bolt Slash:** Desaparece brevemente e percorre o campo, causando dano em uma área grande.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Voltkit)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Eboncharge: Unleashes a shadow attack that deals AoE damage and inflicts Paralysis.
+Eboncharge: Libera um ataque de sombras que causa dano em área e aplica Paralisia.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Eboncharge: Unleashes a shadow attack that deals AoE damage and inflicts Paralysis.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Phantom Hit:** Attacks have a chance to trigger an extra shadow hit, which can continue to trigger follow-up shadow hits.
-- **Nível 5 — Target Lock:** Marks 1 enemy and deals continuous AoE damage around the target.
-- **Nível 7 — Bolt Slash:** Disappears briefly and travels across the battlefield, dealing large AoE damage.
+- **Nível 3 — Phantom Hit:** Os ataques têm chance de ativar um golpe de sombras extra, que pode continuar ativando golpes de sombras adicionais.
+- **Nível 5 — Target Lock:** Marca 1 inimigo e causa dano contínuo em área ao redor dele.
+- **Nível 7 — Bolt Slash:** Desaparece brevemente e percorre o campo, causando dano em uma área grande.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Voltling)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Phantom Storm: Unleashes a shadow attack that deals AoE damage and inflicts Paralysis. Gains brief Invincibility when attacking.
+Phantom Storm: Libera um ataque de sombras que causa dano em área e aplica Paralisia. Recebe Invencibilidade breve ao atacar.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Phantom Storm: Unleashes a shadow attack that deals AoE damage and inflicts Paralysis. Gains brief Invincibility when attacking.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Phantom Hit:** Attacks have a chance to trigger an extra shadow hit, which can continue to trigger follow-up shadow hits.
-- **Nível 5 — Target Lock:** Marks 1 enemy and deals continuous AoE damage around the target.
-- **Nível 7 — Bolt Slash:** Disappears briefly and travels across the battlefield, dealing large AoE damage.
+- **Nível 3 — Phantom Hit:** Os ataques têm chance de ativar um golpe de sombras extra, que pode continuar ativando golpes de sombras adicionais.
+- **Nível 5 — Target Lock:** Marca 1 inimigo e causa dano contínuo em área ao redor dele.
+- **Nível 7 — Bolt Slash:** Desaparece brevemente e percorre o campo, causando dano em uma área grande.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Voltverine)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Shadow Strike: Unleashes a shadow attack that deals AoE damage and inflicts Paralysis. Gains brief Invincibility when attacking. Voltreaver carries Aura: Lightning whenever on the field.
+Shadow Strike: Libera um ataque de sombras que causa dano em área e aplica Paralisia. Recebe Invencibilidade breve ao atacar. Voltreaver possui Aura: Lightning enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Shadow Strike: Unleashes a shadow attack that deals AoE damage and inflicts Paralysis. Gains brief Invincibility when attacking. Voltreaver carries Aura: Lightning whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Phantom Hit:** Attacks have a chance to trigger an extra shadow hit, which can continue to trigger follow-up shadow hits.
-- **Nível 5 — Target Lock:** Marks 1 enemy and deals continuous AoE damage around the target.
-- **Nível 7 — Bolt Slash:** Disappears briefly and travels across the battlefield, dealing large AoE damage.
+- **Nível 3 — Phantom Hit:** Os ataques têm chance de ativar um golpe de sombras extra, que pode continuar ativando golpes de sombras adicionais.
+- **Nível 5 — Target Lock:** Marca 1 inimigo e causa dano contínuo em área ao redor dele.
+- **Nível 7 — Bolt Slash:** Desaparece brevemente e percorre o campo, causando dano em uma área grande.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Voltreaver)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

@@ -6,7 +6,7 @@
 [Dolphie · T1](#dolphie) → [Blubbles · T2](#blubbles) → [Aquariel · T3](#aquariel) → [Irisia · T4](#irisia)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Dolphie · T1 {#dolphie}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Tidal Tunes: Launches sound waves that provide healing and grant stackable Joysong: DMG Boost to allies in their path.
+Tidal Tunes: Lança ondas sonoras que curam e concedem Joysong: DMG Boost acumulável aos aliados no caminho.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Tidal Tunes: Launches sound waves that provide healing and grant stackable Joysong: DMG Boost to allies in their path.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rainbow Blessing:** Periodically summons a rainbow, granting Rainsong: HP Boost to nearby allies.
-- **Nível 5 — Bubbly Burst:** Launches piercing bubbles, dealing large AoE damage and applying stackable Bubblesong: Fragile.
-- **Nível 7 — Cascading Waves:** Unleashes ocean waves that deal AoE damage and inflict Stun, while healing allies and granting Wavesong: ATK & DEF Boost.
+- **Nível 3 — Rainbow Blessing:** Invoca periodicamente um arco-íris, concedendo Rainsong: HP Boost aos aliados próximos.
+- **Nível 5 — Bubbly Burst:** Lança bolhas perfurantes, causando dano em uma área grande e aplicando Bubblesong: Fragile acumulável.
+- **Nível 7 — Cascading Waves:** Libera ondas do oceano que causam dano em área e aplicam Atordoamento, enquanto curam aliados e concedem Wavesong: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Dolphie)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Flowing Melodies: Launches sound waves and sometimes launches larger surging waves. Allies in contact will receive healing and stackable Joysong: DMG Boost & DMG Reduction.
+Flowing Melodies: Lança ondas sonoras e às vezes ondas maiores e intensas. Aliados atingidos recebem cura e Joysong: DMG Boost & DMG Reduction acumulável.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Flowing Melodies: Launches sound waves and sometimes launches larger surging waves. Allies in contact will receive healing and stackable Joysong: DMG Boost &amp; DMG Reduction.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rainbow Blessing:** Periodically summons a rainbow, granting Rainsong: HP Boost to nearby allies.
-- **Nível 5 — Bubbly Burst:** Launches piercing bubbles, dealing large AoE damage and applying stackable Bubblesong: Fragile.
-- **Nível 7 — Cascading Waves:** Unleashes ocean waves that deal AoE damage and inflict Stun, while healing allies and granting Wavesong: ATK & DEF Boost.
+- **Nível 3 — Rainbow Blessing:** Invoca periodicamente um arco-íris, concedendo Rainsong: HP Boost aos aliados próximos.
+- **Nível 5 — Bubbly Burst:** Lança bolhas perfurantes, causando dano em uma área grande e aplicando Bubblesong: Fragile acumulável.
+- **Nível 7 — Cascading Waves:** Libera ondas do oceano que causam dano em área e aplicam Atordoamento, enquanto curam aliados e concedem Wavesong: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Blubbles)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Sweet Symphony: Launches sound waves and often launches larger surging waves. Allies in contact will receive healing and stackable Joysong: DMG Boost & DMG Reduction.
+Sweet Symphony: Lança ondas sonoras e frequentemente ondas maiores e intensas. Aliados atingidos recebem cura e Joysong: DMG Boost & DMG Reduction acumulável.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Sweet Symphony: Launches sound waves and often launches larger surging waves. Allies in contact will receive healing and stackable Joysong: DMG Boost &amp; DMG Reduction.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rainbow Blessing:** Periodically summons a rainbow, granting Rainsong: HP Boost to nearby allies.
-- **Nível 5 — Bubbly Burst:** Launches piercing bubbles, dealing large AoE damage and applying stackable Bubblesong: Fragile.
-- **Nível 7 — Cascading Waves:** Unleashes ocean waves that deal AoE damage and inflict Stun, while healing allies and granting Wavesong: ATK & DEF Boost.
+- **Nível 3 — Rainbow Blessing:** Invoca periodicamente um arco-íris, concedendo Rainsong: HP Boost aos aliados próximos.
+- **Nível 5 — Bubbly Burst:** Lança bolhas perfurantes, causando dano em uma área grande e aplicando Bubblesong: Fragile acumulável.
+- **Nível 7 — Cascading Waves:** Libera ondas do oceano que causam dano em área e aplicam Atordoamento, enquanto curam aliados e concedem Wavesong: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Aquariel)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Endless Echo: Launches sound waves and often launches larger surging waves. Allies in contact will receive healing and stackable Joysong: DMG Boost & DMG Reduction. Irisia carries Aura: Water whenever on field.
+Endless Echo: Lança ondas sonoras e frequentemente ondas maiores e intensas. Aliados atingidos recebem cura e Joysong: DMG Boost & DMG Reduction acumulável. Irisia possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Endless Echo: Launches sound waves and often launches larger surging waves. Allies in contact will receive healing and stackable Joysong: DMG Boost &amp; DMG Reduction. Irisia carries Aura: Water whenever on field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Rainbow Blessing:** Periodically summons a rainbow, granting Rainsong: HP Boost to nearby allies.
-- **Nível 5 — Bubbly Burst:** Launches piercing bubbles, dealing large AoE damage and applying stackable Bubblesong: Fragile.
-- **Nível 7 — Cascading Waves:** Unleashes ocean waves that deal AoE damage and inflict Stun, while healing allies and granting Wavesong: ATK & DEF Boost.
+- **Nível 3 — Rainbow Blessing:** Invoca periodicamente um arco-íris, concedendo Rainsong: HP Boost aos aliados próximos.
+- **Nível 5 — Bubbly Burst:** Lança bolhas perfurantes, causando dano em uma área grande e aplicando Bubblesong: Fragile acumulável.
+- **Nível 7 — Cascading Waves:** Libera ondas do oceano que causam dano em área e aplicam Atordoamento, enquanto curam aliados e concedem Wavesong: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Irisia)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

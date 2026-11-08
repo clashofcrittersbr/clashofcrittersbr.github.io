@@ -6,7 +6,7 @@
 [Wobbler · T1](#wobbler) → [Boltskipper · T2](#boltskipper)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Wobbler · T1 {#wobbler}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Bolt Orb: Fires an electric orb.
+Bolt Orb: Dispara uma esfera elétrica.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bolt Orb: Fires an electric orb.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Critical Orb:** Attacks have a chance to fire extra piercing Bolt Orbs, which sometimes explode to deal limited AoE damage.
-- **Nível 5 — Recharge:** After using the same skill 2 times, its cooldown is refreshed.
-- **Nível 7 — Electric Net:** Launches an electric net, dealing DoT damage in an area with a chance to inflict Bind.
+- **Nível 3 — Critical Orb:** Os ataques têm chance de disparar Bolt Orbs perfurantes extras, que às vezes explodem e causam dano em uma área limitada.
+- **Nível 5 — Recharge:** Após usar a mesma habilidade 2 vezes, sua recarga é reiniciada.
+- **Nível 7 — Electric Net:** Lança uma rede elétrica, causando dano contínuo em área com chance de aplicar Imobilização.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Wobbler)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Volt Snare: Fires an electric orb that inflicts Bind.
+Volt Snare: Dispara uma esfera elétrica que aplica Imobilização.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Volt Snare: Fires an electric orb that inflicts Bind.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Critical Orb:** Attacks have a chance to fire extra piercing Bolt Orbs, which sometimes explode to deal limited AoE damage.
-- **Nível 5 — Recharge:** After using the same skill 2 times, its cooldown is refreshed.
-- **Nível 7 — Electric Net:** Launches an electric net, dealing DoT damage in an area with a chance to inflict Bind.
+- **Nível 3 — Critical Orb:** Os ataques têm chance de disparar Bolt Orbs perfurantes extras, que às vezes explodem e causam dano em uma área limitada.
+- **Nível 5 — Recharge:** Após usar a mesma habilidade 2 vezes, sua recarga é reiniciada.
+- **Nível 7 — Electric Net:** Lança uma rede elétrica, causando dano contínuo em área com chance de aplicar Imobilização.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Boltskipper)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

@@ -6,7 +6,7 @@
 [Mudrump · T1](#mudrump) → [Rockhog · T2](#rockhog)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Mudrump · T1 {#mudrump}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Dirt Dab: Shoots a ball of mud.
+Dirt Dab: Dispara uma bola de lama.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dirt Dab: Shoots a ball of mud.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Dried Mud:** Attacks have a chance to shoot an extra large mud ball that pierces enemies.
-- **Nível 5 — Mud Madness:** When enemies are nearby, attacks have a chance to shoot an extra mud ball.
-- **Nível 7 — Mud Fest:** Continuously shoots mud balls, sweeping across a fan-shaped area to the front.
+- **Nível 3 — Dried Mud:** Os ataques têm chance de disparar uma bola de lama grande extra que atravessa inimigos.
+- **Nível 5 — Mud Madness:** Quando há inimigos por perto, os ataques têm chance de disparar uma bola de lama extra.
+- **Nível 7 — Mud Fest:** Dispara bolas de lama continuamente, varrendo uma área em leque à frente.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Mudrump)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Bog Blob: Rapidly shoots a ball of mud that inflicts Slow.
+Bog Blob: Dispara rapidamente uma bola de lama que aplica Lentidão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bog Blob: Rapidly shoots a ball of mud that inflicts Slow.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Dried Mud:** Attacks have a chance to shoot an extra large mud ball that pierces enemies.
-- **Nível 5 — Mud Madness:** When enemies are nearby, attacks have a chance to shoot an extra mud ball.
-- **Nível 7 — Mud Fest:** Continuously shoots mud balls, sweeping across a fan-shaped area to the front.
+- **Nível 3 — Dried Mud:** Os ataques têm chance de disparar uma bola de lama grande extra que atravessa inimigos.
+- **Nível 5 — Mud Madness:** Quando há inimigos por perto, os ataques têm chance de disparar uma bola de lama extra.
+- **Nível 7 — Mud Fest:** Dispara bolas de lama continuamente, varrendo uma área em leque à frente.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Rockhog)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

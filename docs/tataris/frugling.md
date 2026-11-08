@@ -6,7 +6,7 @@
 [Frugling · T1](#frugling) → [Frugatoad · T2](#frugatoad) → [Frugagon · T3](#frugagon) → [Frugantuan · T4](#frugantuan)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Frugling · T1 {#frugling}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Puffruit Pop: Launches a prickly pink fruit that occasionally explodes, dealing AoE damage.
+Puffruit Pop: Lança uma fruta rosa espinhosa que explode ocasionalmente, causando dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Puffruit Pop: Launches a prickly pink fruit that occasionally explodes, dealing AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bomb Chain:** Attacks have a chance to fire an extra exploding fruit that deals AoE damage.
-- **Nível 5 — Quick Slice:** Attacks have a chance to fire extra regular fruits, which continuously deals large AoE damage on hit.
-- **Nível 7 — Fruit Rain:** Rains down a torrent of fruits toward the front, dealing AoE damage.
+- **Nível 3 — Bomb Chain:** Os ataques têm chance de disparar uma fruta explosiva extra que causa dano em área.
+- **Nível 5 — Quick Slice:** Os ataques têm chance de disparar frutas normais extras, que causam dano contínuo em uma área grande ao atingir o alvo.
+- **Nível 7 — Fruit Rain:** Faz chover uma torrente de frutas à frente, causando dano em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Frugling)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Barb Blast: Launches a prickly pink fruit that sometimes explodes, dealing AoE damage.
+Barb Blast: Lança uma fruta rosa espinhosa que às vezes explode, causando dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Barb Blast: Launches a prickly pink fruit that sometimes explodes, dealing AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bomb Chain:** Attacks have a chance to fire an extra exploding fruit that deals AoE damage.
-- **Nível 5 — Quick Slice:** Attacks have a chance to fire extra regular fruits, which continuously deals large AoE damage on hit.
-- **Nível 7 — Fruit Rain:** Rains down a torrent of fruits toward the front, dealing AoE damage.
+- **Nível 3 — Bomb Chain:** Os ataques têm chance de disparar uma fruta explosiva extra que causa dano em área.
+- **Nível 5 — Quick Slice:** Os ataques têm chance de disparar frutas normais extras, que causam dano contínuo em uma área grande ao atingir o alvo.
+- **Nível 7 — Fruit Rain:** Faz chover uma torrente de frutas à frente, causando dano em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Frugatoad)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Bramble Bomb: Launches a prickly pink fruit that explodes often, dealing AoE damage and inflicting Slow.
+Bramble Bomb: Lança uma fruta rosa espinhosa que explode com frequência, causando dano em área e aplicando Lentidão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bramble Bomb: Launches a prickly pink fruit that explodes often, dealing AoE damage and inflicting Slow.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bomb Chain:** Attacks have a chance to fire an extra exploding fruit that deals AoE damage.
-- **Nível 5 — Quick Slice:** Attacks have a chance to fire extra regular fruits, which continuously deals large AoE damage on hit.
-- **Nível 7 — Fruit Rain:** Rains down a torrent of fruits toward the front, dealing AoE damage.
+- **Nível 3 — Bomb Chain:** Os ataques têm chance de disparar uma fruta explosiva extra que causa dano em área.
+- **Nível 5 — Quick Slice:** Os ataques têm chance de disparar frutas normais extras, que causam dano contínuo em uma área grande ao atingir o alvo.
+- **Nível 7 — Fruit Rain:** Faz chover uma torrente de frutas à frente, causando dano em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Frugagon)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Bramble Pop: Launches a prickly pink fruit that often explodes, dealing AoE damage and inflicting Slow. Grants Aura: Grass, increasing max HP for all allies.
+Bramble Pop: Lança uma fruta rosa espinhosa que explode com frequência, causando dano em área e aplicando Lentidão. Concede Aura: Grass, aumentando o HP máximo de todos os aliados.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bramble Pop: Launches a prickly pink fruit that often explodes, dealing AoE damage and inflicting Slow. Grants Aura: Grass, increasing max HP for all allies.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bomb Chain:** Attacks have a chance to fire an extra exploding fruit that deals AoE damage.
-- **Nível 5 — Quick Slice:** Attacks have a chance to fire extra regular fruits, which continuously deals large AoE damage on hit.
-- **Nível 7 — Fruit Rain:** Rains down a torrent of fruits toward the front, dealing AoE damage.
+- **Nível 3 — Bomb Chain:** Os ataques têm chance de disparar uma fruta explosiva extra que causa dano em área.
+- **Nível 5 — Quick Slice:** Os ataques têm chance de disparar frutas normais extras, que causam dano contínuo em uma área grande ao atingir o alvo.
+- **Nível 7 — Fruit Rain:** Faz chover uma torrente de frutas à frente, causando dano em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Frugantuan)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

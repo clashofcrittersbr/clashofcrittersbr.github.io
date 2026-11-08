@@ -6,7 +6,7 @@
 [Shellshy · T1](#shellshy) → [Boldclaw · T2](#boldclaw)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Shellshy · T1 {#shellshy}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Bubble Wave: Fires a wave of bubbles that deal AoE damage.
+Bubble Wave: Dispara uma onda de bolhas que causa dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bubble Wave: Fires a wave of bubbles that deal AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bubble Line:** Attacks have a chance to fire and extra Bubble Wave, dealing AoE damage.
-- **Nível 5 — Bubble Shield:** Periodically heals itself. Surplus healing is converted into a Shield.
-- **Nível 7 — Super Bubble:** Launches super bubbles, dealing wide-range AoE damage and inflicting Slow.
+- **Nível 3 — Bubble Line:** Os ataques têm chance de disparar uma Bubble Wave extra, causando dano em área.
+- **Nível 5 — Bubble Shield:** Cura a si mesmo periodicamente. A cura excedente se transforma em Escudo.
+- **Nível 7 — Super Bubble:** Lança superbolhas, causando dano em uma área ampla e aplicando Lentidão.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Shellshy)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Bubble Blast: Fires a powerful wave of bubbles, dealing AoE damage and inflicting Slow.
+Bubble Blast: Dispara uma onda poderosa de bolhas, causando dano em área e aplicando Lentidão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bubble Blast: Fires a powerful wave of bubbles, dealing AoE damage and inflicting Slow.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Bubble Line:** Attacks have a chance to fire and extra Bubble Wave, dealing AoE damage.
-- **Nível 5 — Bubble Shield:** Periodically heals itself. Surplus healing is converted into a Shield.
-- **Nível 7 — Super Bubble:** Launches super bubbles, dealing wide-range AoE damage and inflicting Slow.
+- **Nível 3 — Bubble Line:** Os ataques têm chance de disparar uma Bubble Wave extra, causando dano em área.
+- **Nível 5 — Bubble Shield:** Cura a si mesmo periodicamente. A cura excedente se transforma em Escudo.
+- **Nível 7 — Super Bubble:** Lança superbolhas, causando dano em uma área ampla e aplicando Lentidão.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Boldclaw)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

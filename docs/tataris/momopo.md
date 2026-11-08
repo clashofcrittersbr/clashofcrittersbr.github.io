@@ -6,7 +6,7 @@
 [Momopo · T1](#momopo) → [Lulupo · T2](#lulupo) → [Lilypo · T3](#lilypo) → [Gemmapo · T4](#gemmapo)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Momopo · T1 {#momopo}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Momo's Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, pauses attacks to recover HP.
+Momo's Kiss: Envia um beijo (não uma mordida) para causar dano em área e causa mais dano a inimigos com Frail. Após matar um inimigo, interrompe os ataques para recuperar HP.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Momo&#x27;s Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, pauses attacks to recover HP.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pounding Hearts:** Periodically launches hearts that deal 1 damage to the target and inflict stun, while also dealing damage to nearby enemies
-- **Nível 5 — Pink Protection:** Periodically grants nearby allies a Strike Shield that prevents several counts of damage. The prevented damage count increases as this Tatari evolves.
-- **Nível 7 — Lovely Barrier:** Generates a lovely barrier that intercepts enemy projectiles. Intercept count increases as this Tatari evolves.
+- **Nível 3 — Pounding Hearts:** Lança corações periodicamente que causam 1 de dano ao alvo e aplicam Atordoamento, além de causar dano aos inimigos próximos.
+- **Nível 5 — Pink Protection:** Concede periodicamente Strike Shield aos aliados próximos, bloqueando algumas ocorrências de dano. A quantidade bloqueada aumenta conforme este Tatari evolui.
+- **Nível 7 — Lovely Barrier:** Cria uma barreira amorosa que intercepta projéteis inimigos. A quantidade de interceptações aumenta conforme este Tatari evolui.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Momopo)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Lulu's Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, gains a Pink Shield and pauses attacks to recover HP.
+Lulu's Kiss: Envia um beijo (não uma mordida) para causar dano em área e causa mais dano a inimigos com Frail. Após matar um inimigo, recebe um Pink Shield e interrompe os ataques para recuperar HP.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Lulu&#x27;s Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, gains a Pink Shield and pauses attacks to recover HP.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pounding Hearts:** Periodically launches hearts that deal 1 damage to the target and inflict stun, while also dealing damage to nearby enemies
-- **Nível 5 — Pink Protection:** Periodically grants nearby allies a Strike Shield that prevents several counts of damage. The prevented damage count increases as this Tatari evolves.
-- **Nível 7 — Lovely Barrier:** Generates a lovely barrier that intercepts enemy projectiles. Intercept count increases as this Tatari evolves.
+- **Nível 3 — Pounding Hearts:** Lança corações periodicamente que causam 1 de dano ao alvo e aplicam Atordoamento, além de causar dano aos inimigos próximos.
+- **Nível 5 — Pink Protection:** Concede periodicamente Strike Shield aos aliados próximos, bloqueando algumas ocorrências de dano. A quantidade bloqueada aumenta conforme este Tatari evolui.
+- **Nível 7 — Lovely Barrier:** Cria uma barreira amorosa que intercepta projéteis inimigos. A quantidade de interceptações aumenta conforme este Tatari evolui.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Lulupo)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Lily's Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, gains a Pink Shield and pauses attacks to recover HP. The Pink Shield deals AoE damage when it disappears.
+Lily's Kiss: Envia um beijo (não uma mordida) para causar dano em área e causa mais dano a inimigos com Frail. Após matar um inimigo, recebe um Pink Shield e interrompe os ataques para recuperar HP. O Pink Shield causa dano em área ao desaparecer.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Lily&#x27;s Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, gains a Pink Shield and pauses attacks to recover HP. The Pink Shield deals AoE damage when it disappears.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pounding Hearts:** Periodically launches hearts that deal 1 damage to the target and inflict stun, while also dealing damage to nearby enemies
-- **Nível 5 — Pink Protection:** Periodically grants nearby allies a Strike Shield that prevents several counts of damage. The prevented damage count increases as this Tatari evolves.
-- **Nível 7 — Lovely Barrier:** Generates a lovely barrier that intercepts enemy projectiles. Intercept count increases as this Tatari evolves.
+- **Nível 3 — Pounding Hearts:** Lança corações periodicamente que causam 1 de dano ao alvo e aplicam Atordoamento, além de causar dano aos inimigos próximos.
+- **Nível 5 — Pink Protection:** Concede periodicamente Strike Shield aos aliados próximos, bloqueando algumas ocorrências de dano. A quantidade bloqueada aumenta conforme este Tatari evolui.
+- **Nível 7 — Lovely Barrier:** Cria uma barreira amorosa que intercepta projéteis inimigos. A quantidade de interceptações aumenta conforme este Tatari evolui.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Lilypo)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Gemma's Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, gains a Pink Shield and pauses attacks to recover HP. The Pink Shield deals AoE damage when it disappears. Gemmapo carries Aura: Rock whenever on the field.
+Gemma's Kiss: Envia um beijo (não uma mordida) para causar dano em área e causa mais dano a inimigos com Frail. Após matar um inimigo, recebe um Pink Shield e interrompe os ataques para recuperar HP. O Pink Shield causa dano em área ao desaparecer. Gemmapo possui Aura: Rock enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Gemma&#x27;s Kiss: Sends a kiss (not bite) to deal AoE damage and deals increased damage to Frail enemies. After killing an enemy, gains a Pink Shield and pauses attacks to recover HP. The Pink Shield deals AoE damage when it disappears. Gemmapo carries Aura: Rock whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pounding Hearts:** Periodically launches hearts that deal 1 damage to the target and inflict stun, while also dealing damage to nearby enemies
-- **Nível 5 — Pink Protection:** Periodically grants nearby allies a Strike Shield that prevents several counts of damage. The prevented damage count increases as this Tatari evolves.
-- **Nível 7 — Lovely Barrier:** Generates a lovely barrier that intercepts enemy projectiles. Intercept count increases as this Tatari evolves.
+- **Nível 3 — Pounding Hearts:** Lança corações periodicamente que causam 1 de dano ao alvo e aplicam Atordoamento, além de causar dano aos inimigos próximos.
+- **Nível 5 — Pink Protection:** Concede periodicamente Strike Shield aos aliados próximos, bloqueando algumas ocorrências de dano. A quantidade bloqueada aumenta conforme este Tatari evolui.
+- **Nível 7 — Lovely Barrier:** Cria uma barreira amorosa que intercepta projéteis inimigos. A quantidade de interceptações aumenta conforme este Tatari evolui.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Gemmapo)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

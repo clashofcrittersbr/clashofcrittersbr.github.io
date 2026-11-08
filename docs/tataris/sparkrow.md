@@ -6,7 +6,7 @@
 [Sparkrow · T1](#sparkrow) → [Scorchwing · T2](#scorchwing)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Sparkrow · T1 {#sparkrow}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Sizzle Spit: Shoots 3 fireballs in quick succession before resting for a while.
+Sizzle Spit: Dispara 3 bolas de fogo em rápida sequência e depois descansa por um tempo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Sizzle Spit: Shoots 3 fireballs in quick succession before resting for a while.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Ember Pop II:** Attacks have a chance to fire an extra Ember Pop, dealing small AoE damage and inflicting Burn.
-- **Nível 5 — Scatterflame:** Attacks have a chance to fire an extra Scatterflame.
-- **Nível 7 — Fire Barrage:** Fires 5 waves of fan-shaped fire orb barrages.
+- **Nível 3 — Ember Pop II:** Os ataques têm chance de disparar um Ember Pop extra, causando dano em uma área pequena e aplicando Queimadura.
+- **Nível 5 — Scatterflame:** Os ataques têm chance de disparar um Scatterflame extra.
+- **Nível 7 — Fire Barrage:** Dispara 5 ondas de esferas de fogo em leque.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Sparkrow)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Pepper Blaze: Shoots 5 fireballs in quick succession before resting for a while.
+Pepper Blaze: Dispara 5 bolas de fogo em rápida sequência e depois descansa por um tempo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Pepper Blaze: Shoots 5 fireballs in quick succession before resting for a while.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Ember Pop II:** Attacks have a chance to fire an extra Ember Pop, dealing small AoE damage and inflicting Burn.
-- **Nível 5 — Scatterflame:** Attacks have a chance to fire an extra Scatterflame.
-- **Nível 7 — Fire Barrage:** Fires 5 waves of fan-shaped fire orb barrages.
+- **Nível 3 — Ember Pop II:** Os ataques têm chance de disparar um Ember Pop extra, causando dano em uma área pequena e aplicando Queimadura.
+- **Nível 5 — Scatterflame:** Os ataques têm chance de disparar um Scatterflame extra.
+- **Nível 7 — Fire Barrage:** Dispara 5 ondas de esferas de fogo em leque.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Scorchwing)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

@@ -6,7 +6,7 @@
 [Solpear · T1](#solpear) → [Pearpair · T2](#pearpair)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Solpear · T1 {#solpear}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Fruitfall: Drops a pear from the sky to smash an enemy, dealing small AoE damage.
+Fruitfall: Derruba uma pera do céu sobre um inimigo, causando dano em uma área pequena.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fruitfall: Drops a pear from the sky to smash an enemy, dealing small AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pear Shield:** Attacks have a chance to grant an extra Pear Shield.
-- **Nível 5 — Extra Pears:** Attacks have a chance to drop extra pears.
-- **Nível 7 — Pear Rain:** Continuously drops 12 pear(s) in the surrounding area.
+- **Nível 3 — Pear Shield:** Os ataques têm chance de conceder um Pear Shield extra.
+- **Nível 5 — Extra Pears:** Os ataques têm chance de derrubar peras extras.
+- **Nível 7 — Pear Rain:** Derruba continuamente 12 peras na área ao redor.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Solpear)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Sweet Splatter: Drops a pear from the sky to smash an enemy, dealing small AoE damage. Gains increased ATK Range.
+Sweet Splatter: Derruba uma pera do céu sobre um inimigo, causando dano em uma área pequena. Recebe aumento no alcance de ataque.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Sweet Splatter: Drops a pear from the sky to smash an enemy, dealing small AoE damage. Gains increased ATK Range.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Pear Shield:** Attacks have a chance to grant an extra Pear Shield.
-- **Nível 5 — Extra Pears:** Attacks have a chance to drop extra pears.
-- **Nível 7 — Pear Rain:** Continuously drops 12 pear(s) in the surrounding area.
+- **Nível 3 — Pear Shield:** Os ataques têm chance de conceder um Pear Shield extra.
+- **Nível 5 — Extra Pears:** Os ataques têm chance de derrubar peras extras.
+- **Nível 7 — Pear Rain:** Derruba continuamente 12 peras na área ao redor.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Pearpair)
 
@@ -54,6 +58,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

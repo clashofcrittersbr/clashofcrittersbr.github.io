@@ -6,7 +6,7 @@
 [Maskfry · T1](#maskfry) → [Ospisces · T2](#ospisces) → [Armorjaw · T3](#armorjaw) → [Dagondeep · T4](#dagondeep)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Maskfry · T1 {#maskfry}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Dagon's Wave: Summons waves that inflict Pull and a whirlpool that deals small AoE damage.
+Dagon's Wave: Invoca ondas que puxam inimigos e um redemoinho que causa dano em uma área pequena.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dagon&#x27;s Wave: Summons waves that inflict Pull and a whirlpool that deals small AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Seeping Gaze:** Periodically summons a whirlpool nearby, dealing small AoE damage and inflicting Slow.
-- **Nível 5 — Primordial Boon:** Periodically gains a shield. WHen the shield disappears, recovers HP based on shield value consumed.
-- **Nível 7 — Abyssal Maw:** Summons whirlpools in multiple rows that inflict slow. When a whirlpool explodes, it deals damage to enemies while inflicting stun and Tidesurge: Fragile
+- **Nível 3 — Seeping Gaze:** Invoca periodicamente um redemoinho próximo, causando dano em uma área pequena e aplicando Lentidão.
+- **Nível 5 — Primordial Boon:** Recebe um escudo periodicamente. Quando o escudo desaparece, recupera HP conforme o valor de escudo consumido.
+- **Nível 7 — Abyssal Maw:** Invoca redemoinhos em várias fileiras que aplicam Lentidão. Quando um redemoinho explode, causa dano aos inimigos e aplica Atordoamento e Tidesurge: Fragile.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Maskfry)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Dagon's Tide: Summons waves that inflict Pull and a whirlpool that deals small AoE damage. If multiple enemies are Pulled, the whirlpool inflicts stackable Tidesurge: Weak.
+Dagon's Tide: Invoca ondas que puxam inimigos e um redemoinho que causa dano em uma área pequena. Se vários inimigos forem puxados, o redemoinho aplica Tidesurge: Weak acumulável.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dagon&#x27;s Tide: Summons waves that inflict Pull and a whirlpool that deals small AoE damage. If multiple enemies are Pulled, the whirlpool inflicts stackable Tidesurge: Weak.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Seeping Gaze:** Periodically summons a whirlpool nearby, dealing small AoE damage and inflicting Slow.
-- **Nível 5 — Primordial Boon:** Periodically gains a shield. WHen the shield disappears, recovers HP based on shield value consumed.
-- **Nível 7 — Abyssal Maw:** Summons whirlpools in multiple rows that inflict slow. When a whirlpool explodes, it deals damage to enemies while inflicting stun and Tidesurge: Fragile
+- **Nível 3 — Seeping Gaze:** Invoca periodicamente um redemoinho próximo, causando dano em uma área pequena e aplicando Lentidão.
+- **Nível 5 — Primordial Boon:** Recebe um escudo periodicamente. Quando o escudo desaparece, recupera HP conforme o valor de escudo consumido.
+- **Nível 7 — Abyssal Maw:** Invoca redemoinhos em várias fileiras que aplicam Lentidão. Quando um redemoinho explode, causa dano aos inimigos e aplica Atordoamento e Tidesurge: Fragile.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Ospisces)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Dagon's Surge: Summons waves that inflict Pull and a whirlpool that deals small AoE damage. If multiple enemies are Pulled, the whirlpool inflicts Stun and stackable Tidesurge: Weak.
+Dagon's Surge: Invoca ondas que puxam inimigos e um redemoinho que causa dano em uma área pequena. Se vários inimigos forem puxados, o redemoinho aplica Atordoamento e Tidesurge: Weak acumulável.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dagon&#x27;s Surge: Summons waves that inflict Pull and a whirlpool that deals small AoE damage. If multiple enemies are Pulled, the whirlpool inflicts Stun and stackable Tidesurge: Weak.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Seeping Gaze:** Periodically summons a whirlpool nearby, dealing small AoE damage and inflicting Slow.
-- **Nível 5 — Primordial Boon:** Periodically gains a shield. WHen the shield disappears, recovers HP based on shield value consumed.
-- **Nível 7 — Abyssal Maw:** Summons whirlpools in multiple rows that inflict slow. When a whirlpool explodes, it deals damage to enemies while inflicting stun and Tidesurge: Fragile
+- **Nível 3 — Seeping Gaze:** Invoca periodicamente um redemoinho próximo, causando dano em uma área pequena e aplicando Lentidão.
+- **Nível 5 — Primordial Boon:** Recebe um escudo periodicamente. Quando o escudo desaparece, recupera HP conforme o valor de escudo consumido.
+- **Nível 7 — Abyssal Maw:** Invoca redemoinhos em várias fileiras que aplicam Lentidão. Quando um redemoinho explode, causa dano aos inimigos e aplica Atordoamento e Tidesurge: Fragile.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Armorjaw)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Dagon's Abyss: Summons waves that inflict Pull and a whirlpool that deals small AoE damage. If multiple enemies are Pulled, the whirlpool inflicts Stun and stackable Tidesurge: Weak. Dagondeep carries Aura: Water whenever on the battlefield.
+Dagon's Abyss: Invoca ondas que puxam inimigos e um redemoinho que causa dano em uma área pequena. Se vários inimigos forem puxados, o redemoinho aplica Atordoamento e Tidesurge: Weak acumulável. Dagondeep possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dagon&#x27;s Abyss: Summons waves that inflict Pull and a whirlpool that deals small AoE damage. If multiple enemies are Pulled, the whirlpool inflicts Stun and stackable Tidesurge: Weak. Dagondeep carries Aura: Water whenever on the battlefield.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Seeping Gaze:** Periodically summons a whirlpool nearby, dealing small AoE damage and inflicting Slow.
-- **Nível 5 — Primordial Boon:** Periodically gains a shield. WHen the shield disappears, recovers HP based on shield value consumed.
-- **Nível 7 — Abyssal Maw:** Summons whirlpools in multiple rows that inflict slow. When a whirlpool explodes, it deals damage to enemies while inflicting stun and Tidesurge: Fragile
+- **Nível 3 — Seeping Gaze:** Invoca periodicamente um redemoinho próximo, causando dano em uma área pequena e aplicando Lentidão.
+- **Nível 5 — Primordial Boon:** Recebe um escudo periodicamente. Quando o escudo desaparece, recupera HP conforme o valor de escudo consumido.
+- **Nível 7 — Abyssal Maw:** Invoca redemoinhos em várias fileiras que aplicam Lentidão. Quando um redemoinho explode, causa dano aos inimigos e aplica Atordoamento e Tidesurge: Fragile.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Dagondeep)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

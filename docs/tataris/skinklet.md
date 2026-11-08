@@ -6,7 +6,7 @@
 [Skinklet · T1](#skinklet) → [Skinkoon · T2](#skinkoon) → [Ninjaguana · T3](#ninjaguana) → [Hychroma · T4](#hychroma)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Skinklet · T1 {#skinklet}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Bubbles: Launches bubbles to deal AoE damage. Becomes Invisible after taking certain amount of damage. Prioritizes attacking enemies in the back while Invisible.
+Bubbles: Lança bolhas para causar dano em área. Torna-se Invisível após sofrer certa quantidade de dano. Enquanto Invisível, prioriza inimigos na retaguarda.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bubbles: Launches bubbles to deal AoE damage. Becomes Invisible after taking certain amount of damage. Prioritizes attacking enemies in the back while Invisible.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vortex Sap:** Attacks have a chance to summon an extra waterspout that continuously deals small AoE damage and inflicts Slow.
-- **Nível 5 — Great Vortex:** Periodically summons a large waterspout that continuously deals large AoE damage.
-- **Nível 7 — Technique: Veil:** Summons several waterspouts. Invisible Skinkoon allies will emerge to attack enemies with whirlpools.
+- **Nível 3 — Vortex Sap:** Os ataques têm chance de invocar um redemoinho de água extra que causa dano contínuo em uma área pequena e aplica Lentidão.
+- **Nível 5 — Great Vortex:** Invoca periodicamente um grande redemoinho de água que causa dano contínuo em uma área grande.
+- **Nível 7 — Technique: Veil:** Invoca vários redemoinhos de água. Aliados Skinkoon invisíveis surgem para atacar inimigos com redemoinhos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Skinklet)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Whirlpool: Creates currents to deal AoE damage. Becomes Invisible after taking certain amount of damage. While Invisible, gains ATK Range.
+Whirlpool: Cria correntes de água para causar dano em área. Torna-se Invisível após sofrer certa quantidade de dano. Enquanto Invisível, recebe aumento no alcance de ataque.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Whirlpool: Creates currents to deal AoE damage. Becomes Invisible after taking certain amount of damage. While Invisible, gains ATK Range.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vortex Sap:** Attacks have a chance to summon an extra waterspout that continuously deals small AoE damage and inflicts Slow.
-- **Nível 5 — Great Vortex:** Periodically summons a large waterspout that continuously deals large AoE damage.
-- **Nível 7 — Technique: Veil:** Summons several waterspouts. Invisible Skinkoon allies will emerge to attack enemies with whirlpools.
+- **Nível 3 — Vortex Sap:** Os ataques têm chance de invocar um redemoinho de água extra que causa dano contínuo em uma área pequena e aplica Lentidão.
+- **Nível 5 — Great Vortex:** Invoca periodicamente um grande redemoinho de água que causa dano contínuo em uma área grande.
+- **Nível 7 — Technique: Veil:** Invoca vários redemoinhos de água. Aliados Skinkoon invisíveis surgem para atacar inimigos com redemoinhos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Skinkoon)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Torrent: Creates a Torrent to deal AoE damage. Becomes Invisible after taking certain amount of damage. While Invisible, gains ATK Range and reduced cooldowns.
+Torrent: Cria uma torrente para causar dano em área. Torna-se Invisível após sofrer certa quantidade de dano. Enquanto Invisível, recebe aumento no alcance de ataque e recargas reduzidas.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Torrent: Creates a Torrent to deal AoE damage. Becomes Invisible after taking certain amount of damage. While Invisible, gains ATK Range and reduced cooldowns.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vortex Sap:** Attacks have a chance to summon an extra waterspout that continuously deals small AoE damage and inflicts Slow.
-- **Nível 5 — Great Vortex:** Periodically summons a large waterspout that continuously deals large AoE damage.
-- **Nível 7 — Technique: Veil:** Summons several waterspouts. Invisible Skinkoon allies will emerge to attack enemies with whirlpools.
+- **Nível 3 — Vortex Sap:** Os ataques têm chance de invocar um redemoinho de água extra que causa dano contínuo em uma área pequena e aplica Lentidão.
+- **Nível 5 — Great Vortex:** Invoca periodicamente um grande redemoinho de água que causa dano contínuo em uma área grande.
+- **Nível 7 — Technique: Veil:** Invoca vários redemoinhos de água. Aliados Skinkoon invisíveis surgem para atacar inimigos com redemoinhos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Ninjaguana)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Vortex: Creates a vortex to deal AoE damage. Becomes Invisible after taking certain amount of damage. While Invisible, gains ATK Range and reduced cooldowns. Hychroma carries Aura: Water whenever on the field.
+Vortex: Cria um vórtice para causar dano em área. Torna-se Invisível após sofrer certa quantidade de dano. Enquanto Invisível, recebe aumento no alcance de ataque e recargas reduzidas. Hychroma possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Vortex: Creates a vortex to deal AoE damage. Becomes Invisible after taking certain amount of damage. While Invisible, gains ATK Range and reduced cooldowns. Hychroma carries Aura: Water whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vortex Sap:** Attacks have a chance to summon an extra waterspout that continuously deals small AoE damage and inflicts Slow.
-- **Nível 5 — Great Vortex:** Periodically summons a large waterspout that continuously deals large AoE damage.
-- **Nível 7 — Technique: Veil:** Summons several waterspouts. Invisible Skinkoon allies will emerge to attack enemies with whirlpools.
+- **Nível 3 — Vortex Sap:** Os ataques têm chance de invocar um redemoinho de água extra que causa dano contínuo em uma área pequena e aplica Lentidão.
+- **Nível 5 — Great Vortex:** Invoca periodicamente um grande redemoinho de água que causa dano contínuo em uma área grande.
+- **Nível 7 — Technique: Veil:** Invoca vários redemoinhos de água. Aliados Skinkoon invisíveis surgem para atacar inimigos com redemoinhos.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Hychroma)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

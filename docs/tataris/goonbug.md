@@ -6,7 +6,7 @@
 [Goonbug · T1](#goonbug) → [Capobeetle · T2](#capobeetle) → [Donscarab · T3](#donscarab) → [Beetleknight · T4](#beetleknight)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Goonbug · T1 {#goonbug}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Bugrush: Gains Invincibility and dashes forward, dealing AoE damage.
+Bugrush: Recebe Invencibilidade e avança, causando dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Bugrush: Gains Invincibility and dashes forward, dealing AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vital Fumes:** Attacks grant allies from behind Exhaust: DMG Boost and Exhaust: ATK Boost.
-- **Nível 5 — Airborne Ops:** Periodically deals extra small AoE damage in the surrounding area while attacking.
-- **Nível 7 — Chain Charge:** Periodically summons a Goonbug ally for an offensive charge.
+- **Nível 3 — Vital Fumes:** Os ataques concedem Exhaust: DMG Boost e Exhaust: ATK Boost aos aliados atrás.
+- **Nível 5 — Airborne Ops:** Enquanto ataca, causa periodicamente dano extra em uma área pequena ao redor.
+- **Nível 7 — Chain Charge:** Invoca periodicamente um Goonbug aliado para uma investida ofensiva.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Goonbug)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Mugrush: Gains Invincibility and dashes forward, dealing AoE damage and inflicting Fragile.
+Mugrush: Recebe Invencibilidade e avança, causando dano em área e aplicando Fragilidade.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Mugrush: Gains Invincibility and dashes forward, dealing AoE damage and inflicting Fragile.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vital Fumes:** Attacks grant allies from behind Exhaust: DMG Boost and Exhaust: ATK Boost.
-- **Nível 5 — Airborne Ops:** Periodically deals extra small AoE damage in the surrounding area while attacking.
-- **Nível 7 — Chain Charge:** Periodically summons a Goonbug ally for an offensive charge.
+- **Nível 3 — Vital Fumes:** Os ataques concedem Exhaust: DMG Boost e Exhaust: ATK Boost aos aliados atrás.
+- **Nível 5 — Airborne Ops:** Enquanto ataca, causa periodicamente dano extra em uma área pequena ao redor.
+- **Nível 7 — Chain Charge:** Invoca periodicamente um Goonbug aliado para uma investida ofensiva.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Capobeetle)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Crime Crash: Gains Invincibility and dashes forward, dealing AoE damage while inflicting Fragile and Knockback.
+Crime Crash: Recebe Invencibilidade e avança, causando dano em área e aplicando Fragilidade e Repulsão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Crime Crash: Gains Invincibility and dashes forward, dealing AoE damage while inflicting Fragile and Knockback.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vital Fumes:** Attacks grant allies from behind Exhaust: DMG Boost and Exhaust: ATK Boost.
-- **Nível 5 — Airborne Ops:** Periodically deals extra small AoE damage in the surrounding area while attacking.
-- **Nível 7 — Chain Charge:** Periodically summons a Goonbug ally for an offensive charge.
+- **Nível 3 — Vital Fumes:** Os ataques concedem Exhaust: DMG Boost e Exhaust: ATK Boost aos aliados atrás.
+- **Nível 5 — Airborne Ops:** Enquanto ataca, causa periodicamente dano extra em uma área pequena ao redor.
+- **Nível 7 — Chain Charge:** Invoca periodicamente um Goonbug aliado para uma investida ofensiva.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Donscarab)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Luminous Dash: Gains Invincibility and dashes forward, dealing AoE damage while inflicting Fragile and Knockback. Grants Aura: Grass, increasing Max HP for all allies.
+Luminous Dash: Recebe Invencibilidade e avança, causando dano em área e aplicando Fragilidade e Repulsão. Concede Aura: Grass, aumentando o HP máximo de todos os aliados.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Luminous Dash: Gains Invincibility and dashes forward, dealing AoE damage while inflicting Fragile and Knockback. Grants Aura: Grass, increasing Max HP for all allies.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Vital Fumes:** Attacks grant allies from behind Exhaust: DMG Boost and Exhaust: ATK Boost.
-- **Nível 5 — Airborne Ops:** Periodically deals extra small AoE damage in the surrounding area while attacking.
-- **Nível 7 — Chain Charge:** Periodically summons a Goonbug ally for an offensive charge.
+- **Nível 3 — Vital Fumes:** Os ataques concedem Exhaust: DMG Boost e Exhaust: ATK Boost aos aliados atrás.
+- **Nível 5 — Airborne Ops:** Enquanto ataca, causa periodicamente dano extra em uma área pequena ao redor.
+- **Nível 7 — Chain Charge:** Invoca periodicamente um Goonbug aliado para uma investida ofensiva.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Beetleknight)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

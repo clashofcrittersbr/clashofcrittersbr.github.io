@@ -6,7 +6,7 @@
 [Humbug · T1](#humbug) → [Humbleetle · T2](#humbleetle) → [Zenscarab · T3](#zenscarab) → [Hierotyrus · T4](#hierotyrus)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Humbug · T1 {#humbug}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Dung Sling: Launches dung balls that linger on hit, continuously dealing small AoE damage.
+Dung Sling: Lança bolas de esterco que permanecem no local ao acertar, causando dano contínuo em uma área pequena.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dung Sling: Launches dung balls that linger on hit, continuously dealing small AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Boom Ball:** When dealing damage, there is a chance to trigger an explosion that deals AoE damage.
-- **Nível 5 — Bounce Ball:** Launches 3 piercing balls that bounce upon hitting the left or right edge of the battlefield.
-- **Nível 7 — Spin Ball:** Fires a spinning ball that creates an expanding vortex on hit, pulling enemies in and dealing AoE damage over time.
+- **Nível 3 — Boom Ball:** Ao causar dano, tem chance de ativar uma explosão que causa dano em área.
+- **Nível 5 — Bounce Ball:** Lança 3 bolas perfurantes que ricocheteiam ao atingir a borda esquerda ou direita do campo.
+- **Nível 7 — Spin Ball:** Dispara uma bola giratória que cria um vórtice crescente ao acertar, puxando inimigos e causando dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Humbug)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Double Dung: Launches dung balls that linger on hit, continuously dealing small AoE damage and inflicting Slow.
+Double Dung: Lança bolas de esterco que permanecem no local ao acertar, causando dano contínuo em uma área pequena e aplicando Lentidão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Double Dung: Launches dung balls that linger on hit, continuously dealing small AoE damage and inflicting Slow.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Boom Ball:** When dealing damage, there is a chance to trigger an explosion that deals AoE damage.
-- **Nível 5 — Bounce Ball:** Launches 3 piercing balls that bounce upon hitting the left or right edge of the battlefield.
-- **Nível 7 — Spin Ball:** Fires a spinning ball that creates an expanding vortex on hit, pulling enemies in and dealing AoE damage over time.
+- **Nível 3 — Boom Ball:** Ao causar dano, tem chance de ativar uma explosão que causa dano em área.
+- **Nível 5 — Bounce Ball:** Lança 3 bolas perfurantes que ricocheteiam ao atingir a borda esquerda ou direita do campo.
+- **Nível 7 — Spin Ball:** Dispara uma bola giratória que cria um vórtice crescente ao acertar, puxando inimigos e causando dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Humbleetle)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Dung Blitz: Launches dung balls that linger on hit, continuously dealing small AoE damage and inflicting Slow.
+Dung Blitz: Lança bolas de esterco que permanecem no local ao acertar, causando dano contínuo em uma área pequena e aplicando Lentidão.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dung Blitz: Launches dung balls that linger on hit, continuously dealing small AoE damage and inflicting Slow.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Boom Ball:** When dealing damage, there is a chance to trigger an explosion that deals AoE damage.
-- **Nível 5 — Bounce Ball:** Launches 3 piercing balls that bounce upon hitting the left or right edge of the battlefield.
-- **Nível 7 — Spin Ball:** Fires a spinning ball that creates an expanding vortex on hit, pulling enemies in and dealing AoE damage over time.
+- **Nível 3 — Boom Ball:** Ao causar dano, tem chance de ativar uma explosão que causa dano em área.
+- **Nível 5 — Bounce Ball:** Lança 3 bolas perfurantes que ricocheteiam ao atingir a borda esquerda ou direita do campo.
+- **Nível 7 — Spin Ball:** Dispara uma bola giratória que cria um vórtice crescente ao acertar, puxando inimigos e causando dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Zenscarab)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Dung Doozy: Launches dung balls that linger on hit, continuously dealing small AoE damage and inflicting Slow. Hierotyrus carries Aura: Rock whenever on the field.
+Dung Doozy: Lança bolas de esterco que permanecem no local ao acertar, causando dano contínuo em uma área pequena e aplicando Lentidão. Hierotyrus possui Aura: Rock enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Dung Doozy: Launches dung balls that linger on hit, continuously dealing small AoE damage and inflicting Slow. Hierotyrus carries Aura: Rock whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Boom Ball:** When dealing damage, there is a chance to trigger an explosion that deals AoE damage.
-- **Nível 5 — Bounce Ball:** Launches 3 piercing balls that bounce upon hitting the left or right edge of the battlefield.
-- **Nível 7 — Spin Ball:** Fires a spinning ball that creates an expanding vortex on hit, pulling enemies in and dealing AoE damage over time.
+- **Nível 3 — Boom Ball:** Ao causar dano, tem chance de ativar uma explosão que causa dano em área.
+- **Nível 5 — Bounce Ball:** Lança 3 bolas perfurantes que ricocheteiam ao atingir a borda esquerda ou direita do campo.
+- **Nível 7 — Spin Ball:** Dispara uma bola giratória que cria um vórtice crescente ao acertar, puxando inimigos e causando dano contínuo em área.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Hierotyrus)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

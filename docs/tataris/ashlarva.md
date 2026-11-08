@@ -6,7 +6,7 @@
 [Ashlarva · T1](#ashlarva) → [Firecoil · T2](#firecoil) → [Charflutter · T3](#charflutter) → [Chrysolaria · T4](#chrysolaria)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Ashlarva · T1 {#ashlarva}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Puffy Blaze: Creates a ring of flames, dealing AoE damage and healing allies within range.
+Puffy Blaze: Cria um anel de chamas, causando dano em área e curando aliados dentro do alcance.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Puffy Blaze: Creates a ring of flames, dealing AoE damage and healing allies within range.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fluff Flame:** Attacks have a chance to fire extra flames forward, dealing AoE damage.
-- **Nível 5 — Flutterflame:** Unleashes flaming butterflies, continuously dealing large AoE damage and inflicting Flutterflame: Fragile.
-- **Nível 7 — Wing Embrace:** Spreads wings to grant allies within range Wing Embrace: All Stats UP.
+- **Nível 3 — Fluff Flame:** Os ataques têm chance de disparar chamas extras à frente, causando dano em área.
+- **Nível 5 — Flutterflame:** Libera borboletas flamejantes, causando dano contínuo em uma área grande e aplicando Flutterflame: Fragile.
+- **Nível 7 — Wing Embrace:** Abre as asas para conceder Wing Embrace: All Stats UP aos aliados dentro do alcance.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Ashlarva)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Sizzling Flame: Creates a ring of flames, dealing AoE damage and healing allies within range and granting them Flutter: ATK Boost.
+Sizzling Flame: Cria um anel de chamas, causando dano em área, curando aliados dentro do alcance e concedendo-lhes Flutter: ATK Boost.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Sizzling Flame: Creates a ring of flames, dealing AoE damage and healing allies within range and granting them Flutter: ATK Boost.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fluff Flame:** Attacks have a chance to fire extra flames forward, dealing AoE damage.
-- **Nível 5 — Flutterflame:** Unleashes flaming butterflies, continuously dealing large AoE damage and inflicting Flutterflame: Fragile.
-- **Nível 7 — Wing Embrace:** Spreads wings to grant allies within range Wing Embrace: All Stats UP.
+- **Nível 3 — Fluff Flame:** Os ataques têm chance de disparar chamas extras à frente, causando dano em área.
+- **Nível 5 — Flutterflame:** Libera borboletas flamejantes, causando dano contínuo em uma área grande e aplicando Flutterflame: Fragile.
+- **Nível 7 — Wing Embrace:** Abre as asas para conceder Wing Embrace: All Stats UP aos aliados dentro do alcance.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Firecoil)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Gusty Flare: Creates a ring of flames, dealing large AoE damage while healing allies within range and granting them Flutter: ATK Boost.
+Gusty Flare: Cria um anel de chamas, causando dano em uma área grande, curando aliados dentro do alcance e concedendo-lhes Flutter: ATK Boost.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Gusty Flare: Creates a ring of flames, dealing large AoE damage while healing allies within range and granting them Flutter: ATK Boost.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fluff Flame:** Attacks have a chance to fire extra flames forward, dealing AoE damage.
-- **Nível 5 — Flutterflame:** Unleashes flaming butterflies, continuously dealing large AoE damage and inflicting Flutterflame: Fragile.
-- **Nível 7 — Wing Embrace:** Spreads wings to grant allies within range Wing Embrace: All Stats UP.
+- **Nível 3 — Fluff Flame:** Os ataques têm chance de disparar chamas extras à frente, causando dano em área.
+- **Nível 5 — Flutterflame:** Libera borboletas flamejantes, causando dano contínuo em uma área grande e aplicando Flutterflame: Fragile.
+- **Nível 7 — Wing Embrace:** Abre as asas para conceder Wing Embrace: All Stats UP aos aliados dentro do alcance.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Charflutter)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Solara Flash: Creates a ring of flames, dealing large AoE damage while healing allies within range and granting them Flutter: ATK Boost. Chrysolaria carries Aura: Fire whenever on the field.
+Solara Flash: Cria um anel de chamas, causando dano em uma área grande, curando aliados dentro do alcance e concedendo-lhes Flutter: ATK Boost. Chrysolaria possui Aura: Fire enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Solara Flash: Creates a ring of flames, dealing large AoE damage while healing allies within range and granting them Flutter: ATK Boost. Chrysolaria carries Aura: Fire whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Fluff Flame:** Attacks have a chance to fire extra flames forward, dealing AoE damage.
-- **Nível 5 — Flutterflame:** Unleashes flaming butterflies, continuously dealing large AoE damage and inflicting Flutterflame: Fragile.
-- **Nível 7 — Wing Embrace:** Spreads wings to grant allies within range Wing Embrace: All Stats UP.
+- **Nível 3 — Fluff Flame:** Os ataques têm chance de disparar chamas extras à frente, causando dano em área.
+- **Nível 5 — Flutterflame:** Libera borboletas flamejantes, causando dano contínuo em uma área grande e aplicando Flutterflame: Fragile.
+- **Nível 7 — Wing Embrace:** Abre as asas para conceder Wing Embrace: All Stats UP aos aliados dentro do alcance.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Chrysolaria)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

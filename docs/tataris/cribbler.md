@@ -6,7 +6,7 @@
 [Cribbler · T1](#cribbler) → [Clawzor · T2](#clawzor) → [Dreadclaw · T3](#dreadclaw) → [Cribking · T4](#cribking)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 !!! note "Patch oficial fornecido"
     04/11: adicionadas sete aparências Sparkle à evolução T4 desta família.
@@ -19,15 +19,17 @@
 
 ### Habilidade normal
 
-Claw Swing: Swings claw to deal AoE damage.
+Claw Swing: Balança a garra para causar dano em área.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Claw Swing: Swings claw to deal AoE damage.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Claw-Covery:** Periodically recovers HP. Surplus healing is converted into a shield.
-- **Nível 5 — Crab Knock:** Attacks have a chance to deal large AoE damage and inflict Knockback.
-- **Nível 7 — Crab Claw:** Fires clawed attacks that continuously deal AoE damage to the upper right toward the edge of the map.
+- **Nível 3 — Claw-Covery:** Recupera HP periodicamente. A cura excedente se transforma em escudo.
+- **Nível 5 — Crab Knock:** Os ataques têm chance de causar dano em uma área grande e aplicar Repulsão.
+- **Nível 7 — Crab Claw:** Dispara ataques de garra que causam dano contínuo em área na diagonal superior direita, em direção à borda do mapa.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Cribbler)
 
@@ -39,15 +41,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Shredder Swing: Swings claw to deal AoE damage and inflict Shredded.
+Shredder Swing: Balança a garra para causar dano em área e aplicar Shredded.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Shredder Swing: Swings claw to deal AoE damage and inflict Shredded.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Claw-Covery:** Periodically recovers HP. Surplus healing is converted into a shield.
-- **Nível 5 — Crab Knock:** Attacks have a chance to deal large AoE damage and inflict Knockback.
-- **Nível 7 — Crab Claw:** Fires clawed attacks that continuously deal AoE damage to the upper right toward the edge of the map.
+- **Nível 3 — Claw-Covery:** Recupera HP periodicamente. A cura excedente se transforma em escudo.
+- **Nível 5 — Crab Knock:** Os ataques têm chance de causar dano em uma área grande e aplicar Repulsão.
+- **Nível 7 — Crab Claw:** Dispara ataques de garra que causam dano contínuo em área na diagonal superior direita, em direção à borda do mapa.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Clawzor)
 
@@ -59,15 +63,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Clawstorm: Swings claw to deal AoE damage and inflict Shredded. Gains ATK boost when healed.
+Clawstorm: Balança a garra para causar dano em área e aplicar Shredded. Recebe aumento de ATK ao ser curado.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Clawstorm: Swings claw to deal AoE damage and inflict Shredded. Gains ATK boost when healed.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Claw-Covery:** Periodically recovers HP. Surplus healing is converted into a shield.
-- **Nível 5 — Crab Knock:** Attacks have a chance to deal large AoE damage and inflict Knockback.
-- **Nível 7 — Crab Claw:** Fires clawed attacks that continuously deal AoE damage to the upper right toward the edge of the map.
+- **Nível 3 — Claw-Covery:** Recupera HP periodicamente. A cura excedente se transforma em escudo.
+- **Nível 5 — Crab Knock:** Os ataques têm chance de causar dano em uma área grande e aplicar Repulsão.
+- **Nível 7 — Crab Claw:** Dispara ataques de garra que causam dano contínuo em área na diagonal superior direita, em direção à borda do mapa.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Dreadclaw)
 
@@ -79,15 +85,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Hydro Claw: Swings claws, dealing AoE damage and inflicting Shredded. Gains ATK Boost when healed. Cribking carries Aura: Water whenever on the field.
+Hydro Claw: Balança as garras, causando dano em área e aplicando Shredded. Recebe aumento de ATK ao ser curado. Cribking possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Hydro Claw: Swings claws, dealing AoE damage and inflicting Shredded. Gains ATK Boost when healed. Cribking carries Aura: Water whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Claw-Covery:** Periodically recovers HP. Surplus healing is converted into a shield.
-- **Nível 5 — Crab Knock:** Attacks have a chance to deal large AoE damage and inflict Knockback.
-- **Nível 7 — Crab Claw:** Fires clawed attacks that continuously deal AoE damage to the upper right toward the edge of the map.
+- **Nível 3 — Claw-Covery:** Recupera HP periodicamente. A cura excedente se transforma em escudo.
+- **Nível 5 — Crab Knock:** Os ataques têm chance de causar dano em uma área grande e aplicar Repulsão.
+- **Nível 7 — Crab Claw:** Dispara ataques de garra que causam dano contínuo em área na diagonal superior direita, em direção à borda do mapa.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Cribking)
 
@@ -97,6 +105,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

@@ -6,7 +6,7 @@
 [Snowcub · T1](#snowcub) → [Polarpaw · T2](#polarpaw) → [Blizzgrizz · T3](#blizzgrizz) → [Anglerbear · T4](#anglerbear)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Snowcub · T1 {#snowcub}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Fish Ahoy: Throws 3 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, eats 1 fish to recover HP and dispell all other debuffs.
+Fish Ahoy: Lança 3 peixes em sequência para causar dano em área. Possui Foodie: Fragile. Quando está em Perigo, come 1 peixe para recuperar HP e remover todos os outros efeitos negativos.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fish Ahoy: Throws 3 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, eats 1 fish to recover HP and dispell all other debuffs.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Always Cola:** Attacks have a chance to create 1 cola. The cola is either thrown to deal small AoE damage, or drunk to recover HP and obtain Cola: DMG Boost.
-- **Nível 5 — Make it Swarm:** Throws 1 small fish that attracts bigger fish and marlins to deal damage to enemies in their path.
-- **Nível 7 — Together is Better:** Places 7 cola baits that attract fish to deal small AoE damage. After, Large Marlin shares cola with all allies on the field, granting Cola: ATK & DEF Boost.
+- **Nível 3 — Always Cola:** Os ataques têm chance de criar 1 refrigerante de cola. Ele pode ser lançado para causar dano em uma área pequena ou bebido para recuperar HP e receber Cola: DMG Boost.
+- **Nível 5 — Make it Swarm:** Lança 1 peixe pequeno que atrai peixes maiores e marlins, causando dano aos inimigos no caminho.
+- **Nível 7 — Together is Better:** Coloca 7 iscas de refrigerante que atraem peixes, causando dano em uma área pequena. Depois, Large Marlin compartilha refrigerante com todos os aliados no campo, concedendo Cola: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Snowcub)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Fish Delish: Throws 4 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, eats 1 fish to recover HP and dispell all other debuffs.
+Fish Delish: Lança 4 peixes em sequência para causar dano em área. Possui Foodie: Fragile. Quando está em Perigo, come 1 peixe para recuperar HP e remover todos os outros efeitos negativos.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fish Delish: Throws 4 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, eats 1 fish to recover HP and dispell all other debuffs.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Always Cola:** Attacks have a chance to create 1 cola. The cola is either thrown to deal small AoE damage, or drunk to recover HP and obtain Cola: DMG Boost.
-- **Nível 5 — Make it Swarm:** Throws 1 small fish that attracts bigger fish and marlins to deal damage to enemies in their path.
-- **Nível 7 — Together is Better:** Places 7 cola baits that attract fish to deal small AoE damage. After, Large Marlin shares cola with all allies on the field, granting Cola: ATK & DEF Boost.
+- **Nível 3 — Always Cola:** Os ataques têm chance de criar 1 refrigerante de cola. Ele pode ser lançado para causar dano em uma área pequena ou bebido para recuperar HP e receber Cola: DMG Boost.
+- **Nível 5 — Make it Swarm:** Lança 1 peixe pequeno que atrai peixes maiores e marlins, causando dano aos inimigos no caminho.
+- **Nível 7 — Together is Better:** Coloca 7 iscas de refrigerante que atraem peixes, causando dano em uma área pequena. Depois, Large Marlin compartilha refrigerante com todos os aliados no campo, concedendo Cola: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Polarpaw)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Fish Feast: Throws 4 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, shares 1 fish with an ally to recover HP and dispell all other debuffs.
+Fish Feast: Lança 4 peixes em sequência para causar dano em área. Possui Foodie: Fragile. Quando está em Perigo, compartilha 1 peixe com um aliado para recuperar HP e remover todos os outros efeitos negativos.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fish Feast: Throws 4 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, shares 1 fish with an ally to recover HP and dispell all other debuffs.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Always Cola:** Attacks have a chance to create 1 cola. The cola is either thrown to deal small AoE damage, or drunk to recover HP and obtain Cola: DMG Boost.
-- **Nível 5 — Make it Swarm:** Throws 1 small fish that attracts bigger fish and marlins to deal damage to enemies in their path.
-- **Nível 7 — Together is Better:** Places 7 cola baits that attract fish to deal small AoE damage. After, Large Marlin shares cola with all allies on the field, granting Cola: ATK & DEF Boost.
+- **Nível 3 — Always Cola:** Os ataques têm chance de criar 1 refrigerante de cola. Ele pode ser lançado para causar dano em uma área pequena ou bebido para recuperar HP e receber Cola: DMG Boost.
+- **Nível 5 — Make it Swarm:** Lança 1 peixe pequeno que atrai peixes maiores e marlins, causando dano aos inimigos no caminho.
+- **Nível 7 — Together is Better:** Coloca 7 iscas de refrigerante que atraem peixes, causando dano em uma área pequena. Depois, Large Marlin compartilha refrigerante com todos os aliados no campo, concedendo Cola: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Blizzgrizz)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Fish Bonanza: Throws 4 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, shares 1 fish with an ally to recover HP and dispell all other debuffs. Anglerbear carries Aura: Water whenever on field.
+Fish Bonanza: Lança 4 peixes em sequência para causar dano em área. Possui Foodie: Fragile. Quando está em Perigo, compartilha 1 peixe com um aliado para recuperar HP e remover todos os outros efeitos negativos. Anglerbear possui Aura: Water enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fish Bonanza: Throws 4 fish in turn to deal AoE damage. Carries Foodie: Fragile. When in Danger, shares 1 fish with an ally to recover HP and dispell all other debuffs. Anglerbear carries Aura: Water whenever on field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Always Cola:** Attacks have a chance to create 1 cola. The cola is either thrown to deal small AoE damage, or drunk to recover HP and obtain Cola: DMG Boost.
-- **Nível 5 — Make it Swarm:** Throws 1 small fish that attracts bigger fish and marlins to deal damage to enemies in their path.
-- **Nível 7 — Together is Better:** Places 7 cola baits that attract fish to deal small AoE damage. After, Large Marlin shares cola with all allies on the field, granting Cola: ATK & DEF Boost.
+- **Nível 3 — Always Cola:** Os ataques têm chance de criar 1 refrigerante de cola. Ele pode ser lançado para causar dano em uma área pequena ou bebido para recuperar HP e receber Cola: DMG Boost.
+- **Nível 5 — Make it Swarm:** Lança 1 peixe pequeno que atrai peixes maiores e marlins, causando dano aos inimigos no caminho.
+- **Nível 7 — Together is Better:** Coloca 7 iscas de refrigerante que atraem peixes, causando dano em uma área pequena. Depois, Large Marlin compartilha refrigerante com todos os aliados no campo, concedendo Cola: ATK & DEF Boost.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Anglerbear)
 
@@ -94,6 +102,6 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).

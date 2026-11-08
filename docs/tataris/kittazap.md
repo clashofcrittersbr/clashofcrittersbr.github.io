@@ -6,7 +6,7 @@
 [Kittazap · T1](#kittazap) → [Nekowatt · T2](#nekowatt) → [Voltazar · T3](#voltazar) → [Thunderpaw · T4](#thunderpaw)
 
 !!! info "Origem e revisão"
-    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Os textos de habilidades permanecem em inglês para preservar a descrição de origem. Valores de balanceamento não foram certificados para a temporada atual.
+    Base da wiki.gg coletada em 09/10/2026 e preservada pelo Horde Drafter. As notas abaixo aplicam os patches fornecidos pelo mantenedor em 07/11/2026. Descrições traduzidas pela comunidade; nomes de habilidades e efeitos próprios foram preservados para facilitar a consulta no jogo. Valores de balanceamento não foram certificados para a temporada atual.
 
 ## Kittazap · T1 {#kittazap}
 
@@ -16,15 +16,17 @@
 
 ### Habilidade normal
 
-Buzz Punch: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike. Kittazap shares the Paw Pals bond whenever on the field.
+Buzz Punch: Desfere socos eletrificados que causam dano em área. Quanto mais próximo o inimigo, maior o dano. As recargas diminuem a cada golpe. Kittazap compartilha o vínculo Paw Pals enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Buzz Punch: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike. Kittazap shares the Paw Pals bond whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Got Gold?:** Attacks have a chance to drop gold coins that turn into energizer when they disappear.
-- **Nível 5 — Golden Charity:** Periodically grants 2 random allies ATK Boost.
-- **Nível 7 — Rain of Riches:** Summons gold coins in a large area to the front, inflicting damage and Stun. Has a chance to obtain energizers.
+- **Nível 3 — Got Gold?:** Os ataques têm chance de derrubar moedas de ouro que se transformam em energizadores ao desaparecer.
+- **Nível 5 — Golden Charity:** Concede aumento de ATK periodicamente a 2 aliados aleatórios.
+- **Nível 7 — Rain of Riches:** Invoca moedas de ouro em uma área grande à frente, causando dano e Atordoamento. Tem chance de obter energizadores.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Kittazap)
 
@@ -36,15 +38,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Zapfist: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike, and when cooldown reaches the minimum, gains increased ATK Range. Kittazap shares the Paw Pals bond whenever on the field.
+Zapfist: Desfere socos eletrificados que causam dano em área. Quanto mais próximo o inimigo, maior o dano. As recargas diminuem a cada golpe e, ao atingir a recarga mínima, recebe aumento no alcance de ataque. Kittazap compartilha o vínculo Paw Pals enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Zapfist: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike, and when cooldown reaches the minimum, gains increased ATK Range. Kittazap shares the Paw Pals bond whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Got Gold?:** Attacks have a chance to drop gold coins that turn into energizer when they disappear.
-- **Nível 5 — Golden Charity:** Periodically grants 2 random allies ATK Boost.
-- **Nível 7 — Rain of Riches:** Summons gold coins in a large area to the front, inflicting damage and Stun. Has a chance to obtain energizers.
+- **Nível 3 — Got Gold?:** Os ataques têm chance de derrubar moedas de ouro que se transformam em energizadores ao desaparecer.
+- **Nível 5 — Golden Charity:** Concede aumento de ATK periodicamente a 2 aliados aleatórios.
+- **Nível 7 — Rain of Riches:** Invoca moedas de ouro em uma área grande à frente, causando dano e Atordoamento. Tem chance de obter energizadores.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Nekowatt)
 
@@ -56,15 +60,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Lightning Paw: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike, and when cooldown reaches the minimum, gains increased ATK Range and grants all allies Voltkitty: DEF Boost. Voltazar shares the Paw Pals bond whenever on the field.
+Lightning Paw: Desfere socos eletrificados que causam dano em área. Quanto mais próximo o inimigo, maior o dano. As recargas diminuem a cada golpe e, ao atingir a recarga mínima, recebe aumento no alcance de ataque e concede Voltkitty: DEF Boost a todos os aliados. Voltazar compartilha o vínculo Paw Pals enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Lightning Paw: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike, and when cooldown reaches the minimum, gains increased ATK Range and grants all allies Voltkitty: DEF Boost. Voltazar shares the Paw Pals bond whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Got Gold?:** Attacks have a chance to drop gold coins that turn into energizer when they disappear.
-- **Nível 5 — Golden Charity:** Periodically grants 2 random allies ATK Boost.
-- **Nível 7 — Rain of Riches:** Summons gold coins in a large area to the front, inflicting damage and Stun. Has a chance to obtain energizers.
+- **Nível 3 — Got Gold?:** Os ataques têm chance de derrubar moedas de ouro que se transformam em energizadores ao desaparecer.
+- **Nível 5 — Golden Charity:** Concede aumento de ATK periodicamente a 2 aliados aleatórios.
+- **Nível 7 — Rain of Riches:** Invoca moedas de ouro em uma área grande à frente, causando dano e Atordoamento. Tem chance de obter energizadores.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Voltazar)
 
@@ -76,15 +82,17 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 ### Habilidade normal
 
-Fortune's Favor: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike, and when cooldown reaches the minimum, gains increased ATK Range and grants all allies Voltkitty: DEF Boost. Voltazar shares the Paw Pals bond whenever on the field. Thunderpaw carries Aura: Lightning whenever on the field.
+Fortune's Favor: Desfere socos eletrificados que causam dano em área. Quanto mais próximo o inimigo, maior o dano. As recargas diminuem a cada golpe e, ao atingir a recarga mínima, recebe aumento no alcance de ataque e concede Voltkitty: DEF Boost a todos os aliados. Voltazar compartilha o vínculo Paw Pals enquanto está no campo. Thunderpaw possui Aura: Lightning enquanto está no campo.
+
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">Fortune&#x27;s Favor: Unleashes electrified punches that deal AoE damage. The closer the enemy, the higher the damage. Cooldowns decrease with each strike, and when cooldown reaches the minimum, gains increased ATK Range and grants all allies Voltkitty: DEF Boost. Voltazar shares the Paw Pals bond whenever on the field. Thunderpaw carries Aura: Lightning whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
 Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau T1–T4.
 
-- **Nível 3 — Got Gold?:** Attacks have a chance to drop gold coins that turn into energizer when they disappear.
-- **Nível 5 — Golden Charity:** Periodically grants 2 random allies ATK Boost.
-- **Nível 7 — Rain of Riches:** Summons gold coins in a large area to the front, inflicting damage and Stun. Has a chance to obtain energizers.
+- **Nível 3 — Got Gold?:** Os ataques têm chance de derrubar moedas de ouro que se transformam em energizadores ao desaparecer.
+- **Nível 5 — Golden Charity:** Concede aumento de ATK periodicamente a 2 aliados aleatórios.
+- **Nível 7 — Rain of Riches:** Invoca moedas de ouro em uma área grande à frente, causando dano e Atordoamento. Tem chance de obter energizadores.
 
 [Página de origem e histórico de autores](https://clashofcritters.wiki.gg/wiki/Thunderpaw)
 
@@ -94,6 +102,9 @@ Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta
 
 ## Fontes e créditos
 
-Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
+Dados e descrições: colaboradores da [Clash of Critters Wiki](https://clashofcritters.wiki.gg/wiki/Tatari), via [Horde Drafter de Jeremy Canlas / jacc6475](https://github.com/jeremycanlas/clash-of-critters-horde-planner/tree/ec83738f3790c306e6e04d8b0878bdf388bd26e8). Textos derivados da wiki sob [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), com reorganização, descrições e rótulos traduzidos e notas de atualização pela Clash of Critters BR. Artes e conteúdo do jogo pertencem aos respectivos titulares; não são abrangidos pela licença MIT do código.
 
-[Patches, limitações e política de atualização](../patches-tataris.md).
+[Patches, glossário, limitações e política de atualização](../patches-tataris.md).
+
+!!! warning "Inconsistência na descrição de origem"
+    A base menciona nomes de formas anteriores no vínculo Paw Pals ou quantidades que diminuem entre evoluções. A tradução preserva essas informações; elas precisam de confirmação no jogo antes de qualquer correção factual.
