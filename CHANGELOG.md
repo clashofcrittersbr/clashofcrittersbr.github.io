@@ -2,6 +2,12 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
+## Em revisão
+
+- Catálogo visual de 27 formas com busca e filtros por elemento, grau e uso editorial.
+- Ficha interativa do Pyropup com retratos T1–T4, habilidades, provas e fontes; leitura completa disponível sem JavaScript.
+- Cadastro estruturado compartilhado com a tier list, mantendo a identidade verde e dourada.
+
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
 ## Publicado em 06/11/2026

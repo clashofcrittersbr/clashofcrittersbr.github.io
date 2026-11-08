@@ -40,3 +40,16 @@ A origem do GitHub Pages é **GitHub Actions**. O workflow **Wiki** compila cada
 Em **Actions → Wiki**, confira a execução do commit publicado e abra no site as páginas afetadas. Para executar o workflow novamente, use **Run workflow** na branch `main`.
 
 [Documentação de publicação do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
+
+## Catálogo e fichas de Tataris
+
+O cadastro está em `docs/assets/data/tataris.json`. Ele alimenta o catálogo, os cartões da tier list e a ficha do Pyropup durante o build, por `hooks/tataris.py`. A interface é própria da wiki e usa a paleta existente.
+
+- `records`: formas já documentadas, grau, elemento, **uso editorial** e retrato. `detail` aponta para uma ficha completa; sem esse campo, o cartão abre a referência existente.
+- `pyropup.forms`: habilidades, provas e divergências de cada evolução. Os números mantêm a versão das fontes; revisar a interface não equivale a testar as regras na versão atual do jogo.
+- `pyropup.sourcesMarkdown`: fontes exibidas ao leitor. `artSources` registra os três retratos adicionais do Creator Kit da Farlight, redimensionados para WebP.
+- A tier list usa marcadores `<!-- tatari-card:identificador -->`; os cartões são montados com o mesmo cadastro. O catálogo e a ficha não fazem consultas a serviços externos.
+
+Para adicionar outra linhagem completa, estenda o modelo de ficha e o renderizador com dados revisados; não preencha habilidades ou requisitos por inferência. As tags do catálogo não pretendem substituir a classe oficial do Tatari.
+
+Validação: execute `python -m mkdocs build --strict` e `python scripts/check_catalog.py`. A segunda checagem verifica imagens, referências locais, âncoras e integridade do cadastro. Na prévia, teste busca com acentos, filtros combinados, ausência de resultados, troca T1–T4 com teclado, link direto por forma, celular e leitura sem JavaScript.

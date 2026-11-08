@@ -15,14 +15,10 @@ Seleção do ranking de iniciantes do Critter Clashbook, revisado pela fonte em 
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Pyropup, forma T1](../assets/tataris/pyropup.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **[Pyropup](pyropup.md)** <span class="wiki-tatari-grade">T1</span><br>
-  Frente de Fogo
-- ![Rubblet, forma T1](../assets/tataris/rubblet.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Rubblet** <span class="wiki-tatari-grade">T1</span><br>
-  Frente de Pedra
-- ![Blueflick, forma T1](../assets/tataris/blueflick.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Blueflick** <span class="wiki-tatari-grade">T1</span><br>
-  Dano de Fogo
-- ![Ringtail, forma T1](../assets/tataris/ringtail.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Ringtail** <span class="wiki-tatari-grade">T1</span><br>
-  Apoio aos aliados próximos
+<!-- tatari-card:pyropup -->
+<!-- tatari-card:rubblet -->
+<!-- tatari-card:blueflick -->
+<!-- tatari-card:ringtail -->
 
 </div>
 
@@ -34,12 +30,9 @@ Seleção do ranking de iniciantes do Critter Clashbook, revisado pela fonte em 
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Waddledo, forma T1](../assets/tataris/waddledo.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Waddledo** <span class="wiki-tatari-grade">T1</span><br>
-  Frente de Água
-- ![Voltfawn, forma T1](../assets/tataris/voltfawn.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Voltfawn** <span class="wiki-tatari-grade">T1</span><br>
-  Dano Elétrico
-- ![Cheerling, forma T1](../assets/tataris/cheerling.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Cheerling** <span class="wiki-tatari-grade">T1</span><br>
-  Cura e bônus
+<!-- tatari-card:waddledo -->
+<!-- tatari-card:voltfawn -->
+<!-- tatari-card:cheerling -->
 
 </div>
 
@@ -51,12 +44,9 @@ Seleção do ranking de iniciantes do Critter Clashbook, revisado pela fonte em 
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Droppit, forma T1](../assets/tataris/droppit.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Droppit** <span class="wiki-tatari-grade">T1</span><br>
-  Dano de Água
-- ![Pandaroo, forma T1](../assets/tataris/pandaroo.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Pandaroo** <span class="wiki-tatari-grade">T1</span><br>
-  Dano de Planta
-- ![Taptail, forma T1](../assets/tataris/taptail.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Taptail** <span class="wiki-tatari-grade">T1</span><br>
-  Dano de Pedra
+<!-- tatari-card:droppit -->
+<!-- tatari-card:pandaroo -->
+<!-- tatari-card:taptail -->
 
 </div>
 
@@ -72,18 +62,12 @@ A classificação abaixo é uma **seleção editorial da wiki**, baseada nas fun
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Rockzilla, forma T3](../assets/tataris/rockzilla.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Rockzilla** <span class="wiki-tatari-grade">T3</span><br>
-  Frente de Pedra
-- ![Voltverine, forma T3](../assets/tataris/voltverine.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Voltverine** <span class="wiki-tatari-grade">T3</span><br>
-  Frente com dano Elétrico
-- ![Voltmare, forma T3](../assets/tataris/voltmare.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Voltmare** <span class="wiki-tatari-grade">T3</span><br>
-  Dano concentrado em chefes
-- ![Waveflutter, forma T3](../assets/tataris/waveflutter.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Waveflutter** <span class="wiki-tatari-grade">T3</span><br>
-  Dano para cobrir a faixa
-- ![Cheerspring, forma T3](../assets/tataris/cheerspring.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Cheerspring** <span class="wiki-tatari-grade">T3</span><br>
-  Cura e bônus para a equipe
-- ![Sonarbat, forma T3](../assets/tataris/sonarbat.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Sonarbat** <span class="wiki-tatari-grade">T3</span><br>
-  Suporte que depende da cobertura da dupla
+<!-- tatari-card:rockzilla -->
+<!-- tatari-card:voltverine -->
+<!-- tatari-card:voltmare -->
+<!-- tatari-card:waveflutter -->
+<!-- tatari-card:cheerspring -->
+<!-- tatari-card:sonarbat -->
 
 </div>
 
@@ -95,14 +79,10 @@ A classificação abaixo é uma **seleção editorial da wiki**, baseada nas fun
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Blitzmane, forma T3](../assets/tataris/blitzmane.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Blitzmane** <span class="wiki-tatari-grade">T3</span><br>
-  Estabilidade na frente
-- ![Flarevix, forma T3](../assets/tataris/flarevix.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Flarevix** <span class="wiki-tatari-grade">T3</span><br>
-  Dano de Fogo na retaguarda
-- ![Aquariel, forma T3](../assets/tataris/aquariel.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Aquariel** <span class="wiki-tatari-grade">T3</span><br>
-  Cura e bônus com ondas
-- ![Armorjaw, forma T3](../assets/tataris/armorjaw.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Armorjaw** <span class="wiki-tatari-grade">T3</span><br>
-  Puxa o chefe para a faixa de dano
+<!-- tatari-card:blitzmane -->
+<!-- tatari-card:flarevix -->
+<!-- tatari-card:aquariel -->
+<!-- tatari-card:armorjaw -->
 
 </div>
 
@@ -114,14 +94,10 @@ A classificação abaixo é uma **seleção editorial da wiki**, baseada nas fun
 
 <div class="wiki-tatari-grid" markdown="1">
 
-- ![Rockshell, forma T3](../assets/tataris/rockshell.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Rockshell** <span class="wiki-tatari-grade">T3</span><br>
-  Proteção na frente
-- ![Pyroclobster, forma T3](../assets/tataris/pyroclobster.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Pyroclobster** <span class="wiki-tatari-grade">T3</span><br>
-  Alternativa de dano de Fogo
-- ![Charflutter, forma T3](../assets/tataris/charflutter.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Charflutter** <span class="wiki-tatari-grade">T3</span><br>
-  Cura e bônus na mesma unidade
-- ![Tideon, forma T3](../assets/tataris/tideon.webp){ .wiki-tatari-portrait loading="lazy" width="72" height="72" } **Tideon** <span class="wiki-tatari-grade">T3</span><br>
-  Lentidão e Fragile na retaguarda
+<!-- tatari-card:rockshell -->
+<!-- tatari-card:pyroclobster -->
+<!-- tatari-card:charflutter -->
+<!-- tatari-card:tideon -->
 
 </div>
 
