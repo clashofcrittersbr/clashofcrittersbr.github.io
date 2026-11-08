@@ -10,7 +10,13 @@ O álbum organiza cartas em conjuntos. Use a tela do álbum para identificar as 
 
 Antes de enviar uma carta, confira o destinatário, o conjunto e o limite mostrado pelo jogo. As edições do álbum podem trazer tipos de cartas, prêmios e condições diferentes.
 
+## Cartas Foil
+
+O anúncio de **07/10/2026 · 0.49.1** apresentou cartas Foil para o álbum Autumn Tales: versões visuais especiais das cartas normais, com possibilidade de aparecer nos pacotes. Podem ser trocadas ou presenteadas como cartas comuns, e colecioná-las não altera as recompensas do evento. O início foi anunciado para depois do álbum anterior; confira qual edição está ativa no jogo.
+
+[Fonte: patch fornecido pelo mantenedor](../patches-tataris.md).
+
 ## Fontes
 
 - [Clash of Critters Wiki · Álbum de Cartas](https://clashofcritters.wiki.gg/wiki/Card_Album)
-- [Farlight · Atualização com cartas especiais](https://play.google.com/store/apps/eventdetails/4831445432511516115)
+- [Farlight · Patch de 07/10 fornecido pelo mantenedor](../patches-tataris.md)

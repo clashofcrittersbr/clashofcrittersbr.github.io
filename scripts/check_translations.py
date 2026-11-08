@@ -26,3 +26,27 @@ for path in (root / 'docs/tataris').glob('*.md'):
 corrected = (root / 'docs/tataris/dewgrub.md').read_text()
 assert corrected.count('as habilidades da Horda não recebem esse efeito (patch de 21/10/2026)') == 2
 print(f'{len(translations)} traduções: cobertura, quantidades e correções verificadas.')
+
+# Validate what readers actually see, not just the separate translation dictionary.
+from html import unescape
+catalog = json.loads((root / 'docs/assets/data/tataris.json').read_text())
+records = {record['id']: record for record in catalog['records']}
+assert set(records) == {record['slug'] for record in source['records']}
+for original in source['records']:
+    record = records[original['slug']]
+    assert record['name'] == original['name']
+    assert record['tier'] == f"T{original['tier']}"
+    assert record['family'] == original['family']
+    file, anchor = record['detail'].split('#')
+    content = (root / 'docs' / file).read_text()
+    section = content.split('{#' + anchor + '}', 1)[1].split('\n## ', 1)[0]
+    normal = translations[original['skill']].replace('???:', '**Nome da habilidade ainda não confirmado na base:**')
+    # The historical translation remains unchanged; only the published text gets the official correction.
+    if record['id'] in {'waveflutter', 'morphanessa'}:
+        normal = normal.replace('Os ataques dos aliados adjacentes também podem aplicar Lentidão e Sono.', 'As habilidades normais dos aliados adjacentes também podem aplicar Lentidão e Sono; as habilidades da Horda não recebem esse efeito (patch de 21/10/2026).')
+    assert normal in section, (file, anchor, 'Habilidade normal diverge da tradução')
+    assert original['skill'] in unescape(section), (file, anchor, 'Original ausente')
+    for level, skill in (original.get('hordeSkills') or {}).items():
+        line = f"- **Nível {level.removeprefix('level')} — {skill['name']}:** {translations[skill['text']]}"
+        assert line in section, (file, anchor, level)
+print('248 fichas conferidas contra nomes, graus, famílias, originais e traduções, com exceções oficiais explícitas.')

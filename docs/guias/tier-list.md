@@ -54,7 +54,7 @@ Seleção do ranking de iniciantes do Critter Clashbook, revisado pela fonte em 
 
 ## Horda · Temporada 3
 
-A classificação abaixo é uma **seleção editorial da wiki**, baseada nas funções descritas pelo Critter Clashbook no início da Temporada 3 (27/10/2026) e nas notas da Farlight consultadas até a **0.51.1**. As letras priorizam o encaixe na função indicada. A lista fica como referência de teste até termos partidas documentadas nessa versão.
+A classificação abaixo é uma **seleção editorial da wiki**, baseada nas funções descritas pelo Critter Clashbook no início da Temporada 3 (27/10/2026) com a correção das habilidades de Waveflutter/Morphanessa descrita no [patch de 21/10/2026 · 0.49.1.4372.6766](../patches-tataris.md). As letras priorizam o encaixe na função indicada. A revisão de 08/11/2026 corrige a referência de versão; não recalcula o ranking nem certifica o balanceamento atual. A lista continua como referência de teste até termos partidas documentadas após os patches fornecidos.
 
 <div class="wiki-tier wiki-tier--s" markdown="1">
 
@@ -103,7 +103,7 @@ A classificação abaixo é uma **seleção editorial da wiki**, baseada nas fun
 
 </div>
 
-**Ajuste da Temporada 3.** Na 0.50.1, os efeitos de lentidão e sono de Waveflutter e Morphanessa deixaram de se aplicar às habilidades exclusivas de Horda dos aliados adjacentes. As habilidades regulares desses aliados ainda podem receber o efeito. Confira a descrição no jogo ao testar essa combinação.
+**Ajuste da Temporada 3.** No anúncio de 21/10/2026, os efeitos de lentidão e sono de Waveflutter e Morphanessa deixaram de se aplicar às habilidades exclusivas de Horda dos aliados adjacentes. As habilidades regulares desses aliados ainda podem receber o efeito. Confira a descrição no jogo ao testar essa combinação.
 
 [Ver o diagrama da dupla no guia da Horda](../formacoes/horda.md#o-que-combinar-com-a-dupla)
 
@@ -113,6 +113,6 @@ Esta é uma wiki de fãs. Os retratos são artes da Farlight Games disponibiliza
 
 - [Critter Clashbook · Ranking por grau de evolução](https://clashcritters.com/tier-list/)
 - [Critter Clashbook · Funções na Horda, Temporada 3](https://clashcritters.com/tier-list/horde-invasion/)
-- [Farlight · Notas das versões 0.50.1 e 0.51.1](https://coc-club.farlightgames.com/)
+- [Patches oficiais transcritos pelo mantenedor](../patches-tataris.md)
 - [Farlight · Creator Kit e créditos dos retratos](https://activity-cc.farlightgames.com/CreatorZone/#kit)
 - [TataDex · Linhas de evolução dos Tataris](https://tatadex.org/evolutions/)

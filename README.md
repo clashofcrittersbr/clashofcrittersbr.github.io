@@ -61,3 +61,20 @@ Validação: execute `python -m mkdocs build --strict` e `python scripts/check_c
 Atualizar `docs/patches-tataris.md` e as fichas afetadas ao receber transcrição oficial. Não inferir valores que o anúncio remete à interface do jogo. Bonobean e Wattail permanecem pendências explícitas fora da contagem histórica. Conferir divergência de versões com a ficha anterior de Pyropup antes de alterar suas provas. Executar build estrito e `python scripts/check_catalog.py`.
 
 Traduções: `docs/assets/data/tataris-pt-br.json` mapeia cada descrição original integral à tradução. Ao editar, preservar quantidades, probabilidades qualitativas e condições de ativação. `python scripts/check_translations.py` verifica cobertura e quantidades; a revisão semântica permanece editorial. Correções oficiais são notas específicas, não alterações silenciosas na fonte importada.
+
+## Revisão geral e verificações
+
+Antes de abrir uma PR, execute:
+
+```sh
+python -m mkdocs build --strict
+python scripts/check_site.py
+python scripts/check_catalog.py
+python scripts/check_translations.py
+```
+
+`check_site.py` cobre todas as páginas geradas, inclusive URLs em HTML, imagens locais, âncoras, IDs duplicados e títulos dos iframes. Não verifica disponibilidade de serviços externos. `check_translations.py` também compara cada seção publicada com a fonte e a tradução, preservando as duas correções oficiais explícitas de Waveflutter/Morphanessa. Uma tradução semântica ou regra nova ainda exige revisão humana.
+
+No teste visual, confira links independentes nos cartões da página inicial, pesquisa global, filtros combinados/sem resultados, abas com teclado, seleção de capítulo, simulador incorporado e uma janela estreita. Registre bloqueios de fontes externas como limites da revisão, não como prova de que o site saiu do ar.
+
+O relatório desta revisão está em [maintenance/revisao-2026-11-08.md](maintenance/revisao-2026-11-08.md).

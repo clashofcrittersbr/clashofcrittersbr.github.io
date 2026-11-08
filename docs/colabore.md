@@ -71,3 +71,11 @@ Organize a ficha por linhagem, a partir da primeira forma. Use a [ficha do Pyrop
 | Acesso a cada forma | Estrelas para abrir a prova e tarefas feitas na forma anterior. Indique quais requisitos são cumulativos e quais são alternativas. |
 | Versão e fontes | Data, versão ou build e fonte de cada grupo de dados. Registre o que a tela do jogo mostra quando houver captura da versão indicada. |
 | Divergências | Mostre os valores conflitantes e informe qual referência tem versão identificada. Oriente o leitor a conferir a tarefa no jogo antes de gastar recursos. |
+
+## Fontes, créditos e atualização
+
+- Vincule a página específica usada e registre data, versão e autor quando disponíveis. Separe anúncio oficial, descrição da base histórica, relato de jogador e teste da comunidade BR.
+- Nos textos derivados da wiki.gg, preserve a atribuição aos colaboradores e a licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), identificando tradução, reorganização e correções feitas aqui. Isso não estende a licença às artes e marcas do jogo. [Política da fonte](https://clashofcritters.wiki.gg/wiki/Meta:Copyrights).
+- As ferramentas incorporadas continuam nos sites dos seus autores. Preserve os créditos e avisos de licença de cada ferramenta; a licença de uma não se aplica automaticamente às demais.
+- Para patches enviados manualmente, siga a [política de atualização](patches-tataris.md#politica-de-atualizacao-manual). Não complete nomes, números ou requisitos que o anúncio não informa.
+- Documente a mudança no changelog e inclua uma prévia na PR. Uma correção editorial não equivale a validar todo o guia na versão atual do jogo.

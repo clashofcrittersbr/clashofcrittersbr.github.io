@@ -2,15 +2,19 @@
 
 Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de implementação ficam nos commits e pull requests vinculados.
 
-## Em revisão
+## Ainda não publicado
 
-- PR12: catálogo com 248 formas em 67 famílias, fichas locais, habilidades normais e da Horda, fontes e créditos.
-- Correções dos patches de 07/10, 21/10 e 04/11 fornecidos pelo mantenedor, com Bonobean e Wattail registrados como adições pendentes.
-- Datas da base e divergências de versão explicitadas.
-- 448 descrições traduzidas para pt-BR, glossário de efeitos, originais preservados e inconsistências da fonte sinalizadas; correção de Waveflutter/Morphanessa integrada ao texto.
+- Revisão geral: referências de versão alinhadas às transcrições oficiais, distinção entre raridade e cor de evolução, ligações entre as fichas e atualização dos guias afetados.
+- Corrigidos links sobrepostos na página inicial; famílias organizadas alfabeticamente.
+- Verificação automática de todas as páginas, imagens locais, links e âncoras; conferência das fichas contra a base e as traduções.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
+## Publicado em 08/11/2026
+
+- Catálogo com 248 formas em 67 famílias, 448 descrições traduzidas, habilidades normais e da Horda, fontes, créditos e correções dos patches fornecidos pelo mantenedor. [PR #12](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/12)
+- Bonobean e Wattail registrados como adições pendentes. Datas da base, limites de validação e divergências entre fontes explicitados.
+
 ## Publicado em 07/11/2026
 
 - Catálogo visual, filtros e ficha interativa do Pyropup T1–T4. [PR #11](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/11)

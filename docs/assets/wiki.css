@@ -263,8 +263,8 @@
   font-weight: 700;
 }
 
-/* Estende o único link por todo o cartão, sem criar outro ponto de foco. */
-.wiki-tile a::after {
+/* Só os cartões de modo têm um único destino. Os guias rápidos têm dois links independentes. */
+.wiki-modes .wiki-tile a::after {
   position: absolute;
   inset: 0;
   border-radius: var(--wiki-radius);

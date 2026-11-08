@@ -90,7 +90,7 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 
 **Nome da habilidade ainda não confirmado na base:** Golpeia com a garra para causar dano em uma área grande. Às vezes realiza um ataque pesado que aplica Atordoamento e Repulsão, forçando inimigos para fileiras adjacentes, ou aplica Shredded aos inimigos que não podem ser repelidos. Armavolve possui Aura: Rock enquanto está no campo.
 
-<details><summary>Consultar descrição original em inglês</summary><p lang="en">**Nome da habilidade ainda não confirmado na base:** Swipes claw to deal large AoE damage. Sometimes launches a heavy attack that inflicts Stun and Knockback on enemies to force them into adjacent rows, or inflicts Shredded on enemies that cannot be knocked back. Armavolve carries Aura: Rock whenever on the field.</p></details>
+<details><summary>Consultar descrição original em inglês</summary><p lang="en">???: Swipes claw to deal large AoE damage. Sometimes launches a heavy attack that inflicts Stun and Knockback on enemies to force them into adjacent rows, or inflicts Shredded on enemies that cannot be knocked back. Armavolve carries Aura: Rock whenever on the field.</p></details>
 
 ### Horda: níveis da partida
 
@@ -103,6 +103,8 @@ Os níveis 3, 5 e 7 abaixo são melhorias durante a Horda, independentes do grau
 Página individual ausente na base; registro complementar do Horde Drafter, pendente de conferência direta na wiki.gg.
 
 ## Evolução e provas
+
+A raridade indicada acima vem do campo Common/Rare da base. Ela é distinta do grau T1–T4 e das cores de evolução usadas em outros guias.
 
 Os nomes e graus acima descrevem a linhagem. Custos e tarefas não constam desta base e precisam ser conferidos no jogo. O patch de 04/11 substitui provas “Fishing Contest ou Zobo Shooter” por “Fishing Contest ou Artifact Adventure”, e “Raft Race ou Fishing Contest” por “Raft Race ou Zobo Shooter”, com transferência proporcional do progresso. Não há lista de famílias afetadas no anúncio.
 
