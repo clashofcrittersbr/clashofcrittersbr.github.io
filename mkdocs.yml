@@ -79,6 +79,8 @@ nav:
       - Álbum de Cartas: guias/album-de-cartas.md
   - Tataris:
       - Catálogo: tataris.md
+      - Guias:
+          - Evoluções e progressão: conteudo/tataria/guias/evolucoes.md
       - Patches e fontes: patches-tataris.md
       - Famílias:
           - Ashlarva: tataris/ashlarva.md
@@ -156,6 +158,7 @@ nav:
       - Horda: formacoes/horda.md
   - Eventos:
       - Visão geral: eventos/index.md
+      - Corrida do Ouro: eventos/corrida-do-ouro.md
       - Caça ao Tesouro: eventos/caca-ao-tesouro.md
       - Concurso de Pesca: eventos/concurso-de-pesca.md
       - Tiro aos Zobos: eventos/tiro-aos-zobos.md

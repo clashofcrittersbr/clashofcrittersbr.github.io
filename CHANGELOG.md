@@ -4,7 +4,9 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
-Nenhuma alteração pendente.
+- Guia independente de Evoluções com capturas das contas 409 e 790, créditos ao DEODATO e limites de comparação.
+- Corrida do Ouro com fontes por afirmação, regras dos patches, variante CN e captura da adaptação utilizada pelo mantenedor.
+- Galerias leves, links entre guias e documentação das informações ainda pendentes.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->

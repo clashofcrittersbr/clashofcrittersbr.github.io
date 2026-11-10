@@ -36,3 +36,5 @@ Ao comparar dois Tataris, confira o elemento, a habilidade e o alcance. Um Tatar
 
 - [Farlight · Clash of Critters no Google Play](https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=pt-BR)
 - [Clash of Critters Wiki · Tataris](https://clashofcritters.wiki.gg/wiki/Tatari), [provas](https://clashofcritters.wiki.gg/wiki/Trials) e [máquina de pinball](https://clashofcritters.wiki.gg/wiki/Pinball)
+
+[Ver exemplos reais de progressão e prioridades de evolução](../conteudo/tataria/guias/evolucoes.md)
