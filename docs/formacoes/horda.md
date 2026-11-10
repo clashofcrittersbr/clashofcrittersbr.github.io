@@ -28,6 +28,8 @@ Estas referências foram publicadas no início da Temporada 3, antes do anúncio
 
 [Consultar a tier list por função na Horda](../guias/tier-list.md#horda-temporada-3)
 
+[Abrir o guia comunitário da Dificuldade 3 (Duplo Tubarão)](horda-d3.md){ .md-button }
+
 ## O que combinar com a dupla
 
 ![Exemplo de divisão de funções. Cada jogador segura um lado na frente. No meio, um cobre a cura e o outro apoia com controle. No fundo, os dois concentram dano no chefe.](../assets/diagramas/horda-em-dupla.svg){ .wiki-diagram loading="lazy" }
