@@ -4,12 +4,17 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+Nenhuma alteração pendente.
+
+<!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
+<!-- --8<-- [start:publicado] -->
+## Publicado em 10/11/2026
+
+- Novos guias de Evoluções e Corrida do Ouro, com exemplos reais, imagens e fontes. [PR #15](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/15)
 - Guia independente de Evoluções com capturas das contas 409 e 790, créditos ao DEODATO e limites de comparação.
 - Corrida do Ouro com fontes por afirmação, regras dos patches, variante CN e captura da adaptação utilizada pelo mantenedor.
 - Galerias leves, links entre guias e documentação das informações ainda pendentes.
 
-<!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
-<!-- --8<-- [start:publicado] -->
 ## Publicado em 08/11/2026
 
 - Revisão geral da wiki: patches corrigidos nos guias, navegação ajustada e famílias em ordem alfabética. [PR #13](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/13)
