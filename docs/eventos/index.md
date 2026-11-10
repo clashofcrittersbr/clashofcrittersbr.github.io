@@ -9,7 +9,7 @@ Confira no jogo quais eventos estão abertos. Muitos usam itens coletados na má
 | [Tiro aos Zobos](tiro-aos-zobos.md) | Moedas de disparo | Eliminar Zobos nas arenas para somar pontos à equipe. |
 | [Aventura dos Artefatos](#aventura-dos-artefatos) | Tochas (Torches) | Explorar ruínas em equipe de quatro e acumular valor em artefatos. |
 | Marathon Party | Skates | Avançar no percurso para somar distância à equipe. |
-| Corrida do Ouro | Energéticos | Disputar territórios que geram ouro para a liga. |
+| [Corrida do Ouro](corrida-do-ouro.md) | Energéticos | Disputar territórios que geram ouro para a liga. |
 | Cozy Farm | Fertilizante | Cultivar e colher plantas na competição em equipe. |
 
 ## Aventura dos Artefatos
@@ -23,6 +23,8 @@ Artifact Adventure foi anunciado em **04/11/2026 · 0.50.1.1150.6906**. Equipes 
 Use os skates para girar a roleta de distância. Cada jogador gasta seus próprios skates, e a distância percorrida conta para o total da equipe. Confira o fechamento da montagem das equipes e da corrida na tela da edição atual.
 
 ## Corrida do Ouro
+
+[Guia completo: regras, fontes e formações](corrida-do-ouro.md).
 
 A liga disputa casas do mapa. O território ocupado gera ouro ao longo do tempo, e o total acumulado determina a classificação das ligas. Antes de gastar energéticos, combine com a equipe qual território atacar e confira a produção de ouro da casa.
 

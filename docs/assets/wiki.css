@@ -417,3 +417,9 @@
   font-size: .62rem;
   font-weight: 700;
 }
+
+/* Capturas comunitárias: miniaturas legíveis, originais acessíveis pelo link. */
+.account-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; align-items: start; }
+.account-gallery p { margin: 0; }
+.account-gallery img { width: 100%; border-radius: 12px; border: 1px solid var(--md-default-fg-color--lightest); }
+.formation-capture { width: 100%; max-width: 420px; border-radius: 12px; }

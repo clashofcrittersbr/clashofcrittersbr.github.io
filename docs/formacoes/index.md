@@ -13,3 +13,5 @@ Escolha o modo de jogo para consultar as formações.
 3. Observe onde o teste falhou ou o que mudou na vitória. Alterar uma coisa por vez ajuda a comparar as tentativas.
 
 [Veja o modelo de contribuição](../colabore.md#modelo-de-formacao).
+
+- [Corrida do Ouro](../eventos/corrida-do-ouro.md) · referências do Artiar, variante CN e alternativas por investimento.
