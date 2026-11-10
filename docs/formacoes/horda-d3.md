@@ -28,6 +28,10 @@ A composição da linha de frente é idêntica para os dois jogadores. A variaç
  ---------------------------------------
 ```
 
+![Formação de referência da Horda D3, com as unidades posicionadas no tabuleiro](../assets/horda/formacao-d3.webp){ .formation-capture loading="lazy" }
+
+*Imagem de referência da formação enviada pelo mantenedor. Os ícones de aprovação/reprovação fazem parte da captura e não representam uma classificação editorial da wiki.*
+
 ### Posicionamento por jogador (10 Tataris)
 
 - **Linha de frente (inamovível):** Sapo, Mantis e Polialeta no topo.
