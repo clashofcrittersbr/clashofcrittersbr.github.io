@@ -50,6 +50,37 @@ export async function saveAccount(userId, profile, dojoLevels) {
   if (settingsError) throw settingsError;
 }
 
+export async function loadMembership(userId) {
+  const { data, error } = await supabase.from('member_directory').select('id').eq('id', userId).maybeSingle();
+  if (error) throw error;
+  return Boolean(data);
+}
+
+export async function saveMembership(userId, profile, listed) {
+  if (!listed) {
+    const { error } = await supabase.from('member_directory').delete().eq('id', userId);
+    if (error) throw error;
+    return;
+  }
+  const { error } = await supabase.from('member_directory').upsert({
+    id: userId,
+    display_name: profile.display_name.trim(),
+    game_uid: profile.game_uid.trim()
+  }, { onConflict: 'id' });
+  if (error) throw error;
+}
+
+async function refreshMemberPresence() {
+  if (!supabase) return;
+  try {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (session?.user) {
+      // A trigger no banco registra o horário real da visita; só afeta quem aderiu à lista.
+      await supabase.from('member_directory').update({ last_seen_at: new Date().toISOString() }).eq('id', session.user.id);
+    }
+  } catch { /* A página pública continua disponível se a lista falhar. */ }
+}
+
 export async function handleCallback() {
   if (!supabase) throw new Error('Supabase não configurado.');
   const { data: { session }, error } = await supabase.auth.getSession();
@@ -85,11 +116,19 @@ async function initAccountPage() {
       const user = await currentUser();
       const data = new FormData(form);
       const levels = [...Array(5)].map((_, i) => Math.max(0, Number(data.get(`dojo_${i}`)) || 0));
-      await saveAccount(user.id, {
-        game_uid: data.get('game_uid'),
-        display_name: data.get('display_name'),
+      const listing = form.querySelector('[data-member-opt-in]');
+      const profile = {
+        game_uid: String(data.get('game_uid') || '').trim(),
+        display_name: String(data.get('display_name') || '').trim(),
         avatar_url: data.get('avatar_url')
+      };
+      if (!listing.disabled && listing.checked && (profile.display_name.length < 2 || !profile.game_uid)) {
+        throw new Error('Para aparecer na lista, informe o nome de exibição e o UID do jogo.');
+      }
+      await saveAccount(user.id, {
+        ...profile
       }, levels);
+      if (!listing.disabled) await saveMembership(user.id, profile, listing.checked);
       showStatus('Dados salvos.', 'success');
       window.notify?.('Conta atualizada.');
     } catch (error) {
@@ -116,6 +155,12 @@ async function initAccountPage() {
     });
     root.querySelector('[data-account-email]').textContent = user.email || 'Conta autenticada';
     root.querySelector('[data-account-status]').hidden = true;
+    try {
+      root.querySelector('[data-member-opt-in]').checked = await loadMembership(user.id);
+    } catch {
+      root.querySelector('[data-member-opt-in]').disabled = true;
+      showStatus('A lista de membros está indisponível no momento. Os dados da conta continuam acessíveis.', 'error');
+    }
   } catch (error) {
     showStatus(error.message || 'Não foi possível carregar a conta.', 'error');
   }
@@ -123,3 +168,5 @@ async function initAccountPage() {
 
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initAccountPage);
 else initAccountPage();
+
+void refreshMemberPresence();
