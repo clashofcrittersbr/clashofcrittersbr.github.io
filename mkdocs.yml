@@ -62,10 +62,12 @@ markdown_extensions:
 extra_css:
   - assets/wiki.css
   - assets/tataris.css
+  - stylesheets/custom-dialogs.css
 
 extra_javascript:
   - assets/capitulos.js
   - assets/tataris.js
+  - javascripts/site-dialogs.mjs
 
 nav:
   - Início: index.md
