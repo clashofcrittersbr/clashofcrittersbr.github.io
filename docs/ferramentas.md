@@ -21,22 +21,11 @@ O Companion reúne guias, calculadoras, mapas e planejadores comunitários. A wi
 - [Guia do Concurso de Pesca](https://kenzkunz.github.io/tatari-companion/events/fishing.html)
 - [Calculadora da loja](https://kenzkunz.github.io/tatari-companion/shop-calculator.html)
 
-## Tierlist Maker local
+## Tierlist Maker
 
-[Abrir o Tierlist Maker local](ferramentas/tierlist-maker.md){ .md-button .md-button--primary }
+[Abrir o Tierlist Maker](ferramentas/tierlist-maker.md){ .md-button .md-button--primary }
 
-A primeira adaptação local permite montar uma classificação sem login, salvar no navegador e exportar/importar o resultado em JSON.
-
-## O que será incorporado à wiki
-
-A integração será gradual:
-
-1. ferramentas locais que não exigem conta;
-2. catálogo JSON compartilhado de Tataris e evoluções;
-3. planejador de evolução local;
-4. ferramentas que dependem de conta e Supabase, somente após a publicação do TAP correspondente.
-
-Até essa conclusão, os links acima funcionam como acesso direto às ferramentas públicas do projeto original.
+Monte uma classificação personalizada dos Tataris, organize as formas por nível e exporte o resultado para reutilizar depois.
 
 ## Créditos e limites
 
