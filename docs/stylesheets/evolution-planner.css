@@ -20,9 +20,11 @@
   margin: 1.15rem 0;
 }
 .planner-toolbar label,
+.planner-picker label,
 .planner-field { display: grid; gap: .3rem; color: var(--plan-ink); font-size: .78rem; font-weight: 700; }
 .planner-toolbar input,
 .planner-toolbar select,
+.planner-picker select,
 .planner-field select {
   box-sizing: border-box;
   width: 100%;
@@ -56,9 +58,12 @@
 .evolution-planner .planner-secondary:hover { background: var(--plan-field); }
 .planner-toolbar input:focus-visible,
 .planner-toolbar select:focus-visible,
+.planner-picker select:focus-visible,
 .planner-field select:focus-visible,
 .evolution-planner button:focus-visible,
 .planner-import:focus-within { outline: 3px solid var(--plan-gold); outline-offset: 2px; }
+.planner-picker { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: end; gap: .65rem; margin: .8rem 0 1rem; }
+.planner-picker label { display: grid; gap: .3rem; color: var(--plan-ink); font-size: .78rem; font-weight: 700; }
 .planner-actions { display: flex; flex-wrap: wrap; gap: .55rem; margin: .8rem 0; }
 .planner-import { display: inline-flex; align-items: center; }
 .planner-import input { position: absolute; width: 1px; height: 1px; opacity: 0; }
@@ -102,5 +107,7 @@
 .md-typeset .planner-line li.is-owned { background: #d3ecd9; color: #174e36; }
 [data-md-color-scheme="slate"] .planner-line li.is-owned { background: #285b42; color: #eefbf2; }
 .md-typeset .planner-line li.is-goal { border: 2px solid #bd8b30; }
+.evolution-planner .planner-remove { display: block; margin-top: .7rem; min-height: 44px; width: 100%; border-color: var(--plan-border); background: transparent; color: var(--plan-ink); }
+.evolution-planner .planner-remove:hover { background: var(--plan-field); }
 @media (max-width: 760px) { .planner-toolbar { grid-template-columns: repeat(2, minmax(0, 1fr)); } .planner-toolbar label:first-child { grid-column: 1 / -1; } }
-@media (max-width: 520px) { .planner-toolbar { grid-template-columns: minmax(0, 1fr); } .planner-toolbar label:first-child { grid-column: auto; } .planner-fields { grid-template-columns: minmax(0, 1fr); } .planner-actions button, .planner-import { flex: 1 1 100%; justify-content: center; } }
+@media (max-width: 520px) { .planner-toolbar, .planner-picker { grid-template-columns: minmax(0, 1fr); } .planner-toolbar label:first-child { grid-column: auto; } .planner-fields { grid-template-columns: minmax(0, 1fr); } .planner-actions button, .planner-import { flex: 1 1 100%; justify-content: center; } }
