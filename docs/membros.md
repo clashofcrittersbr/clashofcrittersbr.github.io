@@ -4,15 +4,22 @@ Aqui aparecem apenas pessoas que escolheram publicar seu **nome de jogo e UID**.
 
 **Ativo** significa que a pessoa abriu a wiki com a conta conectada nos últimos 15 dias. Depois disso, ela passa automaticamente à lista de inativos. O indicador reflete a visita à wiki, não a atividade dentro do jogo.
 
+[Gerenciar minha inscrição](conta.md){ .md-button .md-button--primary }
+
 <div class="members-directory" data-members-directory>
+  <div class="members-toolbar">
+    <label for="members-search">Buscar por Nick ou UID</label>
+    <input id="members-search" data-members-search type="search" placeholder="Digite um Nick ou UID" autocomplete="off" aria-controls="members-active-list members-inactive-list" disabled>
+  </div>
+  <p class="members-summary" role="status" data-members-summary hidden></p>
   <p class="members-status" role="status" data-members-status>Carregando membros…</p>
   <section aria-labelledby="members-active-title">
     <h2 id="members-active-title">Ativos <span class="members-count" data-members-active-count></span></h2>
-    <ul class="members-list" data-members-active></ul>
+    <ul id="members-active-list" class="members-list" data-members-active></ul>
   </section>
   <section aria-labelledby="members-inactive-title">
     <h2 id="members-inactive-title">Inativos <span class="members-count" data-members-inactive-count></span></h2>
-    <ul class="members-list" data-members-inactive></ul>
+    <ul id="members-inactive-list" class="members-list" data-members-inactive></ul>
   </section>
 </div>
 
