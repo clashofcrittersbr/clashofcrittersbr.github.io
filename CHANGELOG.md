@@ -6,12 +6,12 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 - Busca por Nick ou UID no diretório de membros, com contagens filtradas e atalho para gerenciar a inscrição.
 
+<!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
+<!-- --8<-- [start:publicado] -->
 ## Publicado em 11/11/2026
 
 - Diretório voluntário de membros com Nick, UID e listas de ativos/inativos conforme visitas autenticadas nos últimos 15 dias. Migração SQL 002 aplicada. [PR #29](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/29)
 
-<!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
-<!-- --8<-- [start:publicado] -->
 ## Publicado em 10/11/2026
 
 - Novos guias de Evoluções e Corrida do Ouro, com exemplos reais, imagens e fontes. [PR #15](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/15)
