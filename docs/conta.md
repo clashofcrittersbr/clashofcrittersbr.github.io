@@ -33,5 +33,5 @@ Esta área é opcional. A wiki pública continua disponível sem login. Ao auten
 
 </div>
 
-!!! warning "Configuração necessária"
-    Esta página só será ativada depois que a URL e a publishable key do Supabase forem preenchidas em `docs/javascripts/supabase-config.mjs`, e os provedores forem configurados no painel.
+!!! info "Status do login"
+    O login social está disponível pelos provedores configurados. Caso um botão apresente erro, confira a configuração do provedor e as URLs de redirecionamento no Supabase.
