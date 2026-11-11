@@ -17,6 +17,9 @@ O anúncio de **21/10/2026 · 0.49.1.4372.6766** abriu a Temporada 3. Ela acresc
 
 [Transcrições oficiais e limites de verificação](../patches-tataris.md)
 
+!!! info "Prévia da próxima temporada"
+    Uma [demonstração do servidor pioneiro](../previas/roost.md) apresenta Roost e chips ligados à Horda S4. Os efeitos ainda podem mudar; este guia continua descrevendo a Temporada 3 até a publicação do patch oficial.
+
 ## Referências da Temporada 3
 
 Estas referências foram publicadas no início da Temporada 3, antes do anúncio de 04/11. As sugestões abaixo servem para escolher o que testar. Ainda faltam nesta wiki partidas com formação, resultado e versão do anúncio de 04/11 documentados.
