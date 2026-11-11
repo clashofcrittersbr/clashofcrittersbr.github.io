@@ -36,4 +36,6 @@ Organize suas **67 famílias e 248 formas** catalogadas: marque até qual T voc�
 - O navegador guarda alterações automaticamente. **Exportar JSON** cria uma cópia para levar a outro dispositivo; **Importar JSON** substitui o plano local após sua confirmação.
 - Com login, **Salvar na conta** guarda uma cópia privada em `user_settings`. **Carregar da conta** substitui o plano local após sua confirmação. Os níveis do Dojo e a lista pública de membros são independentes desse plano.
 
+Os dados de nomes e linhagens derivados da wiki.gg mantêm a atribuição aos colaboradores e a licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Os retratos são artes do jogo referenciadas no espelho fixado; essa licença de texto não se estende às imagens.
+
 Consulte os [guias de evolução](../conteudo/tataria/guias/evolucoes.md) e as fichas ligadas nos cartões para interpretar as formas, versões e limitações das fontes.
