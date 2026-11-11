@@ -6,6 +6,6 @@ As entradas históricas preservam o contexto de cada publicação. Para os ident
 
 ## Em observação no servidor pioneiro
 
-[Roost e a prévia da Horda S4](previas/roost.md): habilidades, chips e outras mudanças mostradas em vídeo de teste, com minutos, créditos e pontos ainda não confirmados. **Não é uma nota oficial do patch.**
+[Roost e a prévia da Horda S4](previas/roost.md): habilidades, chips e outras mudanças mostradas em vídeo de teste, com crédito ao criador e pontos ainda não confirmados. **Não é uma nota oficial do patch.**
 
 --8<-- "CHANGELOG.md:publicado"
