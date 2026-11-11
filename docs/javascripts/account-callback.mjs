@@ -1,7 +1,5 @@
-// O callback é uma página HTML independente e não recebe os scripts registrados no MkDocs.
-// Carregue a configuração explicitamente antes de criar o cliente Supabase.
-import './supabase-config.mjs';
-import { handleCallback } from './site-auth.mjs';
+// O callback é uma página independente do MkDocs.
+import { handleCallback } from './site-auth.mjs?v=27';
 
 try {
   await handleCallback();
