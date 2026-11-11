@@ -4,7 +4,11 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
-- Diretório voluntário de membros com Nick, UID e listas de ativos/inativos conforme visitas autenticadas nos últimos 15 dias. A publicação requer a migração SQL 002 antes da mesclagem.
+- Busca por Nick ou UID no diretório de membros, com contagens filtradas e atalho para gerenciar a inscrição.
+
+## Publicado em 11/11/2026
+
+- Diretório voluntário de membros com Nick, UID e listas de ativos/inativos conforme visitas autenticadas nos últimos 15 dias. Migração SQL 002 aplicada. [PR #29](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/29)
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
