@@ -4,7 +4,7 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
-Nenhuma alteração pendente.
+- Diretório voluntário de membros com Nick, UID e listas de ativos/inativos conforme visitas autenticadas nos últimos 15 dias. A publicação requer a migração SQL 002 antes da mesclagem.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
