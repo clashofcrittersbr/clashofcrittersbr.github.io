@@ -68,6 +68,13 @@ async function initAccountPage() {
   const form = root.querySelector('[data-account-form]');
   const logout = root.querySelector('[data-account-logout]');
   if (!supabase) { showStatus('A conta ainda não está conectada ao Supabase. A configuração será habilitada em uma próxima etapa.', 'info'); return; }
+  login.querySelectorAll('[data-provider]').forEach((button) => button.addEventListener('click', async () => {
+    button.disabled = true;
+    try { await signIn(button.dataset.provider); }
+    catch (error) { showStatus(error.message || 'Não foi possível iniciar o login.', 'error'); button.disabled = false; }
+  }));
+  form.addEventListener('submit', async (event) => { event.preventDefault(); try { const user = await currentUser(); const data = new FormData(form); const levels = [...Array(5)].map((_, i) => Math.max(0, Number(data.get(`dojo_${i}`)) || 0)); await saveAccount(user.id, { game_uid: data.get('game_uid'), display_name: data.get('display_name'), avatar_url: data.get('avatar_url') }, levels); showStatus('Dados salvos.', 'success'); window.notify?.('Conta atualizada.'); } catch (error) { showStatus(error.message || 'Não foi possível salvar.', 'error'); } });
+  logout.addEventListener('click', async () => { try { await signOut(); window.location.reload(); } catch (error) { showStatus(error.message, 'error'); } });
   try {
     const user = await currentUser();
     if (!user) { login.hidden = false; form.hidden = true; logout.hidden = true; return; }
@@ -79,9 +86,6 @@ async function initAccountPage() {
     (account.settings.dojo_levels || [0, 0, 0, 0, 0]).forEach((value, index) => { const field = root.querySelector(`[name="dojo_${index}"]`); if (field) field.value = value; });
     root.querySelector('[data-account-email]').textContent = user.email || 'Conta autenticada';
   } catch (error) { showStatus(error.message || 'Não foi possível carregar a conta.', 'error'); }
-  login.querySelectorAll('[data-provider]').forEach((button) => button.addEventListener('click', async () => { try { await signIn(button.dataset.provider); } catch (error) { showStatus(error.message, 'error'); } }));
-  form.addEventListener('submit', async (event) => { event.preventDefault(); try { const user = await currentUser(); const data = new FormData(form); const levels = [...Array(5)].map((_, i) => Math.max(0, Number(data.get(`dojo_${i}`)) || 0)); await saveAccount(user.id, { game_uid: data.get('game_uid'), display_name: data.get('display_name'), avatar_url: data.get('avatar_url') }, levels); showStatus('Dados salvos.', 'success'); window.notify?.('Conta atualizada.'); } catch (error) { showStatus(error.message || 'Não foi possível salvar.', 'error'); } });
-  logout.addEventListener('click', async () => { try { await signOut(); window.location.reload(); } catch (error) { showStatus(error.message, 'error'); } });
 }
 
 if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', initAccountPage); else initAccountPage();
