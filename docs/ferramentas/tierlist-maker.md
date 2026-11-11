@@ -1,8 +1,8 @@
-# Tierlist Maker local
+# Tierlist Maker
 
-Crie uma classificação personalizada dos Tataris diretamente no navegador. Esta primeira versão é local, não exige login e não grava dados no servidor.
+Crie uma classificação personalizada dos Tataris diretamente no navegador. O resultado fica salvo neste dispositivo e pode ser exportado para reutilização ou compartilhamento manual.
 
-!!! info "Primeira versão"
+!!! info "Classificação personalizada"
     O editor usa as famílias catalogadas na wiki. A classificação criada é uma opinião do jogador e não representa a tier list editorial da wiki.
 
 <div id="tierlist-app"></div>
