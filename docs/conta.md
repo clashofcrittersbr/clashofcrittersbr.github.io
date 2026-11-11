@@ -36,6 +36,10 @@ Esta área é opcional. A wiki pública continua disponível sem login. Ao auten
 <label><span class="dojo-element dojo-element--pedra"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#dojo-pedra"></use></svg><span>Pedra</span></span><input name="dojo_3" type="number" min="0" step="1" inputmode="numeric" aria-label="Nível do Dojo de Pedra"></label>
 <label><span class="dojo-element dojo-element--eletrico"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#dojo-eletrico"></use></svg><span>Elétrico</span></span><input name="dojo_4" type="number" min="0" step="1" inputmode="numeric" aria-label="Nível do Dojo de Elétrico"></label>
 </div></fieldset>
+<div class="account-listing">
+<label><input name="member_opt_in" type="checkbox" data-member-opt-in><span>Quero aparecer na lista pública de membros</span></label>
+<p>Ao marcar, você publica seu nome de exibição, UID e status de atividade para qualquer visitante. Desmarque e salve para remover seus dados da lista. Seu e-mail e níveis do Dojo continuam privados.</p>
+</div>
 <div class="account-actions"><button class="account-button" type="submit">Salvar dados</button><button class="account-button account-button--secondary" data-account-logout type="button">Sair</button></div>
 </form>
 
