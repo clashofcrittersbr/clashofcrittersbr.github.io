@@ -17,7 +17,7 @@ function normalizePlan(raw, families) {
     const stage = (value) => Number.isInteger(value) && value >= 0 && value <= family.forms.length ? value : 0;
     const owned = stage(entry.owned);
     const goal = stage(entry.goal);
-    if (owned || goal) plan.progress[family.id] = { owned, goal };
+    plan.progress[family.id] = { owned, goal };
   });
   return plan;
 }
@@ -81,7 +81,11 @@ function createCard(family, entry) {
     if (form.tier === goal) item.classList.add('is-goal');
     line.append(item);
   });
-  card.append(header, badge, fields, line);
+  const remove = make('button', 'planner-remove', 'Remover do plano');
+  remove.type = 'button';
+  remove.dataset.remove = family.id;
+  remove.setAttribute('aria-label', `Remover ${family.name} do plano`);
+  card.append(header, badge, fields, line, remove);
   return card;
 }
 
@@ -95,6 +99,8 @@ async function initPlanner() {
   const search = root.querySelector('[data-planner-search]');
   const element = root.querySelector('[data-planner-element]');
   const filter = root.querySelector('[data-planner-filter]');
+  const picker = root.querySelector('[data-planner-pick]');
+  const add = root.querySelector('[data-planner-add]');
   let families, state;
 
   const message = (text, kind = 'info') => { status.textContent = text; status.dataset.kind = kind; };
@@ -114,6 +120,7 @@ async function initPlanner() {
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); return true; }
     catch { message('O navegador não conseguiu salvar neste dispositivo. Exporte uma cópia em JSON.', 'error'); return false; }
   };
+  const selected = (family) => Object.hasOwn(state.progress, family.id);
   const progress = (family) => state.progress[family.id] || { owned: 0, goal: 0 };
   const render = () => {
     const started = families.filter((family) => progress(family).owned > 0).length;
@@ -122,13 +129,25 @@ async function initPlanner() {
       const p = progress(family);
       return p.goal > p.owned;
     }).length;
+    const selectedCount = families.filter(selected).length;
     summary.replaceChildren(
-      make('span', null, `${started} de ${families.length} famílias iniciadas`),
+      make('span', null, `${selectedCount} famílias no plano`),
+      make('span', null, `${started} iniciadas`),
       make('span', null, `${final} na forma final`),
       make('span', null, `${pending} metas pendentes`)
     );
     const term = normalizeText(search.value.trim());
+    const available = families.filter((family) => !selected(family)
+      && (element.value === 'all' || family.element === element.value)
+      && (!term || normalizeText(family.name).includes(term)
+        || family.forms.some((form) => normalizeText(form.name).includes(term))));
+    const previousPick = picker.value;
+    picker.replaceChildren(new Option('Escolha uma família', ''),
+      ...available.map((family) => new Option(`${family.name} · ${family.element}`, family.id)));
+    picker.value = available.some((family) => family.id === previousPick) ? previousPick : '';
+    add.disabled = !picker.value;
     const visible = families.filter((family) => {
+      if (!selected(family)) return false;
       const p = progress(family);
       if (element.value !== 'all' && family.element !== element.value) return false;
       if (term && !normalizeText(family.name).includes(term) && !family.forms.some((form) => normalizeText(form.name).includes(term))) return false;
@@ -140,12 +159,39 @@ async function initPlanner() {
         || (filter.value === 'final' && p.owned === family.forms.length);
     });
     grid.replaceChildren(...visible.map((family) => createCard(family, progress(family))));
-    results.textContent = `${visible.length} de ${families.length} famílias exibidas.`;
+    results.textContent = selectedCount
+      ? `${visible.length} de ${selectedCount} famílias do seu plano exibidas.`
+      : 'Seu plano está vazio. Escolha uma família acima e clique em Adicionar família.';
   };
 
   search.addEventListener('input', render);
   element.addEventListener('change', render);
   filter.addEventListener('change', render);
+  picker.addEventListener('change', () => { add.disabled = !picker.value; });
+  add.addEventListener('click', () => {
+    const family = families.find((item) => item.id === picker.value);
+    if (!family || selected(family)) return;
+    state.progress[family.id] = { owned: 0, goal: 0 };
+    search.value = '';
+    element.value = 'all';
+    filter.value = 'all';
+    saveLocal();
+    render();
+    grid.querySelector(`[data-family="${family.id}"] select[data-stage="owned"]`)?.focus();
+  });
+  grid.addEventListener('click', async (event) => {
+    const button = event.target.closest('button[data-remove]');
+    if (!button) return;
+    const family = families.find((item) => item.id === button.dataset.remove);
+    if (!family) return;
+    const entry = progress(family);
+    if ((entry.owned || entry.goal) && !(await confirmDialog(`Remover ${family.name} e suas escolhas deste dispositivo?`,
+      { title: 'Remover família', action: 'Remover', danger: true }))) return;
+    delete state.progress[family.id];
+    saveLocal();
+    render();
+    picker.focus();
+  });
   grid.addEventListener('change', (event) => {
     const select = event.target.closest('select[data-stage]');
     const card = select?.closest('[data-family]');
@@ -153,8 +199,7 @@ async function initPlanner() {
     const family = families.find((item) => item.id === card.dataset.family);
     if (!family) return;
     const entry = { ...progress(family), [select.dataset.stage]: Number(select.value) };
-    if (entry.owned || entry.goal) state.progress[family.id] = entry;
-    else delete state.progress[family.id];
+    state.progress[family.id] = entry;
     saveLocal();
     render();
     grid.querySelector(`[data-family="${family.id}"] select[data-stage="${select.dataset.stage}"]`)?.focus();
