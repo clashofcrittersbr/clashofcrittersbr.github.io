@@ -4,6 +4,7 @@ Escolha o modo de jogo para consultar as formações.
 
 - [Modo História](modo-historia.md) · formações da campanha, organizadas por capítulo e fase a partir do capítulo 1.
 - [Dojo](dojo.md) · formações relatadas por elemento e fase, requisitos e envio de testes.
+- [Formações da comunidade](ferramenta-comunitaria.md) · ferramenta criada por jogador BR, incorporada com crédito e link ao original.
 - [Horda](horda.md) · referências por dificuldade, preparação da dupla e envio de partidas.
 
 ## Como adaptar uma formação
