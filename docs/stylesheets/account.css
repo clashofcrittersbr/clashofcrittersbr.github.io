@@ -1,1 +1,96 @@
-.account-card{max-width:42rem;margin:1rem auto;padding:1.25rem;border:2px solid var(--dialog-border,#e4c9a7);border-radius:1rem;background:var(--dialog-cream,#fdf8ec);color:var(--dialog-ink,#34251f)}.account-actions{display:flex;flex-wrap:wrap;gap:.75rem}.account-form{display:grid;gap:.85rem}.account-form label{display:grid;gap:.35rem;font-weight:700}.account-form input{border:2px solid #e4c9a7;border-radius:.6rem;padding:.7rem;font:inherit}.account-form input:focus{border-color:#e87a28;outline:3px solid #e87a2840}.account-status{min-height:1.5rem;margin:.8rem 0;font-weight:700}.account-status[data-kind=error]{color:#b8342d}.account-status[data-kind=success]{color:#267247}.dojo-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:.6rem}.dojo-grid input{min-width:0}.account-button{min-height:44px;border:0;border-radius:.6rem;padding:.7rem 1rem;color:#fff;background:#e87a28;font:inherit;font-weight:800;cursor:pointer}.account-button--secondary{color:#34251f;background:#ead9bd}@media(max-width:520px){.dojo-grid{grid-template-columns:repeat(2,1fr)}.account-actions{flex-direction:column}.account-button{width:100%}}
+/* Cartão de conta alinhado à paleta da wiki em ambos os temas. */
+.account-card {
+  --account-surface: #f2f7f0;
+  --account-ink: #193b30;
+  --account-muted: #3c6455;
+  --account-field: #fff;
+  --account-border: #a6c5ae;
+  --account-gold: #f2c879;
+  max-width: 42rem;
+  margin: 1rem auto;
+  padding: clamp(1rem, 3vw, 1.6rem);
+  border: 1px solid var(--account-border);
+  border-top: .3rem solid var(--account-gold);
+  border-radius: 1rem;
+  background: var(--account-surface);
+  color: var(--account-ink);
+  box-shadow: 0 .6rem 1.8rem #071c151c;
+}
+[data-md-color-scheme="slate"] .account-card {
+  --account-surface: #17342d;
+  --account-ink: #f4f8f1;
+  --account-muted: #c4dccb;
+  --account-field: #102720;
+  --account-border: #4f7761;
+}
+.md-typeset .account-card h2 { margin: .5rem 0 .75rem; color: var(--account-ink); }
+.account-card p { color: var(--account-muted); }
+.account-card strong { color: var(--account-ink); }
+.account-actions { display: flex; flex-wrap: wrap; gap: .75rem; }
+.account-form { display: grid; gap: .9rem; }
+.account-form label { display: grid; gap: .35rem; color: var(--account-ink); font-weight: 700; }
+.account-form input {
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  min-height: 44px;
+  padding: .6rem .7rem;
+  border: 1px solid var(--account-border);
+  border-radius: .55rem;
+  background: var(--account-field);
+  color: var(--account-ink);
+  font: inherit;
+}
+.account-form input:focus-visible,
+.account-button:focus-visible { outline: 3px solid var(--account-gold); outline-offset: 2px; }
+.account-form input:focus-visible { border-color: #d29b36; }
+.account-form fieldset {
+  min-width: 0;
+  margin: .25rem 0 0;
+  padding: .8rem;
+  border: 1px solid var(--account-border);
+  border-radius: .7rem;
+}
+.account-form legend { padding: 0 .4rem; color: var(--account-ink); font-weight: 700; }
+.account-status { margin: .5rem 0 .9rem; color: var(--account-muted); font-weight: 700; }
+.account-status[hidden],
+.account-form[hidden],
+.account-card [data-account-login][hidden] { display: none; }
+.account-status[data-kind="error"] { color: #a42c27; }
+.account-status[data-kind="success"] { color: #166140; }
+[data-md-color-scheme="slate"] .account-status[data-kind="error"] { color: #ffb5ad; }
+[data-md-color-scheme="slate"] .account-status[data-kind="success"] { color: #9ee2b7; }
+.dojo-symbols { position: absolute; width: 0; height: 0; overflow: hidden; }
+.dojo-grid { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: .6rem; }
+.dojo-element { display: flex; align-items: center; gap: .3rem; min-width: 0; font-size: .75rem; }
+.dojo-element svg { width: 1.25rem; height: 1.25rem; flex: none; fill: currentColor; }
+.dojo-element--agua { color: #086895; }
+.dojo-element--fogo { color: #bb3d25; }
+.dojo-element--planta { color: #24794a; }
+.dojo-element--pedra { color: #815a31; }
+.dojo-element--eletrico { color: #946700; }
+[data-md-color-scheme="slate"] .dojo-element--agua { color: #86cbed; }
+[data-md-color-scheme="slate"] .dojo-element--fogo { color: #ff9d7f; }
+[data-md-color-scheme="slate"] .dojo-element--planta { color: #9cdea8; }
+[data-md-color-scheme="slate"] .dojo-element--pedra { color: #d8bb8e; }
+[data-md-color-scheme="slate"] .dojo-element--eletrico { color: #f7d977; }
+.account-button {
+  min-height: 44px;
+  padding: .6rem 1rem;
+  border: 1px solid #b98d39;
+  border-radius: .55rem;
+  background: var(--account-gold);
+  color: #17392c;
+  font: inherit;
+  font-weight: 800;
+  cursor: pointer;
+}
+.account-button:hover { background: #ffe1a4; }
+.account-button--secondary { border-color: var(--account-border); background: transparent; color: var(--account-ink); }
+.account-button--secondary:hover { background: var(--account-field); }
+.account-button:disabled { opacity: .55; cursor: wait; }
+@media (max-width: 580px) {
+  .dojo-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .account-actions { flex-direction: column; }
+  .account-button { width: 100%; }
+}
