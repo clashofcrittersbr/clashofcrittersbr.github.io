@@ -63,14 +63,18 @@ extra_css:
   - assets/wiki.css
   - assets/tataris.css
   - stylesheets/custom-dialogs.css
+  - stylesheets/account.css
 
 extra_javascript:
   - assets/capitulos.js
   - assets/tataris.js
   - javascripts/site-dialogs.mjs
+  - javascripts/supabase-config.mjs
+  - javascripts/site-auth.mjs
 
 nav:
   - Início: index.md
+  - Minha conta: conta.md
   - Guias:
       - Comece aqui: comece-aqui.md
       - Combate e elementos: guias/combate.md
