@@ -1,5 +1,5 @@
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.117.3/+esm';
-import { WIKI_SUPABASE_CONFIG } from './supabase-config.mjs';
+import { WIKI_SUPABASE_CONFIG } from './supabase-config.mjs?v=27';
 
 const config = WIKI_SUPABASE_CONFIG || {};
 const supabase = config.url && config.publishableKey
