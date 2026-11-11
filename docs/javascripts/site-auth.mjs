@@ -59,7 +59,7 @@ export async function handleCallback() {
 
 function showStatus(message, kind = 'info') {
   const status = document.querySelector('[data-account-status]');
-  if (status) { status.textContent = message; status.dataset.kind = kind; }
+  if (status) { status.hidden = false; status.textContent = message; status.dataset.kind = kind; }
 }
 
 async function initAccountPage() {
@@ -104,7 +104,7 @@ async function initAccountPage() {
 
   try {
     const user = await currentUser();
-    if (!user) { login.hidden = false; form.hidden = true; logout.hidden = true; return; }
+    if (!user) { login.hidden = false; form.hidden = true; logout.hidden = true; root.querySelector('[data-account-status]').hidden = true; return; }
     login.hidden = true; form.hidden = false; logout.hidden = false;
     const account = await loadAccount(user.id);
     root.querySelector('[name="game_uid"]').value = account.profile.game_uid || '';
@@ -115,6 +115,7 @@ async function initAccountPage() {
       if (field) field.value = value;
     });
     root.querySelector('[data-account-email]').textContent = user.email || 'Conta autenticada';
+    root.querySelector('[data-account-status]').hidden = true;
   } catch (error) {
     showStatus(error.message || 'Não foi possível carregar a conta.', 'error');
   }
