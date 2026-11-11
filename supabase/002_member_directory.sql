@@ -1,5 +1,6 @@
 -- Diretório público voluntário de membros.
--- Execute no SQL Editor do projeto antes de mesclar a PR. Não altera profiles/user_settings.
+-- Execute no SQL Editor com Query source: Database (PostgreSQL), nunca Logs (ClickHouse).
+-- Não altera profiles/user_settings.
 -- Cada linha corresponde a uma pessoa que escolheu aparecer; apagar a linha é sair da lista.
 create table if not exists public.member_directory (
   id uuid primary key references auth.users (id) on delete cascade,
