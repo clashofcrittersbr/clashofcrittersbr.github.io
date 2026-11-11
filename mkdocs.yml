@@ -64,6 +64,7 @@ extra_css:
   - assets/tataris.css
   - stylesheets/custom-dialogs.css
   - stylesheets/account.css
+  - stylesheets/members.css
 
 extra_javascript:
   - assets/capitulos.js
@@ -71,10 +72,12 @@ extra_javascript:
   - javascripts/site-dialogs.mjs
   - javascripts/supabase-config.mjs
   - javascripts/site-auth.mjs
+  - javascripts/member-directory.mjs
 
 nav:
   - Início: index.md
   - Minha conta: conta.md
+  - Membros: membros.md
   - Guias:
       - Comece aqui: comece-aqui.md
       - Combate e elementos: guias/combate.md
