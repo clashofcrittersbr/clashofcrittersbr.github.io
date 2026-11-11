@@ -15,13 +15,13 @@ function memberCard(member) {
   return item;
 }
 
-function renderGroup(target, countTarget, members) {
-  countTarget.textContent = `(${members.length})`;
+function renderGroup(target, countTarget, members, total, filtering) {
+  countTarget.textContent = filtering ? `(${members.length} de ${total})` : `(${total})`;
   target.replaceChildren();
   if (!members.length) {
     const empty = document.createElement('li');
     empty.className = 'members-empty';
-    empty.textContent = 'Nenhum membro nesta lista por enquanto.';
+    empty.textContent = filtering ? 'Nenhum membro corresponde à busca.' : 'Nenhum membro nesta lista por enquanto.';
     target.append(empty);
     return;
   }
@@ -62,8 +62,27 @@ async function initDirectory() {
     const byName = (a, b) => a.display_name.localeCompare(b.display_name, 'pt-BR');
     active.sort(byName);
     inactive.sort(byName);
-    renderGroup(root.querySelector('[data-members-active]'), root.querySelector('[data-members-active-count]'), active);
-    renderGroup(root.querySelector('[data-members-inactive]'), root.querySelector('[data-members-inactive-count]'), inactive);
+    const search = root.querySelector('[data-members-search]');
+    const summary = root.querySelector('[data-members-summary]');
+    // Normaliza acentos para encontrar "João" também ao digitar "joao".
+    const normalize = (value) => String(value).normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase('pt-BR');
+    const render = () => {
+      const term = normalize(search.value.trim());
+      const matching = (group) => term
+        ? group.filter((member) => normalize(member.display_name).includes(term) || normalize(member.game_uid).includes(term))
+        : group;
+      const filteredActive = matching(active);
+      const filteredInactive = matching(inactive);
+      renderGroup(root.querySelector('[data-members-active]'), root.querySelector('[data-members-active-count]'), filteredActive, active.length, Boolean(term));
+      renderGroup(root.querySelector('[data-members-inactive]'), root.querySelector('[data-members-inactive-count]'), filteredInactive, inactive.length, Boolean(term));
+      const found = filteredActive.length + filteredInactive.length;
+      summary.textContent = term ? `${found} de ${members.length} membros encontrados.` : `${members.length} membros cadastrados.`;
+      summary.hidden = false;
+    };
+    search.disabled = false;
+    search.addEventListener('input', render);
+    render();
     status.hidden = true;
   } catch {
     status.textContent = 'Não foi possível carregar a lista agora. Tente novamente mais tarde.';
