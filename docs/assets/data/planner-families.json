@@ -1,0 +1,1965 @@
+{
+  "schemaVersion": 1,
+  "source": "https://clashofcritters.wiki.gg/wiki/Tatari",
+  "mirrorCommit": "ec83738f3790c306e6e04d8b0878bdf388bd26e8",
+  "scrapedAt": "2026-10-09",
+  "families": [
+    {
+      "id": "ashlarva",
+      "name": "Ashlarva",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Ashlarva",
+          "slug": "ashlarva",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ashlarva.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Firecoil",
+          "slug": "firecoil",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/firecoil.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Charflutter",
+          "slug": "charflutter",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/charflutter.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Chrysolaria",
+          "slug": "chrysolaria",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/chrysolaria.webp"
+        }
+      ]
+    },
+    {
+      "id": "blowfin",
+      "name": "Blowfin",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Blowfin",
+          "slug": "blowfin",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blowfin.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Puffbelly",
+          "slug": "puffbelly",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/puffbelly.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Chefugu",
+          "slug": "chefugu",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/chefugu.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Pyromaki",
+          "slug": "pyromaki",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyromaki.webp"
+        }
+      ]
+    },
+    {
+      "id": "blueflick",
+      "name": "Blueflick",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Blueflick",
+          "slug": "blueflick",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blueflick.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Ignisnap",
+          "slug": "ignisnap",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ignisnap.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Azurion",
+          "slug": "azurion",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/azurion.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Newflamander",
+          "slug": "newflamander",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/newflamander.webp"
+        }
+      ]
+    },
+    {
+      "id": "budboo",
+      "name": "Budboo",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Budboo",
+          "slug": "budboo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/budboo.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Snapshade",
+          "slug": "snapshade",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/snapshade.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Thornwisp",
+          "slug": "thornwisp",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/thornwisp.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Chomperwraith",
+          "slug": "chomperwraith",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/chomperwraith.webp"
+        }
+      ]
+    },
+    {
+      "id": "buddi",
+      "name": "Buddi",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Buddi",
+          "slug": "buddi",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/buddi.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Sunfleur",
+          "slug": "sunfleur",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sunfleur.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Solaflora",
+          "slug": "solaflora",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/solaflora.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Heliabloom",
+          "slug": "heliabloom",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/heliabloom.webp"
+        }
+      ]
+    },
+    {
+      "id": "cactobud",
+      "name": "Cactobud",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Cactobud",
+          "slug": "cactobud",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cactobud.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Cactobloom",
+          "slug": "cactobloom",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cactobloom.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Cactoczar",
+          "slug": "cactoczar",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cactoczar.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Cactobodhi",
+          "slug": "cactobodhi",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cactobodhi.webp"
+        }
+      ]
+    },
+    {
+      "id": "capywata",
+      "name": "Capywata",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Capywata",
+          "slug": "capywata",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/capywata.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Capypapa",
+          "slug": "capypapa",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/capypapa.webp"
+        }
+      ]
+    },
+    {
+      "id": "cavyzap",
+      "name": "Cavyzap",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Cavyzap",
+          "slug": "cavyzap",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cavyzap.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Hippiehog",
+          "slug": "hippiehog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hippiehog.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Wheekroller",
+          "slug": "wheekroller",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/wheekroller.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Gigagnash",
+          "slug": "gigagnash",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/gigagnash.webp"
+        }
+      ]
+    },
+    {
+      "id": "cheerling",
+      "name": "Cheerling",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Cheerling",
+          "slug": "cheerling",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cheerling.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Cheerlet",
+          "slug": "cheerlet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cheerlet.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Cheerspring",
+          "slug": "cheerspring",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cheerspring.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Cheerstella",
+          "slug": "cheerstella",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cheerstella.webp"
+        }
+      ]
+    },
+    {
+      "id": "cindermunk",
+      "name": "Cindermunk",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Cindermunk",
+          "slug": "cindermunk",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cindermunk.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Embertail",
+          "slug": "embertail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/embertail.webp"
+        }
+      ]
+    },
+    {
+      "id": "clucky",
+      "name": "Clucky",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Clucky",
+          "slug": "clucky",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/clucky.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Cluckeroo",
+          "slug": "cluckeroo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cluckeroo.webp"
+        }
+      ]
+    },
+    {
+      "id": "cribbler",
+      "name": "Cribbler",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Cribbler",
+          "slug": "cribbler",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cribbler.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Clawzor",
+          "slug": "clawzor",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/clawzor.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Dreadclaw",
+          "slug": "dreadclaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dreadclaw.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Cribking",
+          "slug": "cribking",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cribking.webp"
+        }
+      ]
+    },
+    {
+      "id": "dewgrub",
+      "name": "Dewgrub",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Dewgrub",
+          "slug": "dewgrub",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dewgrub.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Ripplewing",
+          "slug": "ripplewing",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ripplewing.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Waveflutter",
+          "slug": "waveflutter",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/waveflutter.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Morphanessa",
+          "slug": "morphanessa",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/morphanessa.webp"
+        }
+      ]
+    },
+    {
+      "id": "dolphie",
+      "name": "Dolphie",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Dolphie",
+          "slug": "dolphie",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dolphie.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Blubbles",
+          "slug": "blubbles",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blubbles.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Aquariel",
+          "slug": "aquariel",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/aquariel.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Irisia",
+          "slug": "irisia",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/irisia.webp"
+        }
+      ]
+    },
+    {
+      "id": "dozy",
+      "name": "Dozy",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Dozy",
+          "slug": "dozy",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dozy.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Snoozebo",
+          "slug": "snoozebo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/snoozebo.webp"
+        }
+      ]
+    },
+    {
+      "id": "drilleroo",
+      "name": "Drilleroo",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Drilleroo",
+          "slug": "drilleroo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/drilleroo.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Cragolin",
+          "slug": "cragolin",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cragolin.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Borelord",
+          "slug": "borelord",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/borelord.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Armavolve",
+          "slug": "armavolve",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/armavolve.webp"
+        }
+      ]
+    },
+    {
+      "id": "droppit",
+      "name": "Droppit",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Droppit",
+          "slug": "droppit",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/droppit.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Bubbit",
+          "slug": "bubbit",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/bubbit.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Tideon",
+          "slug": "tideon",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/tideon.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Haplysia",
+          "slug": "haplysia",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/haplysia.webp"
+        }
+      ]
+    },
+    {
+      "id": "dumbopus",
+      "name": "Dumbopus",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Dumbopus",
+          "slug": "dumbopus",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dumbopus.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Dazopus",
+          "slug": "dazopus",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dazopus.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Fishopus",
+          "slug": "fishopus",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/fishopus.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Lordopus",
+          "slug": "lordopus",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/lordopus.webp"
+        }
+      ]
+    },
+    {
+      "id": "flameow",
+      "name": "Flameow",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Flameow",
+          "slug": "flameow",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/flameow.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Nekoflare",
+          "slug": "nekoflare",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/nekoflare.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Silversear",
+          "slug": "silversear",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/silversear.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Cinderclaw",
+          "slug": "cinderclaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cinderclaw.webp"
+        }
+      ]
+    },
+    {
+      "id": "fluffle",
+      "name": "Fluffle",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Fluffle",
+          "slug": "fluffle",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/fluffle.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Nimbuzzy",
+          "slug": "nimbuzzy",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/nimbuzzy.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Galewether",
+          "slug": "galewether",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/galewether.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Cosmoram",
+          "slug": "cosmoram",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cosmoram.webp"
+        }
+      ]
+    },
+    {
+      "id": "frostnip",
+      "name": "Frostnip",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Frostnip",
+          "slug": "frostnip",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frostnip.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Frostpaw",
+          "slug": "frostpaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frostpaw.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Frostique",
+          "slug": "frostique",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frostique.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Frostluna",
+          "slug": "frostluna",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frostluna.webp"
+        }
+      ]
+    },
+    {
+      "id": "frugling",
+      "name": "Frugling",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Frugling",
+          "slug": "frugling",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frugling.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Frugatoad",
+          "slug": "frugatoad",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frugatoad.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Frugagon",
+          "slug": "frugagon",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frugagon.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Frugantuan",
+          "slug": "frugantuan",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/frugantuan.webp"
+        }
+      ]
+    },
+    {
+      "id": "fumekit",
+      "name": "Fumekit",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Fumekit",
+          "slug": "fumekit",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/fumekit.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Sulfunk",
+          "slug": "sulfunk",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sulfunk.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Magmusk",
+          "slug": "magmusk",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/magmusk.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Blastniff",
+          "slug": "blastniff",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blastniff.webp"
+        }
+      ]
+    },
+    {
+      "id": "funglet",
+      "name": "Funglet",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Funglet",
+          "slug": "funglet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/funglet.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Trippet",
+          "slug": "trippet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/trippet.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Hyphoria",
+          "slug": "hyphoria",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hyphoria.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Ecstamira",
+          "slug": "ecstamira",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ecstamira.webp"
+        }
+      ]
+    },
+    {
+      "id": "gibber",
+      "name": "Gibber",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Gibber",
+          "slug": "gibber",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/gibber.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Turtuff",
+          "slug": "turtuff",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/turtuff.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Rockshell",
+          "slug": "rockshell",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rockshell.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Terraton",
+          "slug": "terraton",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/terraton.webp"
+        }
+      ]
+    },
+    {
+      "id": "glowfly",
+      "name": "Glowfly",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Glowfly",
+          "slug": "glowfly",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/glowfly.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Phosflare",
+          "slug": "phosflare",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/phosflare.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Glimmerwing",
+          "slug": "glimmerwing",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/glimmerwing.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Luminastra",
+          "slug": "luminastra",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/luminastra.webp"
+        }
+      ]
+    },
+    {
+      "id": "goonbug",
+      "name": "Goonbug",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Goonbug",
+          "slug": "goonbug",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/goonbug.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Capobeetle",
+          "slug": "capobeetle",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/capobeetle.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Donscarab",
+          "slug": "donscarab",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/donscarab.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Beetleknight",
+          "slug": "beetleknight",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/beetleknight.webp"
+        }
+      ]
+    },
+    {
+      "id": "gopher",
+      "name": "Gopher",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Gopher",
+          "slug": "gopher",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/gopher.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Watchroo",
+          "slug": "watchroo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/watchroo.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Bastogard",
+          "slug": "bastogard",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/bastogard.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Cratzar",
+          "slug": "cratzar",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cratzar.webp"
+        }
+      ]
+    },
+    {
+      "id": "hootlet",
+      "name": "Hootlet",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Hootlet",
+          "slug": "hootlet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hootlet.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Tikowl",
+          "slug": "tikowl",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/tikowl.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Chronerva",
+          "slug": "chronerva",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/chronerva.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Hypnostrix",
+          "slug": "hypnostrix",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hypnostrix.webp"
+        }
+      ]
+    },
+    {
+      "id": "humbug",
+      "name": "Humbug",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Humbug",
+          "slug": "humbug",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/humbug.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Humbleetle",
+          "slug": "humbleetle",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/humbleetle.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Zenscarab",
+          "slug": "zenscarab",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zenscarab.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Hierotyrus",
+          "slug": "hierotyrus",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hierotyrus.webp"
+        }
+      ]
+    },
+    {
+      "id": "joeyo",
+      "name": "Joeyo",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Joeyo",
+          "slug": "joeyo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/joeyo.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Puncharoo",
+          "slug": "puncharoo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/puncharoo.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Kangachamp",
+          "slug": "kangachamp",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/kangachamp.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Kaiseroo",
+          "slug": "kaiseroo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/kaiseroo.webp"
+        }
+      ]
+    },
+    {
+      "id": "kittazap",
+      "name": "Kittazap",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Kittazap",
+          "slug": "kittazap",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/kittazap.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Nekowatt",
+          "slug": "nekowatt",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/nekowatt.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Voltazar",
+          "slug": "voltazar",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltazar.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Thunderpaw",
+          "slug": "thunderpaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/thunderpaw.webp"
+        }
+      ]
+    },
+    {
+      "id": "lollama",
+      "name": "Lollama",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Lollama",
+          "slug": "lollama",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/lollama.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Slobberlama",
+          "slug": "slobberlama",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/slobberlama.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Ptooielama",
+          "slug": "ptooielama",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ptooielama.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Blechlama",
+          "slug": "blechlama",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blechlama.webp"
+        }
+      ]
+    },
+    {
+      "id": "lullelly",
+      "name": "Lullelly",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Lullelly",
+          "slug": "lullelly",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/lullelly.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Yawnelly",
+          "slug": "yawnelly",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/yawnelly.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Souverelle",
+          "slug": "souverelle",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/souverelle.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Somnrayna",
+          "slug": "somnrayna",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/somnrayna.webp"
+        }
+      ]
+    },
+    {
+      "id": "manteeny",
+      "name": "Manteeny",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Manteeny",
+          "slug": "manteeny",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/manteeny.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Stalkerix",
+          "slug": "stalkerix",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/stalkerix.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Serrabloom",
+          "slug": "serrabloom",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/serrabloom.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Orchitoria",
+          "slug": "orchitoria",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/orchitoria.webp"
+        }
+      ]
+    },
+    {
+      "id": "maskfry",
+      "name": "Maskfry",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Maskfry",
+          "slug": "maskfry",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/maskfry.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Ospisces",
+          "slug": "ospisces",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ospisces.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Armorjaw",
+          "slug": "armorjaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/armorjaw.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Dagondeep",
+          "slug": "dagondeep",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dagondeep.webp"
+        }
+      ]
+    },
+    {
+      "id": "momopo",
+      "name": "Momopo",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Momopo",
+          "slug": "momopo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/momopo.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Lulupo",
+          "slug": "lulupo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/lulupo.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Lilypo",
+          "slug": "lilypo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/lilypo.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Gemmapo",
+          "slug": "gemmapo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/gemmapo.webp"
+        }
+      ]
+    },
+    {
+      "id": "mudrump",
+      "name": "Mudrump",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Mudrump",
+          "slug": "mudrump",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/mudrump.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Rockhog",
+          "slug": "rockhog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rockhog.webp"
+        }
+      ]
+    },
+    {
+      "id": "pandaroo",
+      "name": "Pandaroo",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Pandaroo",
+          "slug": "pandaroo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pandaroo.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Pandaroot",
+          "slug": "pandaroot",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pandaroot.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Pandarrior",
+          "slug": "pandarrior",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pandarrior.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Pandagrand",
+          "slug": "pandagrand",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pandagrand.webp"
+        }
+      ]
+    },
+    {
+      "id": "poakie",
+      "name": "Poakie",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Poakie",
+          "slug": "poakie",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/poakie.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Sizzribb",
+          "slug": "sizzribb",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sizzribb.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Lickflicker",
+          "slug": "lickflicker",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/lickflicker.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Ignitoad",
+          "slug": "ignitoad",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ignitoad.webp"
+        }
+      ]
+    },
+    {
+      "id": "popa",
+      "name": "Popa",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Popa",
+          "slug": "popa",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/popa.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Popapouch",
+          "slug": "popapouch",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/popapouch.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Popagrind",
+          "slug": "popagrind",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/popagrind.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Popafam",
+          "slug": "popafam",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/popafam.webp"
+        }
+      ]
+    },
+    {
+      "id": "punchimp",
+      "name": "Punchimp",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Punchimp",
+          "slug": "punchimp",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/punchimp.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Rockfu",
+          "slug": "rockfu",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rockfu.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Rockwu",
+          "slug": "rockwu",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rockwu.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Rockong",
+          "slug": "rockong",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rockong.webp"
+        }
+      ]
+    },
+    {
+      "id": "pyropup",
+      "name": "Pyropup",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Pyropup",
+          "slug": "pyropup",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyropup.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Pyrohound",
+          "slug": "pyrohound",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyrohound.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Hellhound",
+          "slug": "hellhound",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hellhound.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Pyrodaemon",
+          "slug": "pyrodaemon",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyrodaemon.webp"
+        }
+      ]
+    },
+    {
+      "id": "ringtail",
+      "name": "Ringtail",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Ringtail",
+          "slug": "ringtail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ringtail.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Rizzler",
+          "slug": "rizzler",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rizzler.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Zorrock",
+          "slug": "zorrock",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zorrock.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Phantothief",
+          "slug": "phantothief",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/phantothief.webp"
+        }
+      ]
+    },
+    {
+      "id": "rubblet",
+      "name": "Rubblet",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Rubblet",
+          "slug": "rubblet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rubblet.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Cobbledon",
+          "slug": "cobbledon",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/cobbledon.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Rockzilla",
+          "slug": "rockzilla",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rockzilla.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Meteorax",
+          "slug": "meteorax",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/meteorax.webp"
+        }
+      ]
+    },
+    {
+      "id": "sackling",
+      "name": "Sackling",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Sackling",
+          "slug": "sackling",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sackling.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Jarachnid",
+          "slug": "jarachnid",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/jarachnid.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Terracrawler",
+          "slug": "terracrawler",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/terracrawler.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Weaverfang",
+          "slug": "weaverfang",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/weaverfang.webp"
+        }
+      ]
+    },
+    {
+      "id": "sealing",
+      "name": "Sealing",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Sealing",
+          "slug": "sealing",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sealing.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Sealoon",
+          "slug": "sealoon",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sealoon.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Seaswirl",
+          "slug": "seaswirl",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/seaswirl.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Sealord",
+          "slug": "sealord",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sealord.webp"
+        }
+      ]
+    },
+    {
+      "id": "shardsnail",
+      "name": "Shardsnail",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Shardsnail",
+          "slug": "shardsnail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/shardsnail.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Gemsnail",
+          "slug": "gemsnail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/gemsnail.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Jewelsnail",
+          "slug": "jewelsnail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/jewelsnail.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Crystalsnail",
+          "slug": "crystalsnail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/crystalsnail.webp"
+        }
+      ]
+    },
+    {
+      "id": "shellshy",
+      "name": "Shellshy",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Shellshy",
+          "slug": "shellshy",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/shellshy.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Boldclaw",
+          "slug": "boldclaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/boldclaw.webp"
+        }
+      ]
+    },
+    {
+      "id": "shrimpyro",
+      "name": "Shrimpyro",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Shrimpyro",
+          "slug": "shrimpyro",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/shrimpyro.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Pyroprawn",
+          "slug": "pyroprawn",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyroprawn.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Pyroclobster",
+          "slug": "pyroclobster",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyroclobster.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Pyroviathan",
+          "slug": "pyroviathan",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pyroviathan.webp"
+        }
+      ]
+    },
+    {
+      "id": "skinklet",
+      "name": "Skinklet",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Skinklet",
+          "slug": "skinklet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/skinklet.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Skinkoon",
+          "slug": "skinkoon",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/skinkoon.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Ninjaguana",
+          "slug": "ninjaguana",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/ninjaguana.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Hychroma",
+          "slug": "hychroma",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hychroma.webp"
+        }
+      ]
+    },
+    {
+      "id": "snowcub",
+      "name": "Snowcub",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Snowcub",
+          "slug": "snowcub",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/snowcub.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Polarpaw",
+          "slug": "polarpaw",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/polarpaw.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Blizzgrizz",
+          "slug": "blizzgrizz",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blizzgrizz.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Anglerbear",
+          "slug": "anglerbear",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/anglerbear.webp"
+        }
+      ]
+    },
+    {
+      "id": "solpear",
+      "name": "Solpear",
+      "element": "Planta",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Solpear",
+          "slug": "solpear",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/solpear.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Pearpair",
+          "slug": "pearpair",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/pearpair.webp"
+        }
+      ]
+    },
+    {
+      "id": "souphog",
+      "name": "Souphog",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Souphog",
+          "slug": "souphog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/souphog.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Grillhog",
+          "slug": "grillhog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/grillhog.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Hothog",
+          "slug": "hothog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/hothog.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Searhog",
+          "slug": "searhog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/searhog.webp"
+        }
+      ]
+    },
+    {
+      "id": "sparkeet",
+      "name": "Sparkeet",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Sparkeet",
+          "slug": "sparkeet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sparkeet.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Buzzbeak",
+          "slug": "buzzbeak",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/buzzbeak.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Toucanzam",
+          "slug": "toucanzam",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/toucanzam.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Technocan",
+          "slug": "technocan",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/technocan.webp"
+        }
+      ]
+    },
+    {
+      "id": "sparkit",
+      "name": "Sparkit",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Sparkit",
+          "slug": "sparkit",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sparkit.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Firefox",
+          "slug": "firefox",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/firefox.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Flarevix",
+          "slug": "flarevix",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/flarevix.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Phantifox",
+          "slug": "phantifox",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/phantifox.webp"
+        }
+      ]
+    },
+    {
+      "id": "sparkrow",
+      "name": "Sparkrow",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Sparkrow",
+          "slug": "sparkrow",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sparkrow.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Scorchwing",
+          "slug": "scorchwing",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/scorchwing.webp"
+        }
+      ]
+    },
+    {
+      "id": "taptail",
+      "name": "Taptail",
+      "element": "Pedra",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Taptail",
+          "slug": "taptail",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/taptail.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Rattlecoil",
+          "slug": "rattlecoil",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/rattlecoil.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Clangnaga",
+          "slug": "clangnaga",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/clangnaga.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Dharmadder",
+          "slug": "dharmadder",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/dharmadder.webp"
+        }
+      ]
+    },
+    {
+      "id": "tindercub",
+      "name": "Tindercub",
+      "element": "Fogo",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Tindercub",
+          "slug": "tindercub",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/tindercub.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Kitjitsu",
+          "slug": "kitjitsu",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/kitjitsu.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Taiglow",
+          "slug": "taiglow",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/taiglow.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Saberheart",
+          "slug": "saberheart",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/saberheart.webp"
+        }
+      ]
+    },
+    {
+      "id": "voltfawn",
+      "name": "Voltfawn",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Voltfawn",
+          "slug": "voltfawn",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltfawn.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Sparkdoe",
+          "slug": "sparkdoe",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sparkdoe.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Zapantler",
+          "slug": "zapantler",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zapantler.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Magnedart",
+          "slug": "magnedart",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/magnedart.webp"
+        }
+      ]
+    },
+    {
+      "id": "voltkit",
+      "name": "Voltkit",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Voltkit",
+          "slug": "voltkit",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltkit.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Voltling",
+          "slug": "voltling",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltling.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Voltverine",
+          "slug": "voltverine",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltverine.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Voltreaver",
+          "slug": "voltreaver",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltreaver.webp"
+        }
+      ]
+    },
+    {
+      "id": "waddledo",
+      "name": "Waddledo",
+      "element": "Água",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Waddledo",
+          "slug": "waddledo",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/waddledo.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Swaystroll",
+          "slug": "swaystroll",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/swaystroll.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Stoodbeak",
+          "slug": "stoodbeak",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/stoodbeak.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Glideflip",
+          "slug": "glideflip",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/glideflip.webp"
+        }
+      ]
+    },
+    {
+      "id": "wobbler",
+      "name": "Wobbler",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Wobbler",
+          "slug": "wobbler",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/wobbler.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Boltskipper",
+          "slug": "boltskipper",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/boltskipper.webp"
+        }
+      ]
+    },
+    {
+      "id": "zaplet",
+      "name": "Zaplet",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Zaplet",
+          "slug": "zaplet",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zaplet.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Synthhog",
+          "slug": "synthhog",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/synthhog.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Sonarbat",
+          "slug": "sonarbat",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/sonarbat.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Umbraveil",
+          "slug": "umbraveil",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/umbraveil.webp"
+        }
+      ]
+    },
+    {
+      "id": "zappur",
+      "name": "Zappur",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Zappur",
+          "slug": "zappur",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zappur.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Electroar",
+          "slug": "electroar",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/electroar.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Blitzmane",
+          "slug": "blitzmane",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/blitzmane.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Stormlion",
+          "slug": "stormlion",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/stormlion.webp"
+        }
+      ]
+    },
+    {
+      "id": "zapuni",
+      "name": "Zapuni",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Zapuni",
+          "slug": "zapuni",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zapuni.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Surgehoof",
+          "slug": "surgehoof",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/surgehoof.webp"
+        },
+        {
+          "tier": 3,
+          "name": "Voltmare",
+          "slug": "voltmare",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/voltmare.webp"
+        },
+        {
+          "tier": 4,
+          "name": "Boltallion",
+          "slug": "boltallion",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/boltallion.webp"
+        }
+      ]
+    },
+    {
+      "id": "zapup",
+      "name": "Zapup",
+      "element": "Elétrico",
+      "forms": [
+        {
+          "tier": 1,
+          "name": "Zapup",
+          "slug": "zapup",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zapup.webp"
+        },
+        {
+          "tier": 2,
+          "name": "Zapooch",
+          "slug": "zapooch",
+          "portrait": "https://raw.githubusercontent.com/jeremycanlas/clash-of-critters-horde-planner/ec83738f3790c306e6e04d8b0878bdf388bd26e8/data/images/tatari/zapooch.webp"
+        }
+      ]
+    }
+  ]
+}

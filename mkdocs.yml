@@ -65,6 +65,7 @@ extra_css:
   - stylesheets/custom-dialogs.css
   - stylesheets/account.css
   - stylesheets/members.css
+  - stylesheets/evolution-planner.css
 
 extra_javascript:
   - assets/capitulos.js
@@ -73,6 +74,7 @@ extra_javascript:
   - javascripts/supabase-config.mjs
   - javascripts/site-auth.mjs
   - javascripts/member-directory.mjs
+  - javascripts/evolution-planner.mjs
 
 nav:
   - Início: index.md
@@ -163,6 +165,7 @@ nav:
   - Ferramentas:
       - Visão geral: ferramentas.md
       - Tierlist Maker: ferramentas/tierlist-maker.md
+      - Planejador de evoluções: ferramentas/planejador-evolucoes.md
   - Formações:
       - Visão geral: formacoes/index.md
       - Modo História: formacoes/modo-historia.md

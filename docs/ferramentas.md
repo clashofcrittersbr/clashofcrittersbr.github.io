@@ -27,6 +27,12 @@ O Companion reúne guias, calculadoras, mapas e planejadores comunitários. A wi
 
 Monte uma classificação personalizada dos Tataris, organize as formas por nível e exporte o resultado para reutilizar depois.
 
+## Planejador de evoluções
+
+[Abrir o Planejador de Evoluções](ferramentas/planejador-evolucoes.md){ .md-button .md-button--primary }
+
+Acompanhe até onde você chegou em cada uma das 67 famílias do catálogo histórico, defina uma meta T1–T4 e filtre as pendências. O plano fica no navegador; usuários conectados podem salvar e recuperar uma cópia privada na conta. A ferramenta não estima custos ou provas.
+
 ## Créditos e limites
 
 O Companion é uma criação comunitária de **kenzkunz**, com contribuições de **snivvy** e **ArtiarYT**, conforme a identificação exibida no próprio projeto.
