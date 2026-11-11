@@ -21,6 +21,12 @@ O Companion reúne guias, calculadoras, mapas e planejadores comunitários. A wi
 - [Guia do Concurso de Pesca](https://kenzkunz.github.io/tatari-companion/events/fishing.html)
 - [Calculadora da loja](https://kenzkunz.github.io/tatari-companion/shop-calculator.html)
 
+## Tierlist Maker local
+
+[Abrir o Tierlist Maker local](ferramentas/tierlist-maker.md){ .md-button .md-button--primary }
+
+A primeira adaptação local permite montar uma classificação sem login, salvar no navegador e exportar/importar o resultado em JSON.
+
 ## O que será incorporado à wiki
 
 A integração será gradual:

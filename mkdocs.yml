@@ -151,7 +151,9 @@ nav:
           - Zapuni: tataris/zapuni.md
           - Zapup: tataris/zapup.md
   - Tier list: guias/tier-list.md
-  - Ferramentas: ferramentas.md
+  - Ferramentas:
+      - Visão geral: ferramentas.md
+      - Tierlist Maker local: ferramentas/tierlist-maker.md
   - Formações:
       - Visão geral: formacoes/index.md
       - Modo História: formacoes/modo-historia.md
