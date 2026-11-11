@@ -18,7 +18,7 @@ Aqui aparecem apenas pessoas que escolheram publicar seu **nome de jogo e UID**.
 
 ## Como participar
 
-1. [Entre na sua conta](../conta/) com Google ou Discord.
+1. [Entre na sua conta](conta.md) com Google ou Discord.
 2. Preencha seu **nome de exibição** e **UID do jogo**.
 3. Marque **Quero aparecer na lista pública de membros** e salve.
 
