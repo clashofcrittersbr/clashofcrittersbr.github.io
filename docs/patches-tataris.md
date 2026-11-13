@@ -1,19 +1,10 @@
-# Patches e revisão dos Tataris
+# Patches e fontes
 
-## Referências recebidas
+Acompanhe os anúncios de atualização do jogo, consulte as mudanças por versão e encontre as fontes usadas pela wiki.
 
-Transcrições de anúncios fornecidas manualmente pelo mantenedor. As entradas de 0.50.1 e 0.49 foram recebidas em **07/11/2026**; a atualização 0.52 foi recebida em **13/11/2026** por vídeo. Datas abaixo em UTC quando indicadas na fonte. Não houve acesso autenticado ao Discord para conferência independente. [Mensagem indicada pelo mantenedor](https://discord.com/channels/1343763804349267989/1344150608743104532/1567075638043484161).
+[0.52 · Prévia de atualização: Roost, Horda S4 e Diários](previas/roost.md){ .md-button .md-button--primary }
 
-| Data | Versão informada | Situação |
-| --- | --- | --- |
-| Data não informada (transcrição recebida em 13/11/2026) | 0.52 | Vídeo de atualização indicado pelo mantenedor |
-| 04/11/2026 | 0.50.1.1150.6906 | Transcrição fornecida |
-| 21/10/2026 | 0.49.1.4372.6766 | Transcrição fornecida |
-| 07/10/2026 | 0.49.1 | Transcrição fornecida |
-
-Preservamos os identificadores como recebidos. A referência 0.51.1/build 171352 em guias anteriores vem de outra fonte e não foi reconciliada com estes anúncios; não tratamos a numeração isolada como garantia de atualização.
-
-## 0.52 · Atualização
+## 0.52 · Prévia de atualização { #052 }
 
 **Fonte:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor. Transcrição traduzida e recebida em **13/11/2026**; a data de publicação do vídeo não foi informada junto ao material.
 
@@ -30,7 +21,7 @@ Preservamos os identificadores como recebidos. A referência 0.51.1/build 171352
 - **Canais de chat:** até cinco canais criados e cinquenta canais ingressados; ao remover membros, é possível consultar quando estiveram online pela última vez.
 - **Outras melhorias:** acessórios dos Tataris aparecem na lista de Tataris e no perfil do treinador.
 
-A transcrição recebida não informa a data de publicação do vídeo. A atualização confirma a existência da Horda S4 e a alteração de formações, mas não lista a ordem de chefes por onda, multiplicadores ou disponibilidade de cada chip. Esses detalhes permanecem atribuídos a fontes comunitárias e não devem ser descritos como confirmados por este anúncio.
+A transcrição recebida não informa a data de publicação do vídeo. O anúncio apresenta a Horda S4 e mudanças nas formações, mas não lista a ordem de chefes por onda, multiplicadores ou disponibilidade de cada chip. Esses detalhes permanecem atribuídos a fontes comunitárias e não devem ser descritos como confirmados por este anúncio.
 
 **Conflito de fonte:** o Tatari Companion apresenta 16% para Special Emblem III; o vídeo da atualização 0.52 mostra 18%. Registramos 18% conforme a fonte de atualização desta versão.
 
@@ -69,6 +60,19 @@ As formações inimigas dos capítulos 24–28 também foram alteradas. Guias an
 - **Cactobud → Cactobodhi:** nova forma T4.
 - Sparkly Spa, Spa Station e aparências Sparkle exclusivas de T4 Glitter. As regras de buffs do Spa deste anúncio foram posteriormente alteradas em 04/11.
 - Sete aparências Sparkle para o T4 de Frostnip, Manteeny, Voltfawn, Zappur, Droppit, Punchimp, Sparkit, Frugling, Blueflick e Rubblet.
+
+## Referências recebidas
+
+Transcrições de anúncios fornecidas manualmente pelo mantenedor. As entradas de 0.50.1 e 0.49 foram recebidas em **07/11/2026**; a atualização 0.52 foi recebida em **13/11/2026** por vídeo. Datas abaixo em UTC quando indicadas na fonte. Não houve acesso autenticado ao Discord para conferência independente. [Mensagem indicada pelo mantenedor](https://discord.com/channels/1343763804349267989/1344150608743104532/1567075638043484161).
+
+| Data | Versão informada | Situação |
+| --- | --- | --- |
+| Data não informada (transcrição recebida em 13/11/2026) | 0.52 | Vídeo de atualização indicado pelo mantenedor |
+| 04/11/2026 | 0.50.1.1150.6906 | Transcrição fornecida |
+| 21/10/2026 | 0.49.1.4372.6766 | Transcrição fornecida |
+| 07/10/2026 | 0.49.1 | Transcrição fornecida |
+
+Preservamos os identificadores como recebidos. A referência 0.51.1/build 171352 em guias anteriores vem de outra fonte e não foi reconciliada com estes anúncios; não tratamos a numeração isolada como garantia de atualização.
 
 ## Política de atualização manual
 
