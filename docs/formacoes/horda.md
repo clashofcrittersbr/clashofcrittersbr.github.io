@@ -2,7 +2,7 @@
 
 Na Invasão da Horda, dois jogadores defendem o tabuleiro contra ondas de Zobos. Durante a partida, a dupla posiciona Tataris, melhora unidades e escolhe chips.
 
-**Revisão em 08/11/2026.** As mudanças abaixo seguem as transcrições oficiais de **21/10 (0.49.1.4372.6766)** e **04/11 (0.50.1.1150.6906)** fornecidas pelo mantenedor. As versões 0.50.1/0.51.1 citadas anteriormente não foram reconciliadas entre as fontes. [Consultar patches e origem](../patches-tataris.md#referencias-recebidas).
+**Revisão em 13/11/2026.** Este guia descreve principalmente a Temporada 3 e suas referências históricas. A atualização 0.52 anuncia o início da Temporada 4 e confirma formações de chefes atualizadas, novos chips e rebalanceamentos; consulte [a tradução das notas 0.52](../patches-tataris.md#052) e [a página de Roost e Horda S4](../previas/roost.md) para separar o anúncio de detalhes comunitários do Pioneer.
 
 ## O que mudou na Temporada 3
 
@@ -13,12 +13,13 @@ O anúncio de **21/10/2026 · 0.49.1.4372.6766** abriu a Temporada 3. Ela acresc
 | Dificuldade e inimigos | Compare a dificuldade e a ordem dos chefes antes de usar uma formação de outra temporada. |
 | Chips | O patch de 21/10 alterou AFK de 300 para 400 energizadores, First-Aid Kit de 15% para 12% de HP recuperado, Lawn Care de 40% para 35% de dano baseado no HP máximo e Mission Reset de 200 para 180 energizadores. Confira os nomes e os efeitos na interface do jogo. |
 | Habilidades de Tataris | O patch de 21/10 manteve a aplicação de lentidão e sono de Waveflutter e Morphanessa nas habilidades regulares dos aliados adjacentes. As habilidades exclusivas da Horda desses aliados deixaram de receber esse efeito. |
-| Patch de 04/11 · 0.50.1.1150.6906 | A Farlight anunciou habilidades da Horda para Wattail e suas evoluções, melhorias de desempenho e avisos quando um Tatari fica impedido de se mover. |
+| Patch de 04/11 · 0.50.1.1150.6906 | Foram anunciadas habilidades da Horda para Wattail e suas evoluções, melhorias de desempenho e avisos quando um Tatari fica impedido de se mover. |
+| Patch 0.52 | A Horda S4 foi anunciada com formações atualizadas, novos chips e rebalanceamentos. A ordem por onda e os multiplicadores não constam na transcrição do vídeo. |
 
 [Transcrições oficiais e limites de verificação](../patches-tataris.md)
 
-!!! info "Prévia da próxima temporada"
-    Uma [demonstração do servidor pioneiro](../previas/roost.md) apresenta Roost e chips ligados à Horda S4. Os efeitos ainda podem mudar; este guia continua descrevendo a Temporada 3 até a publicação do patch oficial.
+!!! warning "Temporada 4"
+    A atualização 0.52 anuncia a nova temporada. Este guia continua sendo uma referência da Temporada 3; formações e estratégias antigas podem não corresponder ao estado atual. A página de [Roost e Horda S4](../previas/roost.md) separa o anúncio 0.52 dos dados detalhados ainda atribuídos a fontes comunitárias.
 
 ## Referências da Temporada 3
 
