@@ -4,8 +4,8 @@ Acompanhe os guias, as correções e os recursos publicados. Cada data agrupa o 
 
 As entradas históricas preservam o contexto de cada publicação. Para os identificadores de versão corrigidos a partir das transcrições oficiais, consulte [Patches e fontes](patches-tataris.md#referencias-recebidas).
 
-## Atualização 0.52
+## Prévia de atualização 0.52
 
-[Roost e Horda S4](previas/roost.md): conteúdo confirmado pela atualização 0.52 e detalhes adicionais de fontes comunitárias, identificados separadamente. Consulte também [Patches e revisão dos Tataris](patches-tataris.md#052).
+[0.52 · Prévia de atualização](previas/roost.md): conheça Roost, a Horda S4 e os Diários anunciados para a versão. Veja outras versões em [Patches e fontes](patches-tataris.md).
 
 --8<-- "CHANGELOG.md:publicado"
