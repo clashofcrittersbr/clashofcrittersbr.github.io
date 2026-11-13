@@ -1,14 +1,16 @@
-# Roost e Horda S4 · atualização 0.52
+# 0.52 · Prévia de atualização
 
-!!! info "Conteúdo confirmado e referência comunitária"
-    O vídeo de atualização da versão **0.52**, enviado pelo mantenedor, confirma Roost, o início da Temporada 4 da Horda e várias melhorias. As tabelas detalhadas de ondas, multiplicadores e disponibilidade de chips abaixo continuam atribuídas ao **Tatari Companion**; o vídeo não publica esses detalhes. Em caso de divergência, vale o conteúdo da atualização 0.52 para o que ela declara explicitamente.
+Roost, a Temporada 4 da Horda e os Diários do acampamento são os destaques anunciados para a versão 0.52. Veja as novidades, as habilidades apresentadas e os detalhes observados pela comunidade no servidor pioneiro.
 
-**Fonte de atualização:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o). A transcrição foi fornecida pelo mantenedor em 13/11/2026 e traduzida/adaptada para esta página. O material não inclui timestamps nem vídeo incorporado.
+!!! info "Prévia da versão 0.52"
+    O anúncio apresenta as mudanças previstas. A disponibilidade no seu servidor deve ser conferida no jogo. As informações detalhadas do servidor pioneiro aparecem identificadas nas seções correspondentes.
 
-## O que a versão 0.52 confirma
+[Abrir o índice de patches e fontes](../patches-tataris.md){ .md-button }
+
+## Principais novidades
 
 - **Roost**, novo Tatari de Fogo, e habilidades da Horda exclusivas para ele e suas evoluções.
-- **Temporada 4 da Horda:** novo placar, formações de chefes atualizadas, novos desafios e chips, além da moldura sazonal **Valley of Kings**.
+- **Temporada 4 da Horda:** anúncio de um novo placar, formações de chefes atualizadas, novos desafios e chips, além da moldura sazonal **Valley of Kings**.
 - **Diários (Journals):** encontros aleatórios no acampamento podem conceder fragmentos; reunir o conjunto desbloqueia histórias. Fases necessárias liberam o recurso, e novos encontros aparecem conforme Tataris são desbloqueados no Codex. A ordem dos encontros varia entre treinadores.
 - **Melhorias da Horda:** desempenho e efeitos visuais aprimorados; algumas habilidades foram rebalanceadas; busca de colegas por UID; dificuldade visível durante a batalha e nos resultados; avisos de chefes reposicionados e lembrete quando faltam menos de 30 segundos; missões que restringiam elementos removidas, com substituição aleatória das missões ativas desse tipo.
 - **Acampamento:** controles para mover, inverter, girar ou guardar construções; interação direta com construções funcionais; ajustes no modo de edição e na compra rápida; itens direcionais reunidos em uma construção que pode girar em quatro direções.
@@ -18,11 +20,11 @@
 - **Canais de chat:** até cinco canais criados e cinquenta canais ingressados; ao remover alguém, é possível consultar quando esteve online pela última vez.
 - **Outras melhorias:** acessórios dos Tataris passam a aparecer na lista de Tataris e no perfil do treinador.
 
-A tradução completa, com os detalhes dos chips e das habilidades, está em [Patches e revisão dos Tataris](../patches-tataris.md#052).
+Consulte também o [resumo da versão 0.52 e suas fontes](../patches-tataris.md#052).
 
 ## Roost e suas formas
 
-O vídeo apresenta esta sequência de formas e habilidades regulares. Ele não associa explicitamente cada nome a um nível T1–T4; por isso, a página registra a ordem exibida sem atribuir tiers.
+A apresentação mostra a sequência **Roost → Rocker → Deluroo → Wacuckoo** e os seguintes nomes de habilidades.
 
 | Forma exibida | Habilidade regular mostrada |
 | --- | --- |
@@ -42,7 +44,7 @@ O vídeo apresenta esta sequência de formas e habilidades regulares. Ele não a
 
 ## Horda S4 — rotação detalhada do Pioneer
 
-A atualização 0.52 confirma que as formações de chefes foram atualizadas, mas o vídeo não lista a ordem por onda. A tabela a seguir é uma **referência comunitária do Tatari Companion**, não uma confirmação oficial de cada onda. O Companion indica que a ordem apresentada vale para as seis dificuldades e reorganiza os chefes da Temporada 3.
+O anúncio da versão 0.52 prevê mudanças nas formações de chefes, mas o vídeo não lista a ordem por onda. A tabela a seguir é uma **referência comunitária do Tatari Companion**, não uma confirmação oficial de cada onda. O Companion indica que a ordem apresentada vale para as seis dificuldades e reorganiza os chefes da Temporada 3.
 
 Os nomes são mantidos em inglês para permitir comparação com a interface e a fonte.
 
@@ -113,8 +115,8 @@ Artiar sugere que mais HP nos inimigos comuns e o Equalizer mais cedo podem abri
 
 ## Fontes e créditos
 
-- **Atualização 0.52:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor. A transcrição traduzida foi fornecida em 13/11/2026.
+- **Atualização 0.52:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor. 
 - **Detalhes comunitários do Pioneer:** [Pioneer Server 0.51 — Tatari Companion](https://kenzkunz.github.io/tatari-companion/pioneerpreview.html), projeto de fã criado por **kenzkunz**, que agradece a **ArtiarYT** pelo compartilhamento de informações. A página se declara não oficial e alerta que a versão ao vivo pode divergir.
 - **Contexto de estratégia:** transcrição de vídeo de **Artiar** enviada pelo mantenedor; a autoria da tabela do Companion permanece atribuída ao projeto e seus colaboradores.
-- **Demonstração anterior de Roost:** [vídeo de Ry](https://www.youtube.com/watch?v=VM0z817js_s). As observações de teste são subordinadas ao conteúdo lançado na versão 0.52.
+- **Demonstração anterior de Roost:** [vídeo de Ry](https://www.youtube.com/watch?v=VM0z817js_s). Fonte de observações anteriores no servidor de teste.
 - Para outros recursos e correções da versão, consulte [Patches e revisão dos Tataris](../patches-tataris.md).
