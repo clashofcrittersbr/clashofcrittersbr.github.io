@@ -35,80 +35,92 @@ Guias para começar, consultar formações e aproveitar os eventos do jogo.
 
 </div>
 
-[Explorar o catálogo de Tataris →](tataris.md){ .md-button }
-
-## Formações por modo
-
-<div class="wiki-modes" markdown="1">
-
-<div class="wiki-tile wiki-tile--story" markdown="1">
-
-<span class="wiki-tile-icon" aria-hidden="true">▦</span>
-
-### Modo História
-
-Consulte a campanha por capítulo e fase, a partir do capítulo 1.
-
-[Abrir Modo História →](formacoes/modo-historia.md)
-
-</div>
-
-<div class="wiki-tile wiki-tile--dojo" markdown="1">
-
-<span class="wiki-tile-icon" aria-hidden="true">◇</span>
-
-### Dojo
-
-Entenda os duelos por elemento e as insígnias do Dojo.
-
-[Abrir Dojo →](formacoes/dojo.md)
-
-</div>
-
-<div class="wiki-tile wiki-tile--horde" markdown="1">
-
-<span class="wiki-tile-icon" aria-hidden="true">▰</span>
-
-### Horda
-
-Veja como funcionam as ondas, a dupla e os chips da Horda.
-
-[Abrir Horda →](formacoes/horda.md)
-
-</div>
-
-</div>
-
-## Guias rápidos
+## Encontre o que você precisa
 
 <div class="wiki-quick" markdown="1">
 
 <div class="wiki-tile" markdown="1">
 
-### Comece aqui
+### Guias para começar
 
-Entenda o tabuleiro e saiba o que testar quando uma fase travar.
+Entenda o jogo e encontre ajuda para avançar.
 
-[Ver guia de iniciante →](comece-aqui.md) · [Consultar tier list →](guias/tier-list.md)
+- [Comece aqui](comece-aqui.md)
+- [Combate e elementos](guias/combate.md)
+- [Pinball e recursos](guias/recursos.md)
 
 </div>
 
 <div class="wiki-tile" markdown="1">
 
-### Caça ao Tesouro
+### Tataris
 
-Configure o tabuleiro no solver e registre as escavações.
+Conheça o elenco e planeje suas próximas evoluções.
 
-[Ver guia do evento →](eventos/caca-ao-tesouro.md) · [Ver outros eventos →](eventos/index.md)
+- [Catálogo](tataris.md)
+- [Evoluções e progressão](conteudo/tataria/guias/evolucoes.md)
+- [Tier list](guias/tier-list.md)
 
 </div>
 
+<div class="wiki-tile" markdown="1">
+
+### Formações
+
+Escolha o modo que você está jogando.
+
+- [Modo História](formacoes/modo-historia.md)
+- [Dojo](formacoes/dojo.md)
+- [Horda](formacoes/horda.md)
+
 </div>
 
-<div class="wiki-contribute" markdown="1">
+<div class="wiki-tile" markdown="1">
 
-**Passou com uma formação diferente?** Ajude a documentar os Tataris, os Tiers e o que você mudou.
+### Eventos
 
-[Veja como contribuir →](colabore.md) · [Veja o que mudou na wiki →](novidades.md)
+Consulte guias e ferramentas dos eventos.
+
+- [Corrida do Ouro](eventos/corrida-do-ouro.md)
+- [Caça ao Tesouro](eventos/caca-ao-tesouro.md)
+- [Todos os eventos](eventos/index.md)
+
+</div>
+
+<div class="wiki-tile" markdown="1">
+
+### Ferramentas
+
+Organize suas escolhas e acompanhe suas metas.
+
+- [Planejador de evoluções](ferramentas/planejador-evolucoes.md)
+- [Tierlist Maker](ferramentas/tierlist-maker.md)
+- [Ver ferramentas](ferramentas.md)
+
+</div>
+
+<div class="wiki-tile" markdown="1">
+
+### Atualizações
+
+Veja os anúncios do jogo e o que mudou na wiki.
+
+- [0.52 · Prévia de atualização](previas/roost.md)
+- [Patches e fontes](patches-tataris.md)
+- [Novidades da wiki](novidades.md)
+
+</div>
+
+<div class="wiki-tile" markdown="1">
+
+### Comunidade
+
+Conheça os jogadores e ajude a ampliar a wiki.
+
+- [Membros](membros.md)
+- [Minha conta](conta.md)
+- [Como contribuir](colabore.md)
+
+</div>
 
 </div>
