@@ -6,10 +6,10 @@ Transcrições de anúncios fornecidas manualmente pelo mantenedor. As entradas 
 
 | Data | Versão informada | Situação |
 | --- | --- | --- |
+| Data não informada (transcrição recebida em 13/11/2026) | 0.52 | Vídeo de atualização indicado pelo mantenedor |
 | 04/11/2026 | 0.50.1.1150.6906 | Transcrição fornecida |
 | 21/10/2026 | 0.49.1.4372.6766 | Transcrição fornecida |
 | 07/10/2026 | 0.49.1 | Transcrição fornecida |
-| 13/11/2026 | 0.52 | Transcrição do vídeo de atualização fornecida pelo mantenedor |
 
 Preservamos os identificadores como recebidos. A referência 0.51.1/build 171352 em guias anteriores vem de outra fonte e não foi reconciliada com estes anúncios; não tratamos a numeração isolada como garantia de atualização.
 
