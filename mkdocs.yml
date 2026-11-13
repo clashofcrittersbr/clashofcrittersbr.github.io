@@ -62,6 +62,7 @@ markdown_extensions:
 
 extra_css:
   - assets/wiki.css
+  - stylesheets/evolution-guide.css
   - stylesheets/patch-052.css
   - assets/tataris.css
   - stylesheets/custom-dialogs.css
