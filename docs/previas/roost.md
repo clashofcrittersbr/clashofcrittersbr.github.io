@@ -41,7 +41,7 @@ Os nomes abaixo foram mantidos em inglês para facilitar a comparação com a in
 | 24 | Brainfreeze Zobo |
 | 25 | Forge Zobo, Shaman Zobo e Golf Zobo |
 
-A transcrição de Artiar também destaca que Frankenfish deixa de aparecer na última onda. Na tabela consultada, a onda 25 passa a reunir Forge, Shaman e Golf. A ordem pode mudar antes de chegar ao servidor global.
+A transcrição de Artiar parece indicar que Frankenfish foi deslocado para outra onda; porém, esse nome não aparece na tabela consultada, que lista Goonch na onda 16 e Forge, Shaman e Golf na onda 25. Como há divergência entre as fontes, não registramos a posição de Frankenfish como confirmada. A ordem pode mudar antes de chegar ao servidor global.
 
 ### Escalonamento de atributos na onda 25
 
