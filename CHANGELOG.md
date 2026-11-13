@@ -7,7 +7,7 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 - Ferramenta Critters: Dojo Formations incorporada em Formações, com créditos e acesso direto ao site original.
 
 - Planejador de evoluções abre vazio e mantém visíveis apenas as famílias adicionadas; instruções no topo e remoção individual.
-- Prévia de Roost e Horda S4 no servidor pioneiro com créditos, minutos da transcrição e diferenças entre relato e patch oficial.
+- Prévia da Horda S4 e do Roost no servidor pioneiro, com rotação de chefes, escalonamento de atributos, chips, créditos e ressalvas sobre os dados provisórios.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
