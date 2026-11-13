@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Navegação organizada por assunto, com patches agrupados por versão e atalhos para subpáginas na home.
+
 - Ferramenta Critters: Dojo Formations incorporada em Formações, com créditos e acesso direto ao site original.
 
 - Planejador de evoluções abre vazio e mantém visíveis apenas as famílias adicionadas; instruções no topo e remoção individual.
