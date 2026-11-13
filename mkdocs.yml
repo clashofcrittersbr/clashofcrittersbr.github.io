@@ -78,22 +78,18 @@ extra_javascript:
 
 nav:
   - Início: index.md
-  - Minha conta: conta.md
-  - Membros: membros.md
   - Guias:
       - Comece aqui: comece-aqui.md
       - Combate e elementos: guias/combate.md
-      - Tataris e evolução: guias/tataris.md
-      - Pyropup: guias/pyropup.md
       - Pinball e recursos: guias/recursos.md
       - Desafio de Chefe: guias/desafio-de-chefe.md
       - Álbum de Cartas: guias/album-de-cartas.md
   - Tataris:
       - Catálogo: tataris.md
-      - Guias:
-          - Evoluções e progressão: conteudo/tataria/guias/evolucoes.md
-      - Patches e fontes: patches-tataris.md
-      - Roost e Horda S4 · versão 0.52: previas/roost.md
+      - Entenda as evoluções: guias/tataris.md
+      - Evoluções e progressão: conteudo/tataria/guias/evolucoes.md
+      - Tier list: guias/tier-list.md
+      - Guia do Pyropup: guias/pyropup.md
       - Famílias:
           - Ashlarva: tataris/ashlarva.md
           - Blowfin: tataris/blowfin.md
@@ -162,26 +158,33 @@ nav:
           - Zappur: tataris/zappur.md
           - Zapuni: tataris/zapuni.md
           - Zapup: tataris/zapup.md
-  - Tier list: guias/tier-list.md
-  - Ferramentas:
-      - Visão geral: ferramentas.md
-      - Tierlist Maker: ferramentas/tierlist-maker.md
-      - Planejador de evoluções: ferramentas/planejador-evolucoes.md
   - Formações:
       - Visão geral: formacoes/index.md
       - Modo História: formacoes/modo-historia.md
       - Dojo: formacoes/dojo.md
-      - Formações da comunidade: formacoes/ferramenta-comunitaria.md
       - Horda: formacoes/horda.md
       - Horda D3 · Duplo Tubarão: formacoes/horda-d3.md
+      - Formações da comunidade: formacoes/ferramenta-comunitaria.md
   - Eventos:
       - Visão geral: eventos/index.md
       - Corrida do Ouro: eventos/corrida-do-ouro.md
       - Caça ao Tesouro: eventos/caca-ao-tesouro.md
       - Concurso de Pesca: eventos/concurso-de-pesca.md
       - Tiro aos Zobos: eventos/tiro-aos-zobos.md
-  - Novidades: novidades.md
-  - Colabore: colabore.md
+  - Ferramentas:
+      - Visão geral: ferramentas.md
+      - Tierlist Maker: ferramentas/tierlist-maker.md
+      - Planejador de evoluções: ferramentas/planejador-evolucoes.md
+  - Atualizações:
+      - Visão geral: atualizacoes/index.md
+      - Patches e fontes:
+          - Índice de versões: patches-tataris.md
+          - 0.52 · Prévia de atualização: previas/roost.md
+      - Novidades da wiki: novidades.md
+  - Comunidade:
+      - Membros: membros.md
+      - Minha conta: conta.md
+      - Como contribuir: colabore.md
 
 validation:
   nav:
