@@ -1,17 +1,50 @@
-# Prévia da Horda S4 e do Roost
+# Roost e Horda S4 · atualização 0.52
 
-!!! warning "Servidor pioneiro — conteúdo provisório"
-    Esta página reúne observações do vídeo de **Artiar** e tabelas do **Tatari Companion**, ambas sobre o servidor pioneiro. Não representam uma atualização confirmada no servidor global. O patch oficial continua sendo a fonte definitiva; quando for publicado, vamos comparar os dados e corrigir esta página.
+!!! info "Conteúdo confirmado e referência comunitária"
+    O vídeo de atualização da versão **0.52**, enviado pelo mantenedor, confirma Roost, o início da Temporada 4 da Horda e várias melhorias. As tabelas detalhadas de ondas, multiplicadores e disponibilidade de chips abaixo continuam atribuídas ao **Tatari Companion**; o vídeo não publica esses detalhes. Em caso de divergência, vale o conteúdo da atualização 0.52 para o que ela declara explicitamente.
 
-**Situação registrada em 13/11/2026:** a referência comunitária consultada identifica o ambiente como *Pioneer Server 0.51*. Sua página exibe tanto um aviso de descoberta recente quanto “Last Update 18/10/2026”; como as datas não são consistentes, tratamos os dados abaixo como provisórios e atribuídos à fonte, sem presumir que sejam a versão mais recente do teste.
+**Fonte de atualização:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o). A transcrição foi fornecida pelo mantenedor em 13/11/2026 e traduzida/adaptada para esta página. O material não inclui timestamps nem vídeo incorporado.
 
-## Horda — Temporada 4
+## O que a versão 0.52 confirma
 
-### Rotação de chefes
+- **Roost**, novo Tatari de Fogo, e habilidades da Horda exclusivas para ele e suas evoluções.
+- **Temporada 4 da Horda:** novo placar, formações de chefes atualizadas, novos desafios e chips, além da moldura sazonal **Valley of Kings**.
+- **Diários (Journals):** encontros aleatórios no acampamento podem conceder fragmentos; reunir o conjunto desbloqueia histórias. Fases necessárias liberam o recurso, e novos encontros aparecem conforme Tataris são desbloqueados no Codex. A ordem dos encontros varia entre treinadores.
+- **Melhorias da Horda:** desempenho e efeitos visuais aprimorados; algumas habilidades foram rebalanceadas; busca de colegas por UID; dificuldade visível durante a batalha e nos resultados; avisos de chefes reposicionados e lembrete quando faltam menos de 30 segundos; missões que restringiam elementos removidas, com substituição aleatória das missões ativas desse tipo.
+- **Acampamento:** controles para mover, inverter, girar ou guardar construções; interação direta com construções funcionais; ajustes no modo de edição e na compra rápida; itens direcionais reunidos em uma construção que pode girar em quatro direções.
+- **Radish Run:** animações de lançamento e escaneamento de Zapup aceleradas, com alcance de escaneamento ajustado aos efeitos visuais.
+- **Alimentador automático:** nova opção para pausar a alimentação quando a classificação do Tatari aumenta.
+- **Álbum de Cartas:** melhoria visual ao arrastar Cartas Foil na tela de detalhes.
+- **Canais de chat:** até cinco canais criados e cinquenta canais ingressados; ao remover alguém, é possível consultar quando esteve online pela última vez.
+- **Outras melhorias:** acessórios dos Tataris passam a aparecer na lista de Tataris e no perfil do treinador.
 
-Segundo a tabela do Tatari Companion, a Temporada 4 reorganiza os mesmos chefes usados na Temporada 3; não há novos chefes na rotação apresentada. A ordem é indicada como comum às seis dificuldades.
+A tradução completa, com os detalhes dos chips e das habilidades, está em [Patches e revisão dos Tataris](../patches-tataris.md#052).
 
-Os nomes abaixo foram mantidos em inglês para facilitar a comparação com a interface e com a fonte. A wiki ainda não confirma uma localização oficial em português.
+## Roost e suas formas
+
+O vídeo apresenta esta sequência de formas e habilidades regulares. Ele não associa explicitamente cada nome a um nível T1–T4; por isso, a página registra a ordem exibida sem atribuir tiers.
+
+| Forma exibida | Habilidade regular mostrada |
+| --- | --- |
+| Roost | Chicken Came First |
+| Rocker | Egg Came First |
+| Deluroo | Chicken AND Egg |
+| Wacuckoo | Habilidades de Horde Invasion descritas abaixo |
+
+### Habilidades de Horde Invasion de Wacuckoo
+
+| Habilidade | Descrição traduzida da atualização 0.52 |
+| --- | --- |
+| **Chicken Eggcellence** | Lança mais ovos no alvo. Às vezes lança um ovo no alvo principal da mesma coluna; a galinha chocada causa alto dano em área. Wacuckoo carrega **Aura: Fire** enquanto está em campo. A transcrição também diz que o efeito “ignora efeitos para ativar o bônus de DEF”, mas não esclarece a quais efeitos se refere. |
+| **Cock-A-Doodle Doom** | Lança uma grande bola de fogo que explode à frente, onde os inimigos estão concentrados, aplica **Solar: Slow** e causa dano contínuo. |
+| **Get Roasted** | Entra em combustão. O cheiro de frango assado concede **Roast: DEF Boost** a Wacuckoo e aos aliados. Ao passar do ponto, remove o bônus e recupera HP continuamente até poder usar a habilidade novamente. |
+| **Eggs Galore** | Lança ovos gigantes que transformam os inimigos ao alcance em galinhas gritando e aplicam **Chicken: Fragile**. |
+
+## Horda S4 — rotação detalhada do Pioneer
+
+A atualização 0.52 confirma que as formações de chefes foram atualizadas, mas o vídeo não lista a ordem por onda. A tabela a seguir é uma **referência comunitária do Tatari Companion**, não uma confirmação oficial de cada onda. O Companion indica que a ordem apresentada vale para as seis dificuldades e reorganiza os chefes da Temporada 3.
+
+Os nomes são mantidos em inglês para permitir comparação com a interface e a fonte.
 
 | Onda | Chefes indicados para a Temporada 4 |
 | ---: | --- |
@@ -41,13 +74,13 @@ Os nomes abaixo foram mantidos em inglês para facilitar a comparação com a in
 | 24 | Brainfreeze Zobo |
 | 25 | Forge Zobo, Shaman Zobo e Golf Zobo |
 
-A transcrição de Artiar parece indicar que Frankenfish foi deslocado para outra onda; porém, esse nome não aparece na tabela consultada, que lista Goonch na onda 16 e Forge, Shaman e Golf na onda 25. Como há divergência entre as fontes, não registramos a posição de Frankenfish como confirmada. A ordem pode mudar antes de chegar ao servidor global.
+A transcrição de Artiar parece indicar que Frankenfish foi deslocado para outra onda; esse nome não aparece na tabela do Companion, que lista Goonch na onda 16. Como há divergência, a posição de Frankenfish permanece sem confirmação.
 
-### Escalonamento de atributos na onda 25
+### Multiplicadores relatados para a onda 25
 
-A fonte comunitária descreve estes valores como **multiplicadores configurados de HP / ATQ / DEF**, não como atributos finais exibidos aos inimigos. Na Temporada 3, chefes e inimigos comuns usam os mesmos multiplicadores; na Temporada 4, os multiplicadores de HP passam a variar por categoria em algumas dificuldades.
+O Companion descreve os valores como multiplicadores configurados de **HP / ATQ / DEF**, não como atributos finais exibidos aos inimigos. Estes dados não são detalhados no vídeo da atualização 0.52.
 
-| Dificuldade | S3 chefes e comuns | S4 chefes | S4 inimigos comuns |
+| Dificuldade | Temporada 3: chefes e comuns | S4: chefes | S4: inimigos comuns |
 | ---: | --- | --- | --- |
 | 1 | 40× / 8× / 8× | 40× / 8× / 8× | 40× / 8× / 8× |
 | 2 | 66× / 11× / 10× | 66× / 11× / 10× | 66× / 11× / 10× |
@@ -56,55 +89,32 @@ A fonte comunitária descreve estes valores como **multiplicadores configurados 
 | 5 | 240× / 28× / 18× | 180× / 28× / 18× | 312× / 28× / 18× |
 | 6 | 360× / 40× / 22× | 270× / 40× / 22× | 468× / 40× / 22× |
 
-**Como interpretar:** na dificuldade 4, por exemplo, o multiplicador de HP dos chefes vai de 160× para 120× e o dos inimigos comuns vai de 160× para 208×. Isso representa −25% para o multiplicador dos chefes e +30% para o dos inimigos comuns, em relação à Temporada 3. ATQ e DEF permanecem iguais nessa comparação. São valores relatados por uma fonte comunitária de teste, não números oficiais do patch.
+Por exemplo, na dificuldade 4, o Companion registra 160× → 120× no multiplicador de HP dos chefes e 160× → 208× para inimigos comuns; ATQ e DEF permanecem iguais na comparação. Os valores continuam sujeitos a alteração e não foram confirmados pelo vídeo oficial.
 
-### Chips: disponibilidade observada
+### Chips e disponibilidade relatados pela comunidade
 
-O vídeo de Artiar comenta a distribuição dos chips entre as ondas e destaca a mudança do Equalizer. A página do Companion detalha os nomes e efeitos abaixo. Os nomes originais foram preservados; traduções entre parênteses são descrições editoriais da wiki, não nomes oficiais em português.
+O vídeo 0.52 mostra novos chips e a Chip Gallery, mas não informa em quais ondas cada chip pode aparecer. As janelas abaixo vêm do Tatari Companion.
 
-| Chip | Ondas indicadas | Efeito descrito pela fonte |
+| Chip | Ondas indicadas pelo Companion | Efeito |
 | --- | --- | --- |
-| Growth Spurt (Crescimento) | 10 e 15 | Tataris de nível 5 ou inferior recebem +30% de ATQ, DEF e HP máximo. |
-| Back at It (De volta ao combate) | 5, 10 e 15 | Revive automaticamente um Tatari derrubado, consumindo energizadores equivalentes a 80% do custo de reposicionamento. |
-| New Frontiers (Novas fronteiras) | 5, 10 e 15 | Expande a área de posicionamento em três fileiras para a frente, para os dois jogadores. |
-| Last Stand (Última resistência) | 5, 10 e 15 | Concede +30% de dano aos Tataris; a partida termina se um Zobo alcançar a parte inferior do mapa. |
-| Delayed Gains (Ganhos adiados) | 5 e 10 | Concede 400 energizadores após cinco ondas. |
-| Never Too Late (Nunca é tarde) | 5 | Após 12 ondas, eleva ao nível 8 o Tatari posicionado de menor nível. |
-| Equalizer | 10 — antes, 15 | A seleção fica disponível uma escolha de chip mais cedo. |
+| Growth Spurt | 10 e 15 | Tataris de nível 5 ou inferior recebem +30% de ATQ, DEF e HP máximo. |
+| Back at It | 5, 10 e 15 | Revive automaticamente um Tatari derrubado, consumindo energizadores equivalentes a 80% do custo de reposicionamento. |
+| New Frontiers | 5, 10 e 15 | Expande a área de posicionamento em três fileiras para a frente para os dois jogadores. |
+| Last Stand | 5, 10 e 15 | +30% de dano causado para ambos os lados; a batalha termina se um Zobo alcançar a parte inferior do mapa. O efeito é confirmado na atualização 0.52; as ondas são informação comunitária. |
+| Delayed Gains | 5 e 10 | Concede 400 energizadores após cinco ondas. |
+| Never Too Late | 5 | Após 12 ondas, eleva ao nível 8 o Tatari posicionado de menor nível. |
+| Equalizer | 10 (antes, 15) | A seleção fica disponível uma escolha de chip mais cedo. |
 
-Os emblemas de função (Guard, Tank, DPS, Healer, Support e Special) também aparecem nas ondas 5, 10 e 15. A disponibilidade e os efeitos ainda podem ser ajustados no teste.
+A atualização 0.52 informa os valores dos Emblem III. **Special Emblem III** concede **+18% de ATQ, DEF e HP máximo** no vídeo; o Companion apresenta 16%. Nesta divergência, seguimos o valor exibido na atualização 0.52. Os demais valores oficiais estão em [Patches e revisão dos Tataris](../patches-tataris.md#052). A disponibilidade por onda continua sendo a do Companion.
 
-### O que pode mudar na estratégia
+### Leitura estratégica atribuída ao Artiar
 
-**Interpretação do Artiar, ainda sem validação de meta:** o aumento de HP dos inimigos comuns e a mudança do Equalizer podem favorecer mais dano em área e uma distribuição diferente do time, em vez de depender sempre de puxar os chefes. O próprio vídeo apresenta isso como uma possibilidade, não como uma formação comprovadamente superior. A rotação final também coloca Shaman Zobo na onda 25; a sugestão de priorizar dano de Fogo para lidar com seus lacaios e escudo é uma leitura do criador e precisa de teste na prática.
-
-Não transforme essas observações em recomendação fixa antes de confirmar os efeitos no servidor global e comparar com as notas oficiais.
-
-## Roost: prévia anterior
-
-A seção abaixo preserva o registro da demonstração anterior, sem misturar aquela transcrição com a atualização da Horda S4.
-
-| Tema | Relato da demonstração |
-| --- | --- |
-| Tipo e função | Tatari de **Fogo**, de **suporte**. A grafia **Roost** aparece na prévia de Artiar; a transcrição anterior também trazia uma pronúncia aproximada como “Roose”. |
-| Habilidade regular | Atira pedras em um alvo. Periodicamente lança um ovo ao aliado mais à frente da mesma coluna; o pintinho causa dano em área e concede defesa aos aliados atingidos. |
-| Evoluções | O T2 produz mais pulsos do ataque em área do pintinho; o T3 amplia a área e a quantidade de pulsos. A transcrição não permite detalhar o T4 com segurança. |
-| Posicionamento | Ao colocar Roost na frente, o ovo pode beneficiar o próprio Tatari. Alcance e melhor posição ainda precisam de teste. |
-
-### Habilidades de Roost na Horda
-
-| Nível | Efeito relatado | Ressalva |
-| ---: | --- | --- |
-| 3 | Cria uma área à frente, reduz a velocidade dos inimigos e causa dano contínuo. | A demonstração anterior não permite confirmar todos os valores ou a dimensão da área. |
-| 5 | Concede defesa a aliados próximos; ao atingir uma condição de superaquecimento, remove o bônus e recupera HP. | Os valores são de teste e podem mudar. |
-| 7 | Lança ovos grandes que transformam inimigos na área em galinhas e aplicam fragilidade. | A demonstração anterior alternava entre 120% e 130%; o valor fica pendente. |
-
-O criador da demonstração considera Roost promissor para a Horda, mas essa avaliação é uma opinião preliminar, não uma posição consolidada de tier list.
+Artiar sugere que mais HP nos inimigos comuns e o Equalizer mais cedo podem abrir espaço para composições com dano em área, reduzindo a dependência de atrair chefes. Ele também aponta Shaman Zobo na onda final da tabela comunitária e propõe dano de Fogo para lidar com lacaios e escudo. Essas são interpretações estratégicas do criador, não efeitos ou recomendações declarados nas notas da atualização 0.52.
 
 ## Fontes e créditos
 
-- **Vídeo e transcrição da atualização S4:** Artiar, conteúdo enviado pelo mantenedor e traduzido/adaptado para esta página. A transcrição não veio acompanhada do link direto do vídeo; não foram incluídos timestamps nem vídeo incorporado.
-- **Tabelas de chefes, escalonamento e chips:** [Pioneer Server 0.51 — Tatari Companion](https://kenzkunz.github.io/tatari-companion/pioneerpreview.html), projeto comunitário criado por **kenzkunz**, que agradece a **ArtiarYT** pelo compartilhamento de informações. A página se declara não oficial e alerta que a atualização ao vivo pode divergir.
-- **Demonstração anterior de Roost:** [vídeo de Ry](https://www.youtube.com/watch?v=VM0z817js_s), fonte das observações anteriores sobre a habilidade e os efeitos de teste.
-- **Grafia Roost:** [prévia anterior de Artiar](https://www.youtube.com/watch?v=g8LiHUxCDe8), publicada em 10/11/2026.
-- **Regra editorial:** quando as notas oficiais forem publicadas, prevalecerão sobre relatos e tabelas comunitárias. Vamos registrar a versão e as correções no [histórico de novidades](../novidades.md).
+- **Atualização 0.52:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor. A transcrição traduzida foi fornecida em 13/11/2026.
+- **Detalhes comunitários do Pioneer:** [Pioneer Server 0.51 — Tatari Companion](https://kenzkunz.github.io/tatari-companion/pioneerpreview.html), projeto de fã criado por **kenzkunz**, que agradece a **ArtiarYT** pelo compartilhamento de informações. A página se declara não oficial e alerta que a versão ao vivo pode divergir.
+- **Contexto de estratégia:** transcrição de vídeo de **Artiar** enviada pelo mantenedor; a autoria da tabela do Companion permanece atribuída ao projeto e seus colaboradores.
+- **Demonstração anterior de Roost:** [vídeo de Ry](https://www.youtube.com/watch?v=VM0z817js_s). As observações de teste são subordinadas ao conteúdo lançado na versão 0.52.
+- Para outros recursos e correções da versão, consulte [Patches e revisão dos Tataris](../patches-tataris.md).
