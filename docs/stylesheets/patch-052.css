@@ -1,0 +1,82 @@
+/* Visual references for patch previews; reuse the wiki's light/dark palette. */
+.md-typeset .patch-evolution-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: .7rem;
+  margin: 1rem 0;
+}
+.md-typeset .patch-evolution-card {
+  display: block;
+  width: auto;
+  max-width: none;
+  min-width: 0;
+  margin: 0;
+  padding: .7rem;
+  text-align: center;
+  border: 1px solid var(--wiki-border);
+  border-top: 3px solid var(--wiki-gold);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+.patch-evolution-card a { display: block; border-radius: .4rem; }
+.patch-evolution-card a:focus-visible { outline: 2px solid var(--md-typeset-a-color); outline-offset: 3px; }
+.md-typeset .patch-evolution-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: contain;
+  margin: .4rem auto;
+}
+.md-typeset .patch-evolution-card figcaption { display: block; margin: 0; text-align: center; font-style: normal; }
+.patch-evolution-card strong { display: block; overflow-wrap: anywhere; }
+.patch-tier {
+  display: inline-block;
+  padding: .12rem .5rem;
+  border-radius: 1rem;
+  background: var(--wiki-tile-accent);
+  font-size: .65rem;
+  font-weight: 750;
+}
+.md-typeset .patch-evolution-card small { display: block; margin-top: .35rem; font-size: .65rem; color: var(--wiki-muted); }
+.md-typeset .patch-glitter {
+  margin: 1rem 0;
+  padding: .7rem;
+  border: 1px solid var(--wiki-border);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+.patch-glitter > summary { cursor: pointer; font-weight: 700; min-height: 2.2rem; align-content: center; }
+.patch-glitter > summary:focus-visible { outline: 2px solid var(--md-typeset-a-color); outline-offset: 3px; }
+.patch-boss-comparison { margin: 1rem 0; }
+.md-typeset .patch-boss-table {
+  width: 100%;
+  border-spacing: 0;
+  table-layout: fixed;
+  border: 1px solid var(--wiki-border);
+  border-radius: var(--wiki-radius);
+  overflow: hidden;
+  font-size: .74rem;
+  background: var(--wiki-surface);
+}
+.patch-boss-table caption { padding: .5rem 0; text-align: left; color: var(--wiki-muted); font-size: .7rem; }
+.patch-boss-table .patch-wave-column { width: 3.1rem; }
+.patch-boss-table thead th { padding: .7rem .6rem; background: var(--wiki-header); color: #fff; text-align: left; border-bottom: 3px solid var(--wiki-gold); }
+.patch-boss-table thead small { display: block; font-size: .62rem; color: #f2c879; font-weight: 400; }
+.patch-boss-table tbody th { text-align: center; font-size: .8rem; }
+.patch-boss-table td, .patch-boss-table tbody th { padding: .55rem .4rem; border-bottom: 1px solid var(--wiki-border); vertical-align: middle; }
+.patch-boss-table tbody tr:last-child > * { border-bottom: 0; }
+.patch-boss-table tbody tr:nth-child(even) { background: var(--wiki-tile-accent); }
+.patch-boss-table .patch-wave-milestone > th { box-shadow: inset 3px 0 var(--wiki-gold); font-weight: 800; }
+.patch-boss-list { display: flex; flex-direction: column; gap: .4rem; min-width: 0; }
+.patch-boss { display: flex; align-items: center; gap: .45rem; min-width: 0; }
+.md-typeset .patch-boss img { flex: 0 0 2.8rem; width: 2.8rem; height: 2.8rem; object-fit: contain; }
+.patch-boss span { overflow-wrap: anywhere; line-height: 1.35; }
+@media (max-width: 640px) {
+  .md-typeset .patch-evolution-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .patch-boss-table .patch-wave-column { width: 2.4rem; }
+  .patch-boss-table thead th { padding: .6rem .35rem; font-size: .65rem; }
+  .patch-boss-table td, .patch-boss-table tbody th { padding: .5rem .25rem; }
+  .patch-boss { flex-direction: column; gap: .15rem; text-align: center; }
+  .patch-boss span { font-size: .64rem; }
+}

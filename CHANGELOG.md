@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Prévia 0.52 com retratos normais e Glitter das quatro evoluções de Roost e comparação ilustrada das 25 ondas de chefes entre as temporadas 3 e 4, com fontes e créditos.
+
 - Navegação organizada por assunto, com patches agrupados por versão e atalhos para subpáginas na home.
 
 - Ferramenta Critters: Dojo Formations incorporada em Formações, com créditos e acesso direto ao site original.

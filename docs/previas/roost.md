@@ -24,59 +24,127 @@ Consulte também o [resumo da versão 0.52 e suas fontes](../patches-tataris.md#
 
 ## Roost e suas formas
 
-A apresentação mostra a sequência **Roost → Rocker → Deluroo → Wacuckoo** e os seguintes nomes de habilidades.
+Conheça as quatro evoluções de Roost: **T1 Roost → T2 Rocker → T3 Deluroo → T4 Wacuckoo**. Toque em um retrato para ampliar.
 
-| Forma exibida | Habilidade regular mostrada |
-| --- | --- |
-| Roost | Chicken Came First |
-| Rocker | Egg Came First |
-| Deluroo | Chicken AND Egg |
-| Wacuckoo | Habilidades de Horde Invasion descritas abaixo |
+<div class="patch-evolution-grid" role="group" aria-label="Evoluções de Roost">
+<figure class="patch-evolution-card">
+<span class="patch-tier">T1</span>
+<a href="../../assets/patches/0-52/roost/roost.webp" aria-label="Ampliar retrato de Roost"><img src="../../assets/patches/0-52/roost/roost.webp" alt="Roost" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Roost</strong><small>Aparência normal</small></figcaption>
+</figure>
+<figure class="patch-evolution-card">
+<span class="patch-tier">T2</span>
+<a href="../../assets/patches/0-52/roost/rocker.webp" aria-label="Ampliar retrato de Rocker"><img src="../../assets/patches/0-52/roost/rocker.webp" alt="Rocker" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Rocker</strong><small>Aparência normal</small></figcaption>
+</figure>
+<figure class="patch-evolution-card">
+<span class="patch-tier">T3</span>
+<a href="../../assets/patches/0-52/roost/deluroo.webp" aria-label="Ampliar retrato de Deluroo"><img src="../../assets/patches/0-52/roost/deluroo.webp" alt="Deluroo" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Deluroo</strong><small>Aparência normal</small></figcaption>
+</figure>
+<figure class="patch-evolution-card">
+<span class="patch-tier">T4</span>
+<a href="../../assets/patches/0-52/roost/wacuckoo.webp" aria-label="Ampliar retrato de Wacuckoo"><img src="../../assets/patches/0-52/roost/wacuckoo.webp" alt="Wacuckoo" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Wacuckoo</strong><small>Aparência normal</small></figcaption>
+</figure>
+</div>
+
+<details class="patch-glitter">
+<summary>Ver as quatro aparências Glitter</summary>
+<div class="patch-evolution-grid" role="group" aria-label="Evoluções de Roost Glitter">
+<figure class="patch-evolution-card">
+<span class="patch-tier">T1</span>
+<a href="../../assets/patches/0-52/roost/roost-glitter.webp" aria-label="Ampliar retrato de Roost Glitter"><img src="../../assets/patches/0-52/roost/roost-glitter.webp" alt="Roost na aparência Glitter" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Roost</strong><small>Aparência Glitter</small></figcaption>
+</figure>
+<figure class="patch-evolution-card">
+<span class="patch-tier">T2</span>
+<a href="../../assets/patches/0-52/roost/rocker-glitter.webp" aria-label="Ampliar retrato de Rocker Glitter"><img src="../../assets/patches/0-52/roost/rocker-glitter.webp" alt="Rocker na aparência Glitter" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Rocker</strong><small>Aparência Glitter</small></figcaption>
+</figure>
+<figure class="patch-evolution-card">
+<span class="patch-tier">T3</span>
+<a href="../../assets/patches/0-52/roost/deluroo-glitter.webp" aria-label="Ampliar retrato de Deluroo Glitter"><img src="../../assets/patches/0-52/roost/deluroo-glitter.webp" alt="Deluroo na aparência Glitter" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Deluroo</strong><small>Aparência Glitter</small></figcaption>
+</figure>
+<figure class="patch-evolution-card">
+<span class="patch-tier">T4</span>
+<a href="../../assets/patches/0-52/roost/wacuckoo-glitter.webp" aria-label="Ampliar retrato de Wacuckoo Glitter"><img src="../../assets/patches/0-52/roost/wacuckoo-glitter.webp" alt="Wacuckoo na aparência Glitter" width="1024" height="1024" loading="lazy" decoding="async"></a>
+<figcaption><strong>Wacuckoo</strong><small>Aparência Glitter</small></figcaption>
+</figure>
+</div>
+</details>
+
+*Retratos, nomes e tiers: [TataDex](https://tatadex.org/tatari/pet-67-1/), base INTL Pioneer 0.52.1 / 177281, identificada pela fonte como não verificada. Artes do jogo: Farlight Games e respectivos titulares.*
+
+As habilidades regulares apresentadas são **Chicken Came First** (Roost), **Egg Came First** (Rocker) e **Chicken AND Egg** (Deluroo).
 
 ### Habilidades de Horde Invasion de Wacuckoo
 
-| Habilidade | Descrição traduzida da atualização 0.52 |
-| --- | --- |
-| **Chicken Eggcellence** | Lança mais ovos no alvo. Às vezes lança um ovo no alvo principal da mesma coluna; a galinha chocada causa alto dano em área. Wacuckoo carrega **Aura: Fire** enquanto está em campo. A transcrição também diz que o efeito “ignora efeitos para ativar o bônus de DEF”, mas não esclarece a quais efeitos se refere. |
-| **Cock-A-Doodle Doom** | Lança uma grande bola de fogo que explode à frente, onde os inimigos estão concentrados, aplica **Solar: Slow** e causa dano contínuo. |
-| **Get Roasted** | Entra em combustão. O cheiro de frango assado concede **Roast: DEF Boost** a Wacuckoo e aos aliados. Ao passar do ponto, remove o bônus e recupera HP continuamente até poder usar a habilidade novamente. |
-| **Eggs Galore** | Lança ovos gigantes que transformam os inimigos ao alcance em galinhas gritando e aplicam **Chicken: Fragile**. |
+#### Chicken Eggcellence
 
-## Horda S4 — rotação detalhada do Pioneer
+Lança mais ovos no alvo. Às vezes lança um ovo no alvo principal da mesma coluna; a galinha chocada causa alto dano em área. Wacuckoo carrega **Aura: Fire** enquanto está em campo. A transcrição também diz que o efeito “ignora efeitos para ativar o bônus de DEF”, mas não esclarece a quais efeitos se refere.
 
-O anúncio da versão 0.52 prevê mudanças nas formações de chefes, mas o vídeo não lista a ordem por onda. A tabela a seguir é uma **referência comunitária do Tatari Companion**, não uma confirmação oficial de cada onda. O Companion indica que a ordem apresentada vale para as seis dificuldades e reorganiza os chefes da Temporada 3.
+#### Cock-A-Doodle Doom
 
-Os nomes são mantidos em inglês para permitir comparação com a interface e a fonte.
+Lança uma grande bola de fogo que explode à frente, onde os inimigos estão concentrados, aplica **Solar: Slow** e causa dano contínuo.
 
-| Onda | Chefes indicados para a Temporada 4 |
-| ---: | --- |
-| 1 | Captain Zobo |
-| 2 | Garden Zobo |
-| 3 | Climber Zobo |
-| 4 | Sailor Zobo |
-| 5 | Popstar Zobo |
-| 6 | Botanical Zobo |
-| 7 | Sandworm Zobo |
-| 8 | Yeti Zobo |
-| 9 | Laser Zobo |
-| 10 | Tire Zobo e Harpoon Zobo |
-| 11 | Volcano Zobo |
-| 12 | Knight Zobo |
-| 13 | Baron Zobo |
-| 14 | Clown Zobo |
-| 15 | Tipsy Zobo e Pharaoh Zobo |
-| 16 | Goonch Zobo |
-| 17 | Shocker Zobo |
-| 18 | Totem Zobo |
-| 19 | Hydro Zobo |
-| 20 | Chef Zobo e Driver Zobo |
-| 21 | Roadhog Zobo |
-| 22 | Hammer Zobo |
-| 23 | Manager Zobo |
-| 24 | Brainfreeze Zobo |
-| 25 | Forge Zobo, Shaman Zobo e Golf Zobo |
+#### Get Roasted
 
-A transcrição de Artiar parece indicar que Frankenfish foi deslocado para outra onda; esse nome não aparece na tabela do Companion, que lista Goonch na onda 16. Como há divergência, a posição de Frankenfish permanece sem confirmação.
+Entra em combustão. O cheiro de frango assado concede **Roast: DEF Boost** a Wacuckoo e aos aliados. Ao passar do ponto, remove o bônus e recupera HP continuamente até poder usar a habilidade novamente.
+
+#### Eggs Galore
+
+Lança ovos gigantes que transformam os inimigos ao alcance em galinhas gritando e aplicam **Chicken: Fragile**.
+
+## Horda S4 — o que muda na sequência de chefes
+
+Compare a ordem da Temporada 3 com a prévia da Temporada 4. A sequência abaixo foi organizada pelo [Tatari Companion](https://kenzkunz.github.io/tatari-companion/pioneerpreview.html) a partir do servidor pioneiro e é indicada pela fonte como comum às seis dificuldades. O anúncio 0.52 prevê mudanças nas formações, mas não detalha a ordem de cada onda.
+
+Algumas trocas ficam fáceis de localizar:
+
+- **Onda 5:** Laser Zobo dá lugar a Popstar Zobo.
+- **Onda 16:** Goonch Zobo aparece no lugar de Golf Zobo.
+- **Onda 25:** Garden, Goonch e Popstar são substituídos por Forge, Shaman e Golf.
+
+Os retratos ajudam a reconhecer os chefes. Mantivemos os nomes em inglês para facilitar a consulta à referência original.
+
+<div class="patch-boss-comparison">
+<table class="patch-boss-table">
+<caption>Sequência por onda · referência comunitária do Tatari Companion.</caption>
+<colgroup><col class="patch-wave-column"><col><col></colgroup>
+<thead><tr><th scope="col">Onda</th><th scope="col">Temporada 3<small>Sequência anterior</small></th><th scope="col">Temporada 4<small>Prévia do pioneiro</small></th></tr></thead>
+<tbody>
+<tr><th scope="row">1</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2024.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Totem Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2019.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Captain Zobo</span></span></div></td></tr>
+<tr><th scope="row">2</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2016.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Forge Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2015.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Garden Zobo</span></span></div></td></tr>
+<tr><th scope="row">3</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2020.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Hydro Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2014.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Climber Zobo</span></span></div></td></tr>
+<tr><th scope="row">4</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2006.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Manager Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2013.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Sailor Zobo</span></span></div></td></tr>
+<tr class="patch-wave-milestone"><th scope="row">5</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2021.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Laser Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2003.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Popstar Zobo</span></span></div></td></tr>
+<tr><th scope="row">6</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2026.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Chef Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2025.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Botanical Zobo</span></span></div></td></tr>
+<tr><th scope="row">7</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2014.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Climber Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2009.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Sandworm Zobo</span></span></div></td></tr>
+<tr><th scope="row">8</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2028.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Driver Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2011.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Yeti Zobo</span></span></div></td></tr>
+<tr><th scope="row">9</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2022.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Harpoon Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2021.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Laser Zobo</span></span></div></td></tr>
+<tr class="patch-wave-milestone"><th scope="row">10</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2008.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Shaman Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2012.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Clown Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2030.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Tire Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2022.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Harpoon Zobo</span></span></div></td></tr>
+<tr><th scope="row">11</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2009.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Sandworm Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2010.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Volcano Zobo</span></span></div></td></tr>
+<tr><th scope="row">12</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2027.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Brainfreeze Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2017.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Knight Zobo</span></span></div></td></tr>
+<tr><th scope="row">13</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2019.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Captain Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2029.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Baron Zobo</span></span></div></td></tr>
+<tr><th scope="row">14</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2030.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Tire Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2012.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Clown Zobo</span></span></div></td></tr>
+<tr class="patch-wave-milestone"><th scope="row">15</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2031.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Hammer Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2029.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Baron Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2005.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Tipsy Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2018.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Pharaoh Zobo</span></span></div></td></tr>
+<tr><th scope="row">16</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2023.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Golf Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2002.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Goonch Zobo</span></span></div></td></tr>
+<tr><th scope="row">17</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2011.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Yeti Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2007.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Shocker Zobo</span></span></div></td></tr>
+<tr><th scope="row">18</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2025.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Botanical Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2024.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Totem Zobo</span></span></div></td></tr>
+<tr><th scope="row">19</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2010.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Volcano Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2020.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Hydro Zobo</span></span></div></td></tr>
+<tr class="patch-wave-milestone"><th scope="row">20</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2013.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Sailor Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2018.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Pharaoh Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2026.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Chef Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2028.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Driver Zobo</span></span></div></td></tr>
+<tr><th scope="row">21</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2017.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Knight Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2004.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Roadhog Zobo</span></span></div></td></tr>
+<tr><th scope="row">22</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2007.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Shocker Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2031.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Hammer Zobo</span></span></div></td></tr>
+<tr><th scope="row">23</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2005.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Tipsy Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2006.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Manager Zobo</span></span></div></td></tr>
+<tr><th scope="row">24</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2004.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Roadhog Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2027.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Brainfreeze Zobo</span></span></div></td></tr>
+<tr class="patch-wave-milestone"><th scope="row">25</th><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2015.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Garden Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2002.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Goonch Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2003.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Popstar Zobo</span></span></div></td><td><div class="patch-boss-list"><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2016.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Forge Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2008.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Shaman Zobo</span></span><span class="patch-boss"><img src="../../assets/patches/0-52/bosses/2023.webp" alt="" width="56" height="56" loading="lazy" decoding="async"><span>Golf Zobo</span></span></div></td></tr>
+</tbody>
+</table>
+</div>
+
+*Comparação e retratos dos chefes: Tatari Companion, de kenzkunz / SilkRoad Community. Artes do jogo: Farlight Games e respectivos titulares.*
 
 ### Multiplicadores relatados para a onda 25
 
@@ -115,6 +183,7 @@ Artiar sugere que mais HP nos inimigos comuns e o Equalizer mais cedo podem abri
 
 ## Fontes e créditos
 
+- **Retratos de Roost e suas evoluções:** [TataDex](https://tatadex.org/tatari/pet-67-1/), incluindo as aparências normais e Glitter. Nomes, personagens e artes pertencem aos titulares de Clash of Critters; a organização visual desta página é da wiki BR.
 - **Atualização 0.52:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor. 
 - **Detalhes comunitários do Pioneer:** [Pioneer Server 0.51 — Tatari Companion](https://kenzkunz.github.io/tatari-companion/pioneerpreview.html), projeto de fã criado por **kenzkunz**, que agradece a **ArtiarYT** pelo compartilhamento de informações. A página se declara não oficial e alerta que a versão ao vivo pode divergir.
 - **Contexto de estratégia:** transcrição de vídeo de **Artiar** enviada pelo mantenedor; a autoria da tabela do Companion permanece atribuída ao projeto e seus colaboradores.

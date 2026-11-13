@@ -1,0 +1,257 @@
+{
+  "snapshot": "2026-11-13",
+  "context": "Prévia de atualização 0.52; TataDex identifica INTL Pioneer 0.52.1 / 177281 como não verificado.",
+  "rights": "Personagens, nomes e artes de Clash of Critters pertencem à Farlight Games e respectivos titulares. Fontes comunitárias não concedem propriedade sobre as artes. Uso ilustrativo/documental nesta wiki de fãs.",
+  "sources": [
+    {
+      "name": "Tatari Companion",
+      "url": "https://kenzkunz.github.io/tatari-companion/pioneerpreview.html",
+      "credit": "kenzkunz / SilkRoad Community; agradecimentos do projeto a snivvy e ArtiarYT",
+      "use": "Ordem das ondas da S3 e S4 e imagens dos chefes"
+    },
+    {
+      "name": "TataDex",
+      "url": "https://tatadex.org/tatari/pet-67-1/",
+      "license": "https://tatadex.org/license/",
+      "use": "Retratos normais e Glitter; nomes e tiers da família Roost"
+    }
+  ],
+  "assets": [
+    {
+      "path": "docs/assets/patches/0-52/bosses/2024.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2024.webp",
+      "label": "Totem Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2019.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2019.webp",
+      "label": "Captain Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2016.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2016.webp",
+      "label": "Forge Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2015.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2015.webp",
+      "label": "Garden Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2020.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2020.webp",
+      "label": "Hydro Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2014.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2014.webp",
+      "label": "Climber Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2006.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2006.webp",
+      "label": "Manager Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2013.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2013.webp",
+      "label": "Sailor Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2021.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2021.webp",
+      "label": "Laser Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2003.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2003.webp",
+      "label": "Popstar Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2026.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2026.webp",
+      "label": "Chef Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2025.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2025.webp",
+      "label": "Botanical Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2009.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2009.webp",
+      "label": "Sandworm Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2028.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2028.webp",
+      "label": "Driver Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2011.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2011.webp",
+      "label": "Yeti Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2022.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2022.webp",
+      "label": "Harpoon Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2008.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2008.webp",
+      "label": "Shaman Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2012.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2012.webp",
+      "label": "Clown Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2030.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2030.webp",
+      "label": "Tire Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2010.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2010.webp",
+      "label": "Volcano Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2027.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2027.webp",
+      "label": "Brainfreeze Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2017.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2017.webp",
+      "label": "Knight Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2029.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2029.webp",
+      "label": "Baron Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2031.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2031.webp",
+      "label": "Hammer Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2005.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2005.webp",
+      "label": "Tipsy Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2018.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2018.webp",
+      "label": "Pharaoh Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2023.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2023.webp",
+      "label": "Golf Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2002.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2002.webp",
+      "label": "Goonch Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2007.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2007.webp",
+      "label": "Shocker Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/bosses/2004.webp",
+      "url": "https://kenzkunz.github.io/tatari-companion/guide-assets/zobo-art/2004.webp",
+      "label": "Roadhog Zobo",
+      "source": "Tatari Companion"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/roost.webp",
+      "url": "https://tatadex.org/media/tatari/image/352c9ab2-8c01-464b-864e-d64437893f24.webp",
+      "label": "Roost",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-1/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/rocker.webp",
+      "url": "https://tatadex.org/media/tatari/image/ece1389b-0151-4680-840e-776df0230932.webp",
+      "label": "Rocker",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-2/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/deluroo.webp",
+      "url": "https://tatadex.org/media/tatari/image/59d8b480-84fb-4f4f-86a5-fbed10e4a467.webp",
+      "label": "Deluroo",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-3/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/wacuckoo.webp",
+      "url": "https://tatadex.org/media/tatari/image/0e206935-db4c-4480-855f-eab2a7413de0.webp",
+      "label": "Wacuckoo",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-4/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/roost-glitter.webp",
+      "url": "https://tatadex.org/media/tatari/glitterImage/a504cadd-4d17-4820-86c9-042bc0b3fcba.webp",
+      "label": "Roost · Glitter",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-1/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/rocker-glitter.webp",
+      "url": "https://tatadex.org/media/tatari/glitterImage/c97acd93-f3bc-4679-8473-b4838dc12932.webp",
+      "label": "Rocker · Glitter",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-2/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/deluroo-glitter.webp",
+      "url": "https://tatadex.org/media/tatari/glitterImage/8fd21d66-30a9-4f69-8593-4cf209ad89b4.webp",
+      "label": "Deluroo · Glitter",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-3/"
+    },
+    {
+      "path": "docs/assets/patches/0-52/roost/wacuckoo-glitter.webp",
+      "url": "https://tatadex.org/media/tatari/glitterImage/6b3911ad-4961-4d3d-83f7-11b9281be418.webp",
+      "label": "Wacuckoo · Glitter",
+      "source": "TataDex",
+      "reference": "https://tatadex.org/tatari/pet-67-4/"
+    }
+  ]
+}
