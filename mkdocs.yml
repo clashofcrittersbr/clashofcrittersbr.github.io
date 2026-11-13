@@ -51,6 +51,7 @@ hooks:
   - hooks/tataris.py
 
 markdown_extensions:
+  - tables
   - admonition
   - md_in_html
   - attr_list
