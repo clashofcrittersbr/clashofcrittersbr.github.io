@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Guia de Evoluções com o roteiro de prioridades T2 → T3 do Alberto (UID 30230499), organizado por elemento, objetivos e alternativas.
+
 - Prévia 0.52 com retratos normais e Glitter das quatro evoluções de Roost e comparação ilustrada das 25 ondas de chefes entre as temporadas 3 e 4, com fontes e créditos.
 
 - Navegação organizada por assunto, com patches agrupados por versão e atalhos para subpáginas na home.
