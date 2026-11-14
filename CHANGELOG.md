@@ -4,6 +4,11 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Times fixos de eventos com pedidos aprovados pelo líder, elencos por edição, calendário administrado pela wiki, recados e Discord opcional. Nick e UID aproveitados do diretório voluntário; Caça ao Tesouro organizada em parcerias. Migração 004 necessária para ativar a função.
+- Guia de escolhas de Tataris por evento, com fontes e diferenças entre apoio da Fazenda, qualidade no Tiro aos Zobos e eventos sem vantagem de espécie confirmada.
+
+- Guia de Evoluções com o roteiro de prioridades T2 → T3 do Alberto (UID 30230499), organizado por elemento, objetivos e alternativas.
+
 - Prévia 0.52 com retratos normais e Glitter das quatro evoluções de Roost e comparação ilustrada das 25 ondas de chefes entre as temporadas 3 e 4, com fontes e créditos.
 
 - Navegação organizada por assunto, com patches agrupados por versão e atalhos para subpáginas na home.
