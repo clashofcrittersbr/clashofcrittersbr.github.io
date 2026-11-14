@@ -61,6 +61,7 @@ markdown_extensions:
       check_paths: true
 
 extra_css:
+  - stylesheets/event-groups.css
   - assets/wiki.css
   - stylesheets/evolution-guide.css
   - stylesheets/patch-052.css
@@ -71,6 +72,7 @@ extra_css:
   - stylesheets/evolution-planner.css
 
 extra_javascript:
+  - javascripts/event-groups.mjs
   - assets/capitulos.js
   - assets/tataris.js
   - javascripts/site-dialogs.mjs
@@ -185,6 +187,7 @@ nav:
           - 0.52 · Prévia de atualização: previas/roost.md
       - Novidades da wiki: novidades.md
   - Comunidade:
+      - Times de eventos: comunidade/times.md
       - Membros: membros.md
       - Minha conta: conta.md
       - Como contribuir: colabore.md

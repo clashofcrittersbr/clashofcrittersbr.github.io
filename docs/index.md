@@ -81,6 +81,7 @@ Escolha o modo que você está jogando.
 
 Consulte guias e ferramentas dos eventos.
 
+- [Encontrar um time](comunidade/times.md)
 - [Corrida do Ouro](eventos/corrida-do-ouro.md)
 - [Caça ao Tesouro](eventos/caca-ao-tesouro.md)
 - [Todos os eventos](eventos/index.md)
@@ -117,6 +118,7 @@ Veja os anúncios do jogo e o que mudou na wiki.
 
 Conheça os jogadores e ajude a ampliar a wiki.
 
+- [Times de eventos](comunidade/times.md)
 - [Membros](membros.md)
 - [Minha conta](conta.md)
 - [Como contribuir](colabore.md)
