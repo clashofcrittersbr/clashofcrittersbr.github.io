@@ -1,5 +1,7 @@
 # Eventos
 
+[Encontrar ou organizar um time](../comunidade/times.md){ .md-button .md-button--primary } · [Qual Tatari escolher?](escolha-tatari.md)
+
 Confira no jogo quais eventos estão abertos. Muitos usam itens coletados na máquina de pinball. Ao trocar de evento, veja o ícone do recurso e a tela de regras antes de gastar bolinhas.
 
 | Evento | Recurso | O que fazer |

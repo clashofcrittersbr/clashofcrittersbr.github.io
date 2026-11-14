@@ -6,6 +6,8 @@ Aqui aparecem apenas pessoas que escolheram publicar seu **nome de jogo e UID**.
 
 [Gerenciar minha inscrição](conta.md){ .md-button .md-button--primary }
 
+[Encontrar times de eventos](comunidade/times.md){ .md-button }
+
 <div class="members-directory" data-members-directory>
   <div class="members-toolbar">
     <label for="members-search">Buscar por Nick ou UID</label>

@@ -1,0 +1,23 @@
+/* Roteiro de evolução: cores e símbolos reutilizam a identidade da wiki. */
+.evolution-route {
+  margin: 1rem 0;
+  padding: 1rem 1rem .5rem;
+  border: 1px solid var(--wiki-border);
+  border-inline-start: 4px solid var(--wiki-gold);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+.md-typeset .evolution-route ol { margin-top: 0; }
+.evolution-route li { padding-inline-start: .25rem; margin-bottom: .8rem; }
+.evolution-route li span { display: block; margin-top: .2rem; color: var(--wiki-muted); }
+.evolution-choices { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .9rem; margin: 1rem 0; }
+.evolution-choice { min-width: 0; padding: 1rem; border: 1px solid var(--wiki-border); border-top: 4px solid var(--evolution-element); border-radius: var(--wiki-radius); background: var(--wiki-surface); }
+.md-typeset .evolution-choice h3 { display: flex; align-items: center; gap: .5rem; margin: 0 0 .8rem; }
+.evolution-element-icon { display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%; background: var(--evolution-element); color: #133732; flex: none; }
+.evolution-element-icon svg { width: 1.3rem; height: 1.3rem; fill: currentColor; }
+.md-typeset .evolution-choice p { font-size: .76rem; }
+.md-typeset .evolution-priority { padding: .65rem; border-radius: .4rem; background: var(--wiki-tile-accent); }
+.evolution-priority span { display: block; margin-bottom: .2rem; font-size: .65rem; color: var(--wiki-muted); }
+.evolution-priority strong { display: block; font-size: .92rem; }
+.md-typeset .evolution-choice-note { border-top: 1px solid var(--wiki-border); padding-top: .65rem; margin-bottom: 0; color: var(--wiki-muted); }
+@media (max-width: 680px) { .evolution-choices { grid-template-columns: 1fr; } }
