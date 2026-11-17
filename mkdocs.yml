@@ -89,12 +89,18 @@ nav:
       - Pinball e recursos: guias/recursos.md
       - Desafio de Chefe: guias/desafio-de-chefe.md
       - Álbum de Cartas: guias/album-de-cartas.md
+      - Formações:
+          - Visão geral: formacoes/index.md
+          - Modo História: formacoes/modo-historia.md
+          - Dojo: formacoes/dojo.md
+          - Horda: formacoes/horda.md
+          - Horda D3 · Duplo Tubarão: formacoes/horda-d3.md
+          - Formações da comunidade: formacoes/ferramenta-comunitaria.md
   - Tataris:
       - Catálogo: tataris.md
       - Entenda as evoluções: guias/tataris.md
       - Evoluções e progressão: conteudo/tataria/guias/evolucoes.md
       - Tier list: guias/tier-list.md
-      - Guia do Pyropup: guias/pyropup.md
       - Famílias:
           - Ashlarva: tataris/ashlarva.md
           - Blowfin: tataris/blowfin.md
@@ -138,7 +144,9 @@ nav:
           - Poakie: tataris/poakie.md
           - Popa: tataris/popa.md
           - Punchimp: tataris/punchimp.md
-          - Pyropup: tataris/pyropup.md
+          - Pyropup:
+              - Ficha da família: tataris/pyropup.md
+              - Evoluções e provas: guias/pyropup.md
           - Ringtail: tataris/ringtail.md
           - Rubblet: tataris/rubblet.md
           - Sackling: tataris/sackling.md
@@ -163,13 +171,6 @@ nav:
           - Zappur: tataris/zappur.md
           - Zapuni: tataris/zapuni.md
           - Zapup: tataris/zapup.md
-  - Formações:
-      - Visão geral: formacoes/index.md
-      - Modo História: formacoes/modo-historia.md
-      - Dojo: formacoes/dojo.md
-      - Horda: formacoes/horda.md
-      - Horda D3 · Duplo Tubarão: formacoes/horda-d3.md
-      - Formações da comunidade: formacoes/ferramenta-comunitaria.md
   - Eventos:
       - Visão geral: eventos/index.md
       - Qual Tatari escolher?: eventos/escolha-tatari.md

@@ -3,6 +3,8 @@
 
 **Fogo · 4 formas cadastradas**
 
+[Consultar evoluções e provas T1–T4](../guias/pyropup.md){ .md-button }
+
 [Pyropup · T1](#pyropup) → [Pyrohound · T2](#pyrohound) → [Hellhound · T3](#hellhound) → [Pyrodaemon · T4](#pyrodaemon)
 
 !!! info "Origem e revisão"

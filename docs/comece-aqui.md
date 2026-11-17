@@ -21,6 +21,12 @@ Compare alcance, habilidade e elemento. Se a fase travar, observe primeiro se a 
 - **Jogar com outras pessoas.** Veja a [Invasão da Horda](formacoes/horda.md) e os [eventos](eventos/index.md).
 - **Completar coleções.** Veja como aproveitar as repetidas no [Álbum de Cartas](guias/album-de-cartas.md).
 
+## Guias de formações
+
+Compare sua equipe com as referências de cada modo e adapte as posições ao seu elenco.
+
+[Modo História](formacoes/modo-historia.md) · [Dojo](formacoes/dojo.md) · [Horda](formacoes/horda.md) · [Todos os guias de formações](formacoes/index.md)
+
 ## Fontes
 
 - [Farlight · Clash of Critters em português](https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=pt-BR)

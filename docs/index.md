@@ -65,9 +65,9 @@ Conheça o elenco e planeje suas próximas evoluções.
 
 <div class="wiki-tile" markdown="1">
 
-### Formações
+### Guias de formações
 
-Escolha o modo que você está jogando.
+Encontre nos Guias as formações do modo que você está jogando.
 
 - [Modo História](formacoes/modo-historia.md)
 - [Dojo](formacoes/dojo.md)
