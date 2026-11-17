@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Corrigido o cadastro do guia “Qual Tatari escolher?” no menu de Eventos, que bloqueava a publicação dos times de eventos e das demais mudanças da PR #38.
+
 - Times fixos de eventos com pedidos aprovados pelo líder, elencos por edição, calendário administrado pela wiki, recados e Discord opcional. Nick e UID aproveitados do diretório voluntário; Caça ao Tesouro organizada em parcerias. Migração 004 necessária para ativar a função.
 - Guia de escolhas de Tataris por evento, com fontes e diferenças entre apoio da Fazenda, qualidade no Tiro aos Zobos e eventos sem vantagem de espécie confirmada.
 
