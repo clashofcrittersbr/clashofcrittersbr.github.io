@@ -1,4 +1,6 @@
-# Pyropup
+# Pyropup · Evoluções e provas {#pyropup}
+
+[← Ficha da família Pyropup](../tataris/pyropup.md)
 
 **Fogo · Guardião · Linhagem T1 a T4**
 
