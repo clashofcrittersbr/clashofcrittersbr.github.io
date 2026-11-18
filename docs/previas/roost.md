@@ -1,11 +1,11 @@
-# 0.52 · Prévia de atualização
+# 0.52 · Atualização publicada
 
-Roost, a Temporada 4 da Horda e os Diários do acampamento são os destaques anunciados para a versão 0.52. Veja as novidades, as habilidades apresentadas e os detalhes observados pela comunidade no servidor pioneiro.
+Roost, a Temporada 4 da Horda e os Diários do acampamento chegaram com a versão 0.52. Veja as mudanças oficiais e, em separado, os detalhes observados pela comunidade no servidor pioneiro.
 
-!!! info "Prévia da versão 0.52"
-    O anúncio apresenta as mudanças previstas. A disponibilidade no seu servidor deve ser conferida no jogo. As informações detalhadas do servidor pioneiro aparecem identificadas nas seções correspondentes.
+!!! success "Versão 0.52 publicada em 18/11/2026"
+    A atualização foi liberada após a manutenção oficial de 18/11/2026, das 07:00 às 09:00 UTC. As notas oficiais são a fonte principal desta página. Os dados de rotação, multiplicadores e disponibilidade de chips observados no Pioneer continuam identificados como referências comunitárias e podem divergir do servidor ao vivo.
 
-[Abrir o índice de patches e fontes](../patches-tataris.md){ .md-button }
+[Abrir o índice de patches e fontes](../patches-tataris.md){ .md-button .md-button--primary } [Ver novidades da wiki](../novidades.md){ .md-button }
 
 ## Principais novidades
 
