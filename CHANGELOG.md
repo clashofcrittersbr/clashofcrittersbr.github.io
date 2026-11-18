@@ -4,8 +4,6 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
-- Dojo repaginado com catálogo visual incorporado de Critters: Dojo Formations, instruções por elemento e dificuldade e referências anteriores preservadas. O guia do Desafio de Chefe também recebe a consulta por oponente e dificuldade, com opção de tela cheia, endereço atualizado e créditos ao projeto e aos autores das formações.
-
 - Formações reunidas em Guias, com acesso por modo preservado na página inicial. As provas do Pyropup ficam junto da família em Tataris, sem entrada isolada no menu geral. Endereços existentes preservados.
 
 - Corrigido o cadastro do guia “Qual Tatari escolher?” no menu de Eventos, que bloqueava a publicação dos times de eventos e das demais mudanças da PR #38.
@@ -15,17 +13,20 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 - Guia de Evoluções com o roteiro de prioridades T2 → T3 do Alberto (UID 30230499), organizado por elemento, objetivos e alternativas.
 
-- Prévia 0.52 com retratos normais e Glitter das quatro evoluções de Roost e comparação ilustrada das 25 ondas de chefes entre as temporadas 3 e 4, com fontes e créditos.
-
 - Navegação organizada por assunto, com patches agrupados por versão e atalhos para subpáginas na home.
 
 - Ferramenta Critters: Dojo Formations incorporada em Formações, com créditos e acesso direto ao site original.
 
 - Planejador de evoluções abre vazio e mantém visíveis apenas as famílias adicionadas; instruções no topo e remoção individual.
-- Atualização 0.52 traduzida: Roost, Horda S4, novos chips, Diários e melhorias do jogo; dados detalhados do Pioneer seguem identificados como comunitários e provisórios.
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
+## Publicado em 18/11/2026
+
+- Atualização **0.52** publicada com Roost, Horda S4, novos chips, Diários, melhorias da Horda, ajustes do acampamento, Radish Run, Alimentador automático, Álbum de Cartas e Canais de chat. As notas oficiais e os dados do Pioneer estão separados por fonte. [PR #42](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/42)
+- Dojo repaginado com catálogo visual incorporado de Critters: Dojo Formations; o guia do Desafio de Chefe também recebeu consulta por oponente e dificuldade, tela cheia, endereço atualizado e créditos ao projeto e aos autores. [PR #41](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/41)
+- A área de Atualizações passou a destacar a versão mais recente e oferece atalhos diretos para as notas, fontes e novidades da wiki.
+
 ## Publicado em 11/11/2026
 
 - Planejador de evoluções com 67 famílias/248 formas da base histórica, metas T1–T4, filtros, JSON e cópia privada opcional na conta. [PR #31](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/31)

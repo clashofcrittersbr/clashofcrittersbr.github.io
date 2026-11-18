@@ -107,7 +107,7 @@ Organize suas escolhas e acompanhe suas metas.
 
 Veja os anúncios do jogo e o que mudou na wiki.
 
-- [0.52 · Prévia de atualização](previas/roost.md)
+- [0.52 · Atualização publicada](previas/roost.md)
 - [Patches e fontes](patches-tataris.md)
 - [Novidades da wiki](novidades.md)
 

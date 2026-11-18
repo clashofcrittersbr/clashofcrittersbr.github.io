@@ -2,11 +2,14 @@
 
 Acompanhe os anúncios de atualização do jogo, consulte as mudanças por versão e encontre as fontes usadas pela wiki.
 
-[0.52 · Prévia de atualização: Roost, Horda S4 e Diários](previas/roost.md){ .md-button .md-button--primary }
+[0.52 · Atualização publicada: Roost, Horda S4 e Diários](previas/roost.md){ .md-button .md-button--primary }
 
-## 0.52 · Prévia de atualização { #052 }
+## 0.52 · Atualização publicada em 18/11/2026 { #052 }
 
-**Fonte:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor. Transcrição traduzida e recebida em **13/11/2026**; a data de publicação do vídeo não foi informada junto ao material.
+!!! success "Disponível no servidor ao vivo"
+    A manutenção oficial ocorreu em **18/11/2026, das 07:00 às 09:00 UTC**. O anúncio oficial também informou a compensação de 100 pinballs após a atualização. Consulte o [perfil oficial de Clash of Critters](https://x.com/ClashOfCritters) para o anúncio de manutenção e comunicações posteriores.
+
+**Fontes principais:** [vídeo Patch Update 0.52](https://www.youtube.com/watch?v=YGVdpJ4YK2o), indicado pelo mantenedor, e o anúncio oficial de manutenção. A transcrição traduzida foi recebida em **13/11/2026**.
 
 - **Novo Tatari de Fogo:** Roost e habilidades exclusivas de Horde Invasion para ele e suas evoluções. O vídeo exibe a sequência Roost (Chicken Came First), Rocker (Egg Came First), Deluroo (Chicken AND Egg) e Wacuckoo.
 - **Wacuckoo na Horda:** Chicken Eggcellence lança mais ovos e pode chocar uma galinha de alto dano em área; carrega Aura: Fire enquanto está em campo. Cock-A-Doodle Doom lança uma bola de fogo que aplica Solar: Slow e dano contínuo. Get Roasted concede Roast: DEF Boost e, ao passar do ponto, remove o bônus e recupera HP. Eggs Galore transforma inimigos em galinhas e aplica Chicken: Fragile. A transcrição recebida não esclarece a frase “ignora efeitos para ativar o bônus de DEF” em Chicken Eggcellence.
@@ -21,7 +24,7 @@ Acompanhe os anúncios de atualização do jogo, consulte as mudanças por vers�
 - **Canais de chat:** até cinco canais criados e cinquenta canais ingressados; ao remover membros, é possível consultar quando estiveram online pela última vez.
 - **Outras melhorias:** acessórios dos Tataris aparecem na lista de Tataris e no perfil do treinador.
 
-A transcrição recebida não informa a data de publicação do vídeo. O anúncio apresenta a Horda S4 e mudanças nas formações, mas não lista a ordem de chefes por onda, multiplicadores ou disponibilidade de cada chip. Esses detalhes permanecem atribuídos a fontes comunitárias e não devem ser descritos como confirmados por este anúncio.
+A transcrição recebida não lista a ordem de chefes por onda, multiplicadores ou disponibilidade de cada chip. Esses detalhes permanecem atribuídos a fontes comunitárias e não devem ser descritos como confirmados pelas notas oficiais.
 
 **Conflito de fonte:** o Tatari Companion apresenta 16% para Special Emblem III; o vídeo da atualização 0.52 mostra 18%. Registramos 18% conforme a fonte de atualização desta versão.
 
