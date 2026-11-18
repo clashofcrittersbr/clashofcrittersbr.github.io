@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Dojo repaginado com catálogo visual incorporado de Critters: Dojo Formations, instruções por elemento e dificuldade e referências anteriores preservadas. O guia do Desafio de Chefe também recebe a consulta por oponente e dificuldade, com opção de tela cheia, endereço atualizado e créditos ao projeto e aos autores das formações.
+
 - Formações reunidas em Guias, com acesso por modo preservado na página inicial. As provas do Pyropup ficam junto da família em Tataris, sem entrada isolada no menu geral. Endereços existentes preservados.
 
 - Corrigido o cadastro do guia “Qual Tatari escolher?” no menu de Eventos, que bloqueava a publicação dos times de eventos e das demais mudanças da PR #38.
