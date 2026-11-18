@@ -2,7 +2,43 @@
 
 No Dojo, duas equipes de cinco Tataris disputam insígnias. Cada insígnia melhora os atributos dos seus Tataris do elemento correspondente.
 
+<div class="formation-intro" markdown="1">
+
+<p class="formation-intro__eyebrow">DOJO · FORMAÇÕES DA COMUNIDADE</p>
+
+**Encontre uma formação para a fase em que você travou.**
+
+Escolha o elemento, a dificuldade e a fase no catálogo abaixo. Abra a formação para comparar o tabuleiro e os Tataris com a sua equipe.
+
+[Consultar formações](#catalogo-de-formacoes){ .md-button .md-button--primary } [Requisitos de entrada](#requisitos-de-entrada){ .md-button } [Relatos de jogadores](#formacoes-por-elemento-e-fase){ .md-button }
+
+</div>
+
+## Catálogo de formações
+
+1. No quadro, escolha **Água, Fogo, Grama, Pedra ou Elétrico**. O aplicativo chama o elemento Planta de Grama.
+2. Selecione a dificuldade do Dojo, de **1 a 7**, e procure sua fase.
+3. Abra o cartão para consultar as posições e os registros da formação. Confira os graus dos Tataris antes de adaptar a equipe.
+
+<section class="formation-viewer" data-formation-viewer aria-label="Consulta de formações de Dojo">
+<div class="formation-viewer__toolbar">
+<strong>Critters: Dojo Formations</strong>
+<div class="formation-viewer__actions">
+<button type="button" data-formation-fullscreen hidden aria-pressed="false">Tela cheia</button>
+<a href="https://critters-forms-2026.web.app/" target="_blank" rel="noopener noreferrer">Abrir em nova aba ↗</a>
+</div>
+</div>
+<iframe src="https://critters-forms-2026.web.app/" title="Formações de Dojo — Critters: Dojo Formations" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="fullscreen"></iframe>
+<p class="formation-viewer__status" data-formation-status role="status" aria-live="polite"></p>
+</section>
+
+**Créditos:** projeto **Critters: Dojo Formations**, criado por um jogador BR da comunidade, e autores identificados em cada formação. A consulta acima exibe o site original, com seus créditos e atualizações. O login da ferramenta é independente da conta da wiki. Se o quadro não carregar ou o login não funcionar dentro dele, use **Abrir em nova aba**.
+
+As formações de chefes ficam no [guia do Desafio de Chefe](../guias/desafio-de-chefe.md#formacoes-da-comunidade).
+
 ## Formações por elemento e fase
+
+Além do catálogo acima, estas publicações preservam as referências e os comentários dos jogadores que compartilharam suas tentativas.
 
 Estes são **relatos de jogadores**, com a formação ou o posicionamento na publicação original. Use o elemento e a fase para localizar o seu desafio. Compare também o adversário da captura com o que aparece no seu jogo.
 
@@ -53,6 +89,6 @@ As cores acima descrevem como as fontes classificam as evoluções. No Dojo 2, a
 
 ## Testes da comunidade BR
 
-Aguardamos a primeira vitória registrada pela comunidade BR. Se você passou com uma das formações acima ou encontrou uma alternativa, envie a sua composição, a fase e uma captura da vitória.
+Encontrou uma alternativa? Você pode enviar uma proposta na ferramenta comunitária ou contribuir com a wiki pelo modelo abaixo. Informe o elemento, a fase, os graus dos Tataris e inclua uma captura da vitória, com os créditos de quem montou a formação.
 
 [Ver modelo para enviar uma formação](../colabore.md#modelo-de-formacao-do-dojo){ .md-button }

@@ -1,0 +1,105 @@
+.md-typeset .formation-intro {
+  margin: 1.2rem 0;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--wiki-border);
+  border-left: .25rem solid var(--wiki-gold);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-tile-accent);
+}
+.md-typeset .formation-intro__eyebrow {
+  margin: 0 0 .5rem;
+  color: var(--wiki-muted);
+  font-size: .64rem;
+  font-weight: 750;
+  letter-spacing: .08em;
+}
+.formation-intro .md-button {
+  margin: .3rem .3rem 0 0;
+  min-height: 44px;
+}
+.formation-viewer {
+  overflow: hidden;
+  margin: 1.1rem 0;
+  border: 1px solid var(--wiki-border);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+.formation-viewer__toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .6rem;
+  padding: .7rem .8rem;
+  border-bottom: 2px solid var(--wiki-gold);
+  background: var(--wiki-header);
+  color: #f8fbf9;
+}
+.formation-viewer__toolbar strong { font-size: .78rem; }
+.formation-viewer__actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem;
+}
+.md-typeset .formation-viewer__actions a,
+.formation-viewer__actions button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: .45rem .65rem;
+  border: 1px solid var(--wiki-gold);
+  border-radius: .4rem;
+  background: transparent;
+  color: var(--wiki-gold);
+  font: inherit;
+  font-size: .72rem;
+  font-weight: 650;
+  cursor: pointer;
+}
+.formation-viewer__actions button[hidden] { display: none; }
+.formation-viewer__actions :is(a, button):hover {
+  background: var(--wiki-gold);
+  color: var(--wiki-header);
+}
+.formation-viewer__actions :is(a, button):focus-visible {
+  outline: 3px solid #f8fbf9;
+  outline-offset: 2px;
+}
+.formation-viewer iframe {
+  display: block;
+  width: 100%;
+  height: min(82vh, 1000px);
+  min-height: 620px;
+  border: 0;
+  background: #fff9f0;
+}
+.md-typeset .formation-viewer__status {
+  margin: 0;
+  padding: 0 .8rem;
+  font-size: .75rem;
+}
+.formation-viewer__status:not(:empty) { padding: .65rem .8rem; }
+.formation-viewer:fullscreen {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  width: 100%;
+  height: 100%;
+}
+.formation-viewer:fullscreen iframe {
+  flex: 1;
+  min-height: 0;
+  height: auto;
+}
+@media (max-width: 600px) {
+  .md-typeset .formation-intro { padding: .8rem; }
+  .formation-intro .md-button { display: block; margin-right: 0; }
+  .formation-viewer__toolbar { align-items: flex-start; }
+  .formation-viewer__actions { width: 100%; }
+  .formation-viewer__actions > * { flex: 1; }
+  .formation-viewer iframe { min-height: 540px; height: 80vh; }
+}

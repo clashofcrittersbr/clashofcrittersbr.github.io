@@ -61,6 +61,7 @@ markdown_extensions:
       check_paths: true
 
 extra_css:
+  - stylesheets/formation-guides.css
   - stylesheets/event-groups.css
   - assets/wiki.css
   - stylesheets/evolution-guide.css
@@ -72,6 +73,7 @@ extra_css:
   - stylesheets/evolution-planner.css
 
 extra_javascript:
+  - javascripts/formation-viewer.mjs
   - javascripts/event-groups.mjs
   - assets/capitulos.js
   - assets/tataris.js

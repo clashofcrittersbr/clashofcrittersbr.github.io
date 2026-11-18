@@ -3,9 +3,11 @@
 Escolha o modo de jogo para consultar as formações.
 
 - [Modo História](modo-historia.md) · formações da campanha, organizadas por capítulo e fase a partir do capítulo 1.
-- [Dojo](dojo.md) · formações relatadas por elemento e fase, requisitos e envio de testes.
-- [Formações da comunidade](ferramenta-comunitaria.md) · ferramenta criada por jogador BR, incorporada com crédito e link ao original.
+- [Dojo](dojo.md) · catálogo visual da comunidade, referências por elemento e fase e requisitos de entrada.
+- [Formações da comunidade](ferramenta-comunitaria.md) · atalhos para os catálogos incorporados de Dojo e chefes, com créditos ao projeto original.
 - [Horda](horda.md) · referências por dificuldade, preparação da dupla e envio de partidas.
+
+- [Desafio de Chefe](../guias/desafio-de-chefe.md#formacoes-da-comunidade) · catálogo por oponente e dificuldade para preparar suas tentativas.
 
 ## Como adaptar uma formação
 

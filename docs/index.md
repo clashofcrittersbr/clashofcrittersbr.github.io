@@ -70,7 +70,8 @@ Conheça o elenco e planeje suas próximas evoluções.
 Encontre nos Guias as formações do modo que você está jogando.
 
 - [Modo História](formacoes/modo-historia.md)
-- [Dojo](formacoes/dojo.md)
+- [Dojo · formações por fase](formacoes/dojo.md)
+- [Chefes · formações por oponente](guias/desafio-de-chefe.md#formacoes-da-comunidade)
 - [Horda](formacoes/horda.md)
 
 </div>
