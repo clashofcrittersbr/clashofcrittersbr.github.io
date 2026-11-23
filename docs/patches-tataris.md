@@ -2,7 +2,16 @@
 
 Acompanhe os anúncios de atualização do jogo, consulte as mudanças por versão e encontre as fontes usadas pela wiki.
 
-[0.52 · Atualização publicada: Roost, Horda S4 e Diários](previas/roost.md){ .md-button .md-button--primary }
+[0.52.1 · Lançamento global: Roost, Horda S4 e Diários](previas/roost.md){ .md-button .md-button--primary }
+
+## 0.52.1 · Lançamento global
+
+!!! success "Disponível no servidor global"
+    O lançamento global foi confirmado nas lojas em **18/11/2026**. Esta é a identificação de versão/build usada nas páginas das lojas (**0.52.1, build Android 4564**); o vídeo de atualização e a prévia da wiki continuam agrupados pelo rótulo 0.52.
+
+**Fontes de confirmação:** [App Store](https://apps.apple.com/us/app/clash-of-critters/id6741567125), [Google Play](https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp) e [vídeo oficial da atualização](https://www.youtube.com/watch?v=H92-_aVcddY).
+
+O conteúdo confirmado é o mesmo já descrito na seção 0.52 abaixo: Roost e sua família, Temporada 4 da Horda, Diários e as melhorias de Horda, acampamento, Radish Run, Alimentador automático, Álbum de Cartas e Canais de chat. Os multiplicadores de inimigos, a ordem detalhada de chefes e as janelas de chips do Pioneer não são tratados como notas do servidor global.
 
 ## 0.52 · Atualização publicada em 18/11/2026 { #052 }
 

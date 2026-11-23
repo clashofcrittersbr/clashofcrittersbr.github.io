@@ -21,6 +21,10 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 <!-- Mantenha as datas e entradas mais recentes primeiro para exibi-las na página inicial e em Novidades. -->
 <!-- --8<-- [start:publicado] -->
+## Publicado em 23/11/2026
+
+- Identificação do lançamento global como **0.52.1 (build Android 4564)**, com fontes das lojas e separação explícita entre o conteúdo confirmado e os dados provisórios do Pioneer. O rótulo editorial 0.52 permanece associado ao vídeo e à prévia detalhada. [PR #43](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/43)
+
 ## Publicado em 18/11/2026
 
 - Atualização **0.52** publicada com Roost, Horda S4, novos chips, Diários, melhorias da Horda, ajustes do acampamento, Radish Run, Alimentador automático, Álbum de Cartas e Canais de chat. As notas oficiais e os dados do Pioneer estão separados por fonte. [PR #42](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/42)
