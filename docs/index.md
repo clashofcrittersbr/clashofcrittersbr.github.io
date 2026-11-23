@@ -35,6 +35,25 @@ Guias para começar, consultar formações e aproveitar os eventos do jogo.
 
 </div>
 
+<section class="wiki-join" aria-labelledby="wiki-join-title" markdown="1">
+
+<div class="wiki-join-copy" markdown="1">
+
+### Faça parte da comunidade { #wiki-join-title }
+
+Crie seu perfil com Nick e UID para aparecer na lista pública, encontrar jogadores e organizar times de eventos. Você decide se quer divulgar esses dados.
+
+</div>
+
+<div class="wiki-join-actions" markdown="1">
+
+[Entrar ou criar perfil](conta.md){ .md-button .md-button--primary }
+[Encontrar um time](comunidade/times.md){ .md-button }
+
+</div>
+
+</section>
+
 ## Encontre o que você precisa
 
 <div class="wiki-quick" markdown="1">
@@ -117,11 +136,11 @@ Veja os anúncios do jogo e o que mudou na wiki.
 
 ### Comunidade
 
-Conheça os jogadores e ajude a ampliar a wiki.
+Crie seu perfil, encontre jogadores e envie descobertas para a wiki.
 
+- [Entrar ou criar perfil](conta.md)
 - [Times de eventos](comunidade/times.md)
 - [Membros](membros.md)
-- [Minha conta](conta.md)
 - [Como contribuir](colabore.md)
 
 </div>

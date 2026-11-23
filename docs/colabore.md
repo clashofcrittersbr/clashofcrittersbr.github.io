@@ -1,6 +1,42 @@
 # Colabore
 
-Os editores trabalham nos artigos em Markdown dentro da pasta `docs/` do repositório. Dá para editar pelo navegador do GitHub e abrir um pull request com a proposta. Outra pessoa da equipe revisa a alteração antes da publicação.
+A wiki cresce com quem joga e compartilha o que funcionou. Você não precisa ser editor nem entender de GitHub para participar: comece pelo perfil, encontre a pessoa certa para o evento ou registre uma descoberta para a equipe publicar.
+
+<div class="wiki-contribute-paths" markdown="1">
+
+<div class="wiki-contribute-path" markdown="1">
+
+### Entrar na comunidade
+
+Guarde seu Nick e UID, escolha se quer aparecer na lista pública e fique disponível para os times.
+
+[Entrar ou criar perfil](conta.md){ .md-button .md-button--primary }
+
+</div>
+
+<div class="wiki-contribute-path" markdown="1">
+
+### Encontrar jogadores
+
+Veja os membros que optaram pela lista e procure um time para a próxima edição de evento.
+
+[Ver times de eventos](comunidade/times.md){ .md-button }
+
+</div>
+
+<div class="wiki-contribute-path" markdown="1">
+
+### Compartilhar uma descoberta
+
+Uma formação, correção, captura ou fonte bem identificada já ajuda. Use os modelos desta página para a equipe entender o contexto.
+
+[Ver modelos de contribuição](#modelo-de-formacao){ .md-button }
+
+</div>
+
+</div>
+
+## Envie uma formação ou correção
 
 Ao documentar um teste, informe o que observou e em quais condições. Para uma dica vinda de outra comunidade, indique o link e o autor quando disponível. Para uma formação própria, use o modelo abaixo.
 
