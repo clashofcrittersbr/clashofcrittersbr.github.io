@@ -423,3 +423,81 @@
 .account-gallery p { margin: 0; }
 .account-gallery img { width: 100%; border-radius: 12px; border: 1px solid var(--md-default-fg-color--lightest); }
 .formation-capture { width: 100%; max-width: 420px; border-radius: 12px; }
+
+
+/* Entrada comunitária: deixa claros os primeiros passos para participar da wiki. */
+.wiki-join {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: .8rem 1.2rem;
+  margin: 1rem 0 1.3rem;
+  padding: .9rem 1rem;
+  border: 1px solid var(--wiki-border);
+  border-inline-start: .24rem solid var(--wiki-gold);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+
+.wiki-join-copy {
+  flex: 1 1 22rem;
+}
+
+.md-typeset .wiki-join h3 {
+  margin: 0 0 .2rem;
+}
+
+.md-typeset .wiki-join p {
+  margin: 0;
+  color: var(--wiki-muted);
+  font-size: .78rem;
+}
+
+.wiki-join-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+}
+
+.md-typeset .wiki-join-actions .md-button,
+.md-typeset .wiki-contribute-path .md-button {
+  margin: 0;
+}
+
+.wiki-contribute-paths {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .7rem;
+  margin: 1.1rem 0 1.5rem;
+}
+
+.wiki-contribute-path {
+  display: flex;
+  flex-direction: column;
+  padding: .85rem .9rem;
+  border: 1px solid var(--wiki-border);
+  border-radius: var(--wiki-radius);
+  background: var(--wiki-surface);
+}
+
+.md-typeset .wiki-contribute-path h3 {
+  margin: 0 0 .25rem;
+  font-size: .95rem;
+}
+
+.md-typeset .wiki-contribute-path p {
+  margin: 0 0 .7rem;
+  color: var(--wiki-muted);
+  font-size: .76rem;
+}
+
+.md-typeset .wiki-contribute-path p:last-child {
+  margin-top: auto;
+}
+
+@media (max-width: 760px) {
+  .wiki-contribute-paths {
+    grid-template-columns: 1fr;
+  }
+}

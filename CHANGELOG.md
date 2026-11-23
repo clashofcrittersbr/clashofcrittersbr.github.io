@@ -23,6 +23,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 <!-- --8<-- [start:publicado] -->
 ## Publicado em 23/11/2026
 
+- Página inicial e área de colaboração reorganizadas para facilitar a criação de perfil, a busca por times de eventos e o envio de formações, correções e fontes pela comunidade. [PR #44](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/44)
+
 - Identificação do lançamento global como **0.52.1 (build Android 4564)**, com fontes das lojas e separação explícita entre o conteúdo confirmado e os dados provisórios do Pioneer. O rótulo editorial 0.52 permanece associado ao vídeo e à prévia detalhada. [PR #43](https://github.com/clashofcrittersbr/clashofcrittersbr.github.io/pull/43)
 
 ## Publicado em 18/11/2026
