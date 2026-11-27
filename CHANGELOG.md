@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Estado da sessão exibido no cabeçalho em toda a wiki, com acesso ao perfil ao lado do GitHub; avatar enviado por arquivo PNG/JPG/WebP e exibido no cabeçalho. Migração 007 de Storage necessária.
+
 - Formulário manual de gerenciamento do calendário removido da página de times após a automatização das edições regulares.
 
 - Edições dos seis eventos regulares geradas automaticamente pela rotação de três dias, com planejamento antecipado, virada às 00:00 UTC e seleção automática do evento atual. Horda e Corrida do Ouro seguem calendários próprios. Migração 006 necessária.
