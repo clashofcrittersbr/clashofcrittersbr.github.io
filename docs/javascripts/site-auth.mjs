@@ -159,7 +159,7 @@ async function initAccountPage() {
       if (!listing.disabled && listing.checked && (profile.display_name.length < 2 || !profile.game_uid)) {
         throw new Error('Para aparecer na lista, informe o nome de exibição e o UID do jogo.');
       }
-      if (!listing.disabled && listing.checked && (!/^\\d+$/.test(levelText) || !Number.isInteger(level) || level < 1 || level > 9999)) {
+      if (!listing.disabled && listing.checked && (!/^\d+$/.test(levelText) || !Number.isInteger(level) || level < 1 || level > 9999)) {
         throw new Error('Informe o nível atual da sua conta (de 1 a 9999) para participar dos times.');
       }
       if (file) profile.avatar_url = await uploadAvatar(user.id, file);
