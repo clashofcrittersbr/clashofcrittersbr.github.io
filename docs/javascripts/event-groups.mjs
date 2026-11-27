@@ -61,6 +61,8 @@ async function initGroups() {
     root.setAttribute('aria-busy', 'true');
     try {
       const user = await currentUser();
+      const schedule = await db.rpc('ensure_event_rotation');
+      if (schedule.error && !['PGRST202', '42883'].includes(schedule.error.code)) throw schedule.error;
       const results = await Promise.all([
         readAll('event_group_events', '*', ['code']),
         readAll('event_group_editions', '*', ['id']),
@@ -255,12 +257,16 @@ async function initGroups() {
       .sort((a, b) => Date.parse(a.starts_at) - Date.parse(b.starts_at));
     select.replaceChildren(option('', editions.length ? 'Selecione uma edição' : 'Nenhuma edição publicada por enquanto'));
     editions.forEach(e => select.append(option(e.id, `${data.events.find(v => v.code === e.event_code)?.name} · ${e.name} · ${e.server_label}${e.cancelled_at ? ' · cancelada' : ''}`)));
-    if (!editions.some(e => e.id === state.edition)) state.edition = '';
+    if (!editions.some(e => e.id === state.edition)) {
+      state.edition = editions.find(e => !e.cancelled_at && Date.parse(e.starts_at) <= now && Date.parse(e.ends_at) > now)?.id || editions[0]?.id || '';
+    }
     select.value = state.edition;
     const edition = editions.find(e => e.id === state.edition), info = find('edition-info'), target = find('rosters'), create = find('create-roster');
     info.replaceChildren(); target.replaceChildren(); create.replaceChildren();
     if (!edition) { info.append(note('Selecione a edição do seu servidor para ver as vagas e as recomendações.')); return; }
     info.append(el('p', `${date(edition.starts_at)} até ${date(edition.ends_at)} · ${edition.server_label}`), note(`Elenco de ${edition.capacity} jogadores. Inscrições até ${date(edition.registration_closes_at)}.`));
+    if (Date.parse(edition.starts_at) > now) info.append(note('Próxima edição: organize o time antes da abertura no jogo.'));
+    else if (!edition.cancelled_at && editable(edition)) info.append(note('Evento em andamento. As inscrições encerram na virada indicada acima.'));
     if (edition.cancelled_at) info.append(el('p', `Edição cancelada: ${edition.cancellation_reason}`));
     else if (!editable(edition)) info.append(note('Inscrições fechadas. Os elencos abaixo ficam disponíveis para consulta.'));
     info.append(el('p', guides[edition.event_code] || '', 'eg-guide'));
@@ -332,7 +338,7 @@ async function initGroups() {
     const target = find('edition-form'); target.replaceChildren();
     if (!state.admin) return;
     const form = el('form', null, 'eg-form'), events = field(form, 'Evento', 'event_code', 'select', '', { required: true });
-    data.events.forEach(e => events.append(option(e.code, e.name)));
+    data.events.filter(e => ['horde', 'goldrush'].includes(e.code)).forEach(e => events.append(option(e.code, e.name)));
     field(form, 'Nome da edição', 'name', 'text', '', { required: true, minLength: 3, maxLength: 100, placeholder: 'Ex.: Artefatos · rodada de novembro' });
     field(form, 'Servidor / grupo de eventos', 'server_label', 'text', '', { required: true, minLength: 2, maxLength: 80, placeholder: 'Informe o servidor correspondente à edição' });
     const capacity = field(form, 'Vagas por elenco (conferir nas regras do jogo)', 'capacity', 'number', '', { required: true, min: 2, max: 20 });
