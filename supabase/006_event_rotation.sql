@@ -10,7 +10,7 @@ declare
   codes text[] := array['treasure','race','artifacts','zobo','farm','fishing'];
   block_no integer;
   offset_no integer;
-  code text;
+  v_code text;
   start_time timestamptz;
   event_info public.event_group_events%rowtype;
   created integer := 0;
@@ -19,18 +19,18 @@ begin
   -- Apenas a edição corrente e as sete seguintes; chamadas repetidas são idempotentes.
   block_no := greatest(0, floor(extract(epoch from (clock_timestamp() - anchor)) / 259200)::integer);
   for offset_no in 0..7 loop
-    code := codes[1 + ((block_no + offset_no) % 6)];
+    v_code := codes[1 + ((block_no + offset_no) % 6)];
     start_time := anchor + ((block_no + offset_no) * interval '3 days');
-    select * into event_info from public.event_group_events where event_group_events.code = code;
-    if not found then raise exception 'Evento da rotação não cadastrado: %', code; end if;
+    select * into event_info from public.event_group_events where event_group_events.code = v_code;
+    if not found then raise exception 'Evento da rotação não cadastrado: %', v_code; end if;
     insert into public.event_group_editions
       (event_code, name, server_label, capacity, starts_at, ends_at, registration_closes_at)
-    select code, to_char(start_time at time zone 'UTC', 'DD/MM/YYYY') || ' · rotação',
+    select v_code, to_char(start_time at time zone 'UTC', 'DD/MM/YYYY') || ' · rotação',
       'Global', event_info.capacity, start_time, start_time + interval '3 days',
       start_time + interval '3 days'
     where not exists (
       select 1 from public.event_group_editions existing
-      where existing.event_code = code and existing.starts_at = start_time
+      where existing.event_code = v_code and existing.starts_at = start_time
     )
     on conflict do nothing;
     get diagnostics affected = row_count;
