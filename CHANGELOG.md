@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Formulário manual de gerenciamento do calendário removido da página de times após a automatização das edições regulares.
+
 - Edições dos seis eventos regulares geradas automaticamente pela rotação de três dias, com planejamento antecipado, virada às 00:00 UTC e seleção automática do evento atual. Horda e Corrida do Ouro seguem calendários próprios. Migração 006 necessária.
 
 - Cadastro público dos times ampliado com nível atual da conta (obrigatório em novas participações), disponibilidade e objetivo opcionais; os dados aparecem no diretório, nos pedidos e nos elencos. Migração 005 necessária para ativar os campos.
