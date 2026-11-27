@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Conta no cabeçalho em toda a wiki: avatar, nick, nível atual e UID copiável ao lado do GitHub. O nível pode ser editado no perfil mesmo fora da lista de membros; o avatar agora é enviado por arquivo PNG/JPG/WebP. Migração 007 necessária.
+
 - Formulário manual de gerenciamento do calendário removido da página de times após a automatização das edições regulares.
 
 - Edições dos seis eventos regulares geradas automaticamente pela rotação de três dias, com planejamento antecipado, virada às 00:00 UTC e seleção automática do evento atual. Horda e Corrida do Ouro seguem calendários próprios. Migração 006 necessária.
