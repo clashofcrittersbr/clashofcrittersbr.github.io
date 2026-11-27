@@ -1,6 +1,6 @@
 # Minha conta
 
-Esta área é opcional. A wiki pública continua disponível sem login. Ao autenticar, você poderá guardar seu nick, UID do jogo, nível da conta e avatar e os cinco níveis do Dojo associados à sua própria conta.
+Esta área é opcional. A wiki pública continua disponível sem login. Ao autenticar, você poderá guardar seu nick, UID do jogo, nível da conta, avatar e os cinco níveis do Dojo associados à sua própria conta.
 
 <div class="account-card" data-account-page markdown>
 
@@ -40,9 +40,9 @@ Esta área é opcional. A wiki pública continua disponível sem login. Ao auten
 <label><span class="dojo-element dojo-element--pedra"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#dojo-pedra"></use></svg><span>Pedra</span></span><input name="dojo_3" type="number" min="0" step="1" inputmode="numeric" aria-label="Nível do Dojo de Pedra"></label>
 <label><span class="dojo-element dojo-element--eletrico"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#dojo-eletrico"></use></svg><span>Elétrico</span></span><input name="dojo_4" type="number" min="0" step="1" inputmode="numeric" aria-label="Nível do Dojo de Elétrico"></label>
 </div></fieldset>
+<label>Nível atual da conta<input name="trainer_level" type="number" min="1" max="9999" step="1" inputmode="numeric" placeholder="Ex.: 409"></label>
 <div class="account-listing">
-<p>Para participar dos times, informe o nível da conta exibido no perfil do jogo e escolha aparecer na lista pública.</p>
-<label>Nível atual da conta (obrigatório para times)<input name="trainer_level" type="number" min="1" max="9999" step="1" inputmode="numeric" placeholder="Ex.: 409"></label>
+<p>Você também pode entrar na lista pública de membros para organizar times. Nesse caso, informe o nick, o UID e o nível da conta.</p>
 <label>Disponibilidade para eventos (opcional)<input name="availability" maxlength="200" placeholder="Ex.: noites, horário de Brasília"></label>
 <label>Objetivo nos eventos (opcional)<input name="event_goal" maxlength="120" placeholder="Ex.: marcos, classificação ou jogar casualmente"></label>
 <label><input name="member_opt_in" type="checkbox" data-member-opt-in><span>Quero aparecer na lista pública de membros</span></label>
