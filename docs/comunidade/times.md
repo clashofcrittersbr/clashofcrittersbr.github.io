@@ -3,7 +3,7 @@
 Encontre jogadores para dividir os eventos, monte um time fixo e confirme quem vai participar de cada edição.
 
 1. **Entre em um time fixo.** O líder recebe seu pedido e aprova os integrantes.
-2. **Escolha uma edição do evento.** Cada elenco tem vagas, horário de fechamento e recado próprios.
+2. **Escolha uma edição do evento.** A rotação regular aparece automaticamente, com início e fim na virada do jogo às 00:00 UTC. Você pode organizar a próxima edição antes de ela começar.
 3. **Solicite sua vaga.** Depois da aprovação, copie os UIDs para combinar os convites no jogo.
 
 [Minha conta](../conta.md){ .md-button data-groups-account-link } · [Membros da comunidade](../membros.md) · [Qual Tatari escolher?](../eventos/escolha-tatari.md)
@@ -36,12 +36,18 @@ Os times e participantes confirmados são públicos. Para participar, entre na c
       <div data-eg-create-roster></div>
     </section>
     <section data-eg-admin hidden aria-labelledby="eg-calendar-title">
-      <h2 id="eg-calendar-title">Gerenciar calendário</h2>
-      <p>Cadastre as datas da edição e o servidor ou grupo de eventos correspondente. Os horários do formulário usam o fuso deste navegador.</p>
+      <h2 id="eg-calendar-title">Outros calendários</h2>
+      <p>A rotação dos seis eventos regulares é automática. Horda e Corrida do Ouro têm ciclos próprios; este formulário fica reservado a essas edições. Os horários usam o fuso deste navegador.</p>
       <div data-eg-edition-form></div>
     </section>
   </div>
 </div>
+
+## Calendário dos eventos regulares
+
+Caça ao Tesouro → Corrida de Bote (Marathon Party) → Aventura de Artefatos → Tiro aos Zobos → Fazenda Aconchegante → Concurso de Pesca. Cada evento dura três dias, e a sequência se repete a cada 18 dias. A próxima edição aparece para planejamento antecipado; as vagas encerram quando o evento termina. O horário é exibido no fuso do seu dispositivo, com virada à **00:00 UTC**.
+
+A sequência foi conferida nas capturas do calendário do jogo fornecidas pela comunidade em 27/11/2026 e no [calendário comunitário TataDex](https://tatadex.site/en/schedule). Se o jogo alterar a rotação, confira a agenda no próprio jogo até atualizarmos esta referência. Horda e Corrida do Ouro seguem calendários diferentes.
 
 ## Como funcionam os elencos
 
