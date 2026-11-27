@@ -94,3 +94,14 @@
   .account-actions { flex-direction: column; }
   .account-button { width: 100%; }
 }
+
+.account-avatar { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: .5rem 1rem; }
+.account-avatar img { width: 88px; height: 88px; object-fit: cover; border: 2px solid var(--account-gold); border-radius: 50%; grid-row: span 2; }
+.account-avatar img[hidden] { display: none; }
+.account-avatar p { margin: 0; font-size: .8rem; }
+.site-account-link { display: inline-flex; align-items: center; gap: .4rem; min-height: 40px; max-width: 11rem; margin-left: .45rem; padding: .2rem .55rem; border: 1px solid #d4ba73; border-radius: 999px; color: #f6e7b8; font-size: .68rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.site-account-link:hover, .site-account-link:focus-visible { background: #f2c879; color: #193b30; }
+.site-account-label { overflow: hidden; text-overflow: ellipsis; }
+.site-account-icon { display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; flex: none; border-radius: 50%; background: #d4ba73; color: #17392c; }
+.site-account-icon img { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; }
+@media (max-width: 760px) { .site-account-link { max-width: 40px; padding: .2rem; margin-left: .15rem; } .site-account-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); } .account-avatar { grid-template-columns: 1fr; } .account-avatar img { grid-row: auto; } }
