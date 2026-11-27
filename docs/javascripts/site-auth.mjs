@@ -51,9 +51,9 @@ export async function saveAccount(userId, profile, dojoLevels) {
 }
 
 export async function loadMembership(userId) {
-  const { data, error } = await supabase.from('member_directory').select('id').eq('id', userId).maybeSingle();
+  const { data, error } = await supabase.from('member_directory').select('id,trainer_level,availability,event_goal').eq('id', userId).maybeSingle();
   if (error) throw error;
-  return Boolean(data);
+  return data;
 }
 
 export async function saveMembership(userId, profile, listed) {
@@ -65,7 +65,10 @@ export async function saveMembership(userId, profile, listed) {
   const { error } = await supabase.from('member_directory').upsert({
     id: userId,
     display_name: profile.display_name.trim(),
-    game_uid: profile.game_uid.trim()
+    game_uid: profile.game_uid.trim(),
+    trainer_level: profile.trainer_level,
+    availability: profile.availability,
+    event_goal: profile.event_goal
   }, { onConflict: 'id' });
   if (error) throw error;
 }
@@ -117,6 +120,8 @@ async function initAccountPage() {
       const data = new FormData(form);
       const levels = [...Array(5)].map((_, i) => Math.max(0, Number(data.get(`dojo_${i}`)) || 0));
       const listing = form.querySelector('[data-member-opt-in]');
+      const levelText = String(data.get('trainer_level') || '').trim();
+      const level = Number(levelText);
       const profile = {
         game_uid: String(data.get('game_uid') || '').trim(),
         display_name: String(data.get('display_name') || '').trim(),
@@ -125,10 +130,16 @@ async function initAccountPage() {
       if (!listing.disabled && listing.checked && (profile.display_name.length < 2 || !profile.game_uid)) {
         throw new Error('Para aparecer na lista, informe o nome de exibição e o UID do jogo.');
       }
+      if (!listing.disabled && listing.checked && (!/^\\d+$/.test(levelText) || !Number.isInteger(level) || level < 1 || level > 9999)) {
+        throw new Error('Informe o nível atual da sua conta (de 1 a 9999) para participar dos times.');
+      }
       await saveAccount(user.id, {
         ...profile
       }, levels);
-      if (!listing.disabled) await saveMembership(user.id, profile, listing.checked);
+      if (!listing.disabled) await saveMembership(user.id, {
+        ...profile, trainer_level: level, availability: String(data.get('availability') || '').trim(),
+        event_goal: String(data.get('event_goal') || '').trim()
+      }, listing.checked);
       showStatus('Dados salvos.', 'success');
       window.notify?.('Conta atualizada.');
     } catch (error) {
@@ -156,7 +167,11 @@ async function initAccountPage() {
     root.querySelector('[data-account-email]').textContent = user.email || 'Conta autenticada';
     root.querySelector('[data-account-status]').hidden = true;
     try {
-      root.querySelector('[data-member-opt-in]').checked = await loadMembership(user.id);
+      const membership = await loadMembership(user.id);
+      root.querySelector('[data-member-opt-in]').checked = Boolean(membership);
+      root.querySelector('[name="trainer_level"]').value = membership?.trainer_level ?? '';
+      root.querySelector('[name="availability"]').value = membership?.availability || '';
+      root.querySelector('[name="event_goal"]').value = membership?.event_goal || '';
     } catch {
       root.querySelector('[data-member-opt-in]').disabled = true;
       showStatus('A lista de membros está indisponível no momento. Os dados da conta continuam acessíveis.', 'error');

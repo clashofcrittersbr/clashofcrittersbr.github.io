@@ -28,7 +28,9 @@ Aqui aparecem apenas pessoas que escolheram publicar seu **nome de jogo e UID**.
 ## Como participar
 
 1. [Entre na sua conta](conta.md) com Google ou Discord.
-2. Preencha seu **nome de exibição** e **UID do jogo**.
+2. Preencha seu **nome de exibição**, **UID do jogo** e **nível atual da conta**. Disponibilidade e objetivo são opcionais.
 3. Marque **Quero aparecer na lista pública de membros** e salve.
+
+O nível é o número da conta exibido no perfil do treinador no jogo; atualize-o em Minha conta quando evoluir. Ele aparece nos grupos e ajuda o líder a avaliar pedidos. Quem já constava da lista pode completar o nível sem perder seu registro.
 
 O UID é a identificação da sua conta no jogo. Abra seu perfil no jogo para consultar o número exibido como UID; não use o ID da conta Google ou Discord. Caso prefira não divulgar o UID, mantenha a opção desmarcada. Para sair da lista, desmarque a opção e salve novamente.

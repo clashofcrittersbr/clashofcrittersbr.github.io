@@ -12,6 +12,15 @@ function memberCard(member) {
   uid.className = 'members-uid';
   uid.textContent = `UID: ${member.game_uid}`;
   item.append(name, uid);
+  if (Number.isInteger(member.trainer_level)) {
+    const level = document.createElement('span'); level.className = 'members-uid';
+    level.textContent = `Nível ${member.trainer_level}`; item.append(level);
+  }
+  for (const [label, value] of [['Disponibilidade', member.availability], ['Objetivo', member.event_goal]]) {
+    if (!value) continue;
+    const detail = document.createElement('span'); detail.className = 'members-uid';
+    detail.textContent = `${label}: ${value}`; item.append(detail);
+  }
   return item;
 }
 
@@ -45,7 +54,7 @@ async function initDirectory() {
     const pageSize = 200;
     for (let offset = 0; ; offset += pageSize) {
       const { data, error } = await supabase.from('member_directory')
-        .select('display_name, game_uid, last_seen_at')
+        .select('display_name, game_uid, last_seen_at, trainer_level, availability, event_goal')
         .order('display_name', { ascending: true })
         .range(offset, offset + pageSize - 1);
       if (error) throw error;
@@ -70,7 +79,7 @@ async function initDirectory() {
     const render = () => {
       const term = normalize(search.value.trim());
       const matching = (group) => term
-        ? group.filter((member) => normalize(member.display_name).includes(term) || normalize(member.game_uid).includes(term))
+        ? group.filter((member) => normalize(member.display_name).includes(term) || normalize(member.game_uid).includes(term) || normalize(member.availability || '').includes(term) || normalize(member.event_goal || '').includes(term))
         : group;
       const filteredActive = matching(active);
       const filteredInactive = matching(inactive);

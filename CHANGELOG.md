@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Cadastro público dos times ampliado com nível atual da conta (obrigatório em novas participações), disponibilidade e objetivo opcionais; os dados aparecem no diretório, nos pedidos e nos elencos. Migração 005 necessária para ativar os campos.
+
 - Prévia **0.53** adicionada com o anúncio oficial de Sharpup para 02/12, distinção entre o lançamento global e os dados comunitários do Pioneer, além de atualização editorial sobre os novos recursos do TataDex.
 
 - Formações reunidas em Guias, com acesso por modo preservado na página inicial. As provas do Pyropup ficam junto da família em Tataris, sem entrada isolada no menu geral. Endereços existentes preservados.
