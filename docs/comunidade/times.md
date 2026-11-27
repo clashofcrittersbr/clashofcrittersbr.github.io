@@ -8,7 +8,7 @@ Encontre jogadores para dividir os eventos, monte um time fixo e confirme quem v
 
 [Minha conta](../conta.md){ .md-button data-groups-account-link } · [Membros da comunidade](../membros.md) · [Qual Tatari escolher?](../eventos/escolha-tatari.md)
 
-Os times e participantes confirmados são públicos. Para participar, entre na conta e publique seu Nick e UID na lista de membros. O cadastro aqui organiza os jogadores; os convites do jogo continuam sendo combinados entre vocês. Links de Discord e recados publicados pelo líder também ficam visíveis aos visitantes.
+Os times e participantes confirmados são públicos. Para participar, entre na conta e publique seu Nick, UID e nível da conta na lista de membros. O nível é necessário para novos pedidos de entrada e inscrições; disponibilidade e objetivo são opcionais e ajudam o líder a combinar o time. O cadastro aqui organiza os jogadores; os convites do jogo continuam sendo combinados entre vocês. Links de Discord e recados publicados pelo líder também ficam visíveis aos visitantes.
 
 <div class="event-groups" data-event-groups>
   <p class="eg-status" role="status" aria-live="polite" data-eg-status>Carregando times…</p>
@@ -56,7 +56,7 @@ O UID confirmado fica registrado no elenco daquela edição. Atualizar o UID em 
 ## Combine antes de entrar
 
 - Qual será a meta do elenco: marcos pessoais, classificação ou uma meta de recursos?
-- Em quais horários vocês conseguem jogar juntos?
+- Em quais horários vocês conseguem jogar juntos? Preencha sua disponibilidade em Minha conta para facilitar a conversa.
 - Quem vai enviar os convites no jogo e acompanhar os pedidos?
 - Na Fazenda, quais Tataris e bônus de apoio cada um pode oferecer?
 
