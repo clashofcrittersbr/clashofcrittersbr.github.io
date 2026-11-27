@@ -40,8 +40,11 @@ async function renderSession(session) {
     link.setAttribute('aria-label', 'Entrar ou criar perfil');
     return;
   }
+  icon.textContent = '●';
   label.textContent = 'Minha conta';
   link.setAttribute('aria-label', 'Abrir minha conta');
+  const homeLink = document.querySelector('.wiki-join-actions a[href*="conta"]');
+  if (homeLink) homeLink.textContent = 'Ver meu perfil';
   const { data, error } = await db.from('profiles')
     .select('display_name,avatar_url').eq('id', session.user.id).maybeSingle();
   if (current !== revision) return;
@@ -57,10 +60,8 @@ async function renderSession(session) {
     img.width = 28;
     img.height = 28;
     img.onerror = () => { img.remove(); icon.textContent = '●'; };
-    icon.append(img);
+    icon.replaceChildren(img);
   } else icon.textContent = '●';
-  const homeLink = document.querySelector('.wiki-join-actions a[href*="conta"]');
-  if (homeLink) homeLink.textContent = 'Ver meu perfil';
 }
 
 function initHeaderAccount() {
