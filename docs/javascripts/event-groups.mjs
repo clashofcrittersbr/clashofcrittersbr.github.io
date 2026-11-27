@@ -101,7 +101,6 @@ async function initGroups() {
       const { data: result, error } = await db.rpc('event_groups_apply', { p_action: action, p_data: payload });
       if (error) throw error;
       if (action === 'team_create') state.selectedTeam = result;
-      if (action === 'edition_create') state.edition = result;
       notify(message); await load();
     } catch (error) {
       const messages = {
@@ -333,29 +332,6 @@ async function initGroups() {
     }
   }
 
-  function renderAdmin() {
-    find('admin').hidden = !state.admin;
-    const target = find('edition-form'); target.replaceChildren();
-    if (!state.admin) return;
-    const form = el('form', null, 'eg-form'), events = field(form, 'Evento', 'event_code', 'select', '', { required: true });
-    data.events.filter(e => ['horde', 'goldrush'].includes(e.code)).forEach(e => events.append(option(e.code, e.name)));
-    field(form, 'Nome da edição', 'name', 'text', '', { required: true, minLength: 3, maxLength: 100, placeholder: 'Ex.: Artefatos · rodada de novembro' });
-    field(form, 'Servidor / grupo de eventos', 'server_label', 'text', '', { required: true, minLength: 2, maxLength: 80, placeholder: 'Informe o servidor correspondente à edição' });
-    const capacity = field(form, 'Vagas por elenco (conferir nas regras do jogo)', 'capacity', 'number', '', { required: true, min: 2, max: 20 });
-    const adjust = () => { const type = data.events.find(e => e.code === events.value); capacity.value = type?.capacity || 4; capacity.readOnly = type?.code === 'treasure'; };
-    events.addEventListener('change', adjust); adjust();
-    field(form, 'Início do evento', 'starts_at', 'datetime-local', '', { required: true });
-    field(form, 'Fim do evento', 'ends_at', 'datetime-local', '', { required: true });
-    field(form, 'Fechamento das inscrições', 'registration_closes_at', 'datetime-local', '', { required: true });
-    form.append(note('Confira servidor, horários e capacidade antes de publicar. Para corrigir uma edição publicada, cancele-a com um motivo e cadastre a substituta.'));
-    submitForm(form, 'Publicar edição', values => {
-      const payload = Object.fromEntries(values);
-      for (const key of ['starts_at', 'ends_at', 'registration_closes_at']) payload[key] = new Date(payload[key]).toISOString();
-      apply('edition_create', payload, 'Edição publicada. Os líderes já podem inscrever seus elencos.');
-    });
-    target.append(form);
-  }
-
   function render() {
     const session = find('session'); session.replaceChildren();
     if (!state.user) {
@@ -365,7 +341,7 @@ async function initGroups() {
     } else session.append(el('p', `Olá, ${member(state.user.id).display_name}. Seus pedidos e confirmações aparecem nos times e nas edições abaixo.`));
     find('mine').disabled = !state.user;
     if (!state.user) { state.mine = false; find('mine').checked = false; }
-    renderTeams(); renderRosters(); renderAdmin();
+    renderTeams(); renderRosters();
   }
 
   find('refresh').addEventListener('click', () => { if (!saving) load(); });
