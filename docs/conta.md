@@ -1,6 +1,6 @@
 # Minha conta
 
-Esta área é opcional. A wiki pública continua disponível sem login. Ao autenticar, você poderá guardar seu nome, UID do jogo, avatar e os cinco níveis do Dojo associados à sua própria conta.
+Esta área é opcional. A wiki pública continua disponível sem login. Ao autenticar, você poderá guardar seu nick, UID do jogo, nível da conta e avatar e os cinco níveis do Dojo associados à sua própria conta.
 
 <div class="account-card" data-account-page markdown>
 
@@ -26,7 +26,7 @@ Esta área é opcional. A wiki pública continua disponível sem login. Ao auten
 <form class="account-form" data-account-form hidden markdown>
 <h2>Dados da conta</h2>
 <p>Conta autenticada: <strong data-account-email></strong></p>
-<label>Nome de exibição<input name="display_name" maxlength="80" autocomplete="nickname"></label>
+<label>Nick do jogo<input name="display_name" maxlength="80" autocomplete="nickname"></label>
 <label>UID do jogo<input name="game_uid" maxlength="80" inputmode="numeric"></label>
 <div class="account-avatar">
   <img data-avatar-preview alt="Prévia do avatar" width="88" height="88" hidden>
@@ -42,7 +42,7 @@ Esta área é opcional. A wiki pública continua disponível sem login. Ao auten
 </div></fieldset>
 <div class="account-listing">
 <p>Para participar dos times, informe o nível da conta exibido no perfil do jogo e escolha aparecer na lista pública.</p>
-<label>Nível da conta (obrigatório para times)<input name="trainer_level" type="number" min="1" max="9999" step="1" inputmode="numeric" placeholder="Ex.: 409"></label>
+<label>Nível atual da conta (obrigatório para times)<input name="trainer_level" type="number" min="1" max="9999" step="1" inputmode="numeric" placeholder="Ex.: 409"></label>
 <label>Disponibilidade para eventos (opcional)<input name="availability" maxlength="200" placeholder="Ex.: noites, horário de Brasília"></label>
 <label>Objetivo nos eventos (opcional)<input name="event_goal" maxlength="120" placeholder="Ex.: marcos, classificação ou jogar casualmente"></label>
 <label><input name="member_opt_in" type="checkbox" data-member-opt-in><span>Quero aparecer na lista pública de membros</span></label>
