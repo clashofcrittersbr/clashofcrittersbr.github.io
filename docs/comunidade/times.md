@@ -35,11 +35,6 @@ Os times e participantes confirmados são públicos. Para participar, entre na c
       <div class="eg-grid" data-eg-rosters></div>
       <div data-eg-create-roster></div>
     </section>
-    <section data-eg-admin hidden aria-labelledby="eg-calendar-title">
-      <h2 id="eg-calendar-title">Outros calendários</h2>
-      <p>A rotação dos seis eventos regulares é automática. Horda e Corrida do Ouro têm ciclos próprios; este formulário fica reservado a essas edições. Os horários usam o fuso deste navegador.</p>
-      <div data-eg-edition-form></div>
-    </section>
   </div>
 </div>
 
