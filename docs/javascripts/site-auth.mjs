@@ -124,7 +124,7 @@ async function initAccountPage() {
     const file = avatarInput.files?.[0];
     localPreviewUrl = file ? URL.createObjectURL(file) : '';
     avatarPreview.src = localPreviewUrl || currentAvatarUrl;
-    avatarPreview.hidden = !avatarPreview.src;
+    avatarPreview.hidden = !(localPreviewUrl || currentAvatarUrl);
   });
   if (!supabase) { showStatus('A conta ainda não está conectada ao Supabase. A configuração será habilitada em uma próxima etapa.', 'info'); return; }
 
