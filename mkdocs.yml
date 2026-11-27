@@ -80,6 +80,7 @@ extra_javascript:
   - javascripts/site-dialogs.mjs
   - javascripts/supabase-config.mjs
   - javascripts/site-auth.mjs
+  - javascripts/site-header.mjs
   - javascripts/member-directory.mjs
   - javascripts/evolution-planner.mjs
 
