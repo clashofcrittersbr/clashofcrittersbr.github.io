@@ -99,9 +99,25 @@
 .account-avatar img { width: 88px; height: 88px; object-fit: cover; border: 2px solid var(--account-gold); border-radius: 50%; grid-row: span 2; }
 .account-avatar img[hidden] { display: none; }
 .account-avatar p { margin: 0; font-size: .8rem; }
-.site-account-link { display: inline-flex; align-items: center; gap: .4rem; min-height: 40px; max-width: 11rem; margin-left: .45rem; padding: .2rem .55rem; border: 1px solid #d4ba73; border-radius: 999px; color: #f6e7b8; font-size: .68rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
-.site-account-link:hover, .site-account-link:focus-visible { background: #f2c879; color: #193b30; }
-.site-account-label { overflow: hidden; text-overflow: ellipsis; }
+.site-account-widget { display: inline-flex; align-items: center; gap: .2rem; margin-left: .45rem; min-width: 0; }
+.site-account-link { display: inline-flex; align-items: center; gap: .4rem; min-height: 40px; max-width: 13rem; padding: .2rem .5rem; border: 1px solid #d4ba73; border-radius: 999px; color: #f6e7b8; font-size: .65rem; font-weight: 700; text-decoration: none; white-space: nowrap; }
+.site-account-link:hover, .site-account-link:focus-visible, .site-account-copy:hover, .site-account-copy:focus-visible { background: #f2c879; color: #193b30; }
+.site-account-details { display: flex; flex-direction: column; min-width: 0; line-height: 1.25; }
+.site-account-label, .site-account-meta { overflow: hidden; text-overflow: ellipsis; }
+.site-account-meta { display: block; font-size: .53rem; font-weight: 500; }
+.site-account-meta[hidden], .site-account-copy[hidden] { display: none; }
 .site-account-icon { display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; flex: none; border-radius: 50%; background: #d4ba73; color: #17392c; }
 .site-account-icon img { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; }
-@media (max-width: 760px) { .site-account-link { max-width: 40px; padding: .2rem; margin-left: .15rem; } .site-account-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); } .account-avatar { grid-template-columns: 1fr; } .account-avatar img { grid-row: auto; } }
+.site-account-copy { display: inline-flex; align-items: center; justify-content: center; width: 32px; min-height: 40px; padding: 0; border: 1px solid #d4ba73; border-radius: .5rem; background: transparent; color: #f6e7b8; font: inherit; font-size: .85rem; cursor: pointer; }
+@media (max-width: 760px) {
+  .site-account-widget { margin-left: .15rem; }
+  .site-account-link { max-width: 9rem; padding: .2rem; }
+  .site-account-meta { max-width: 6.5rem; }
+  .account-avatar { grid-template-columns: 1fr; }
+  .account-avatar img { grid-row: auto; }
+}
+@media (max-width: 430px) {
+  .site-account-link { max-width: 7rem; }
+  .site-account-meta { max-width: 4.5rem; }
+  .site-account-copy { width: 28px; }
+}
