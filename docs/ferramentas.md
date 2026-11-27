@@ -21,6 +21,12 @@ O Companion reúne guias, calculadoras, mapas e planejadores comunitários. A wi
 - [Guia do Concurso de Pesca](https://kenzkunz.github.io/tatari-companion/events/fishing.html)
 - [Calculadora da loja](https://kenzkunz.github.io/tatari-companion/shop-calculator.html)
 
+## TataDex
+
+[ Abrir o TataDex ](https://tatadex.org/){ .md-button }
+
+O TataDex é uma base comunitária independente. Em 24 e 25 de novembro, adicionou o **Trade Lobby** unificado para os servidores Global e CN, ferramentas de atividades e perfis públicos opcionais com busca por apelido ou UID. Use como referência comunitária; dados e regras do jogo devem ser confirmados no cliente ou nas fontes oficiais.
+
 ## Tierlist Maker
 
 [Abrir o Tierlist Maker](ferramentas/tierlist-maker.md){ .md-button .md-button--primary }

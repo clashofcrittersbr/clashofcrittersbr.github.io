@@ -4,6 +4,8 @@ Este arquivo reúne as mudanças que afetam quem consulta a wiki. Os detalhes de
 
 ## Ainda não publicado
 
+- Prévia **0.53** adicionada com o anúncio oficial de Sharpup para 02/12, distinção entre o lançamento global e os dados comunitários do Pioneer, além de atualização editorial sobre os novos recursos do TataDex.
+
 - Formações reunidas em Guias, com acesso por modo preservado na página inicial. As provas do Pyropup ficam junto da família em Tataris, sem entrada isolada no menu geral. Endereços existentes preservados.
 
 - Corrigido o cadastro do guia “Qual Tatari escolher?” no menu de Eventos, que bloqueava a publicação dos times de eventos e das demais mudanças da PR #38.
