@@ -2,7 +2,15 @@
 
 Acompanhe os anúncios de atualização do jogo, consulte as mudanças por versão e encontre as fontes usadas pela wiki.
 
-[0.52.1 · Lançamento global: Roost, Horda S4 e Diários](previas/roost.md){ .md-button .md-button--primary }
+[0.53 · Prévia: Sharpup e novidades do Pioneer](previas/sharpup.md){ .md-button .md-button--primary }
+[0.52.1 · Lançamento global: Roost, Horda S4 e Diários](previas/roost.md){ .md-button }
+
+## 0.53 · Prévia de atualização
+
+!!! warning "Anúncio oficial, ainda não disponível globalmente"
+    **Sharpup**, novo Tatari de Pedra, foi anunciado pelo canal oficial para **2 de dezembro de 2026**. A família exibida é Sharpup → Scrawurst → Sketchund → Scribbadger. Habilidades, provas e números finais aguardam as notas oficiais ou a atualização no servidor ao vivo.
+
+As demonstrações de Whirling Wallop, Blueprints e ajustes da Corrida do Ouro vêm do Pioneer e são mantidas como prévia comunitária, sujeita a alteração. [Ver a página da prévia](previas/sharpup.md).
 
 ## 0.52.1 · Lançamento global
 
