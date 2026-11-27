@@ -73,6 +73,19 @@ export async function saveMembership(userId, profile, listed) {
   if (error) throw error;
 }
 
+async function uploadAvatar(userId, file) {
+  const allowed = ['image/png', 'image/jpeg', 'image/webp'];
+  if (!allowed.includes(file.type)) throw new Error('Escolha uma imagem PNG, JPG ou WebP.');
+  if (file.size > 5 * 1024 * 1024) throw new Error('A imagem deve ter no máximo 5 MB.');
+  const path = `${userId}/avatar`;
+  const { error } = await supabase.storage.from('wiki-avatars').upload(path, file, {
+    upsert: true, contentType: file.type, cacheControl: '3600'
+  });
+  if (error) throw new Error('Não foi possível enviar o avatar. Confira se a migração 007 foi aplicada.');
+  const { data } = supabase.storage.from('wiki-avatars').getPublicUrl(path);
+  return `${data.publicUrl}?v=${Date.now()}`;
+}
+
 async function refreshMemberPresence() {
   if (!supabase) return;
   try {
@@ -102,6 +115,17 @@ async function initAccountPage() {
   const login = root.querySelector('[data-account-login]');
   const form = root.querySelector('[data-account-form]');
   const logout = root.querySelector('[data-account-logout]');
+  const avatarInput = root.querySelector('[name="avatar_upload"]');
+  const avatarPreview = root.querySelector('[data-avatar-preview]');
+  let currentAvatarUrl = '';
+  let localPreviewUrl = '';
+  avatarInput.addEventListener('change', () => {
+    if (localPreviewUrl) URL.revokeObjectURL(localPreviewUrl);
+    const file = avatarInput.files?.[0];
+    localPreviewUrl = file ? URL.createObjectURL(file) : '';
+    avatarPreview.src = localPreviewUrl || currentAvatarUrl;
+    avatarPreview.hidden = !avatarPreview.src;
+  });
   if (!supabase) { showStatus('A conta ainda não está conectada ao Supabase. A configuração será habilitada em uma próxima etapa.', 'info'); return; }
 
   login.querySelectorAll('[data-provider]').forEach((button) => button.addEventListener('click', async () => {
@@ -122,10 +146,11 @@ async function initAccountPage() {
       const listing = form.querySelector('[data-member-opt-in]');
       const levelText = String(data.get('trainer_level') || '').trim();
       const level = Number(levelText);
+      const file = avatarInput.files?.[0];
       const profile = {
         game_uid: String(data.get('game_uid') || '').trim(),
         display_name: String(data.get('display_name') || '').trim(),
-        avatar_url: data.get('avatar_url')
+        avatar_url: currentAvatarUrl
       };
       if (!listing.disabled && listing.checked && (profile.display_name.length < 2 || !profile.game_uid)) {
         throw new Error('Para aparecer na lista, informe o nome de exibição e o UID do jogo.');
@@ -133,14 +158,19 @@ async function initAccountPage() {
       if (!listing.disabled && listing.checked && (!/^\\d+$/.test(levelText) || !Number.isInteger(level) || level < 1 || level > 9999)) {
         throw new Error('Informe o nível atual da sua conta (de 1 a 9999) para participar dos times.');
       }
-      await saveAccount(user.id, {
-        ...profile
-      }, levels);
+      if (file) profile.avatar_url = await uploadAvatar(user.id, file);
+      await saveAccount(user.id, profile, levels);
+      currentAvatarUrl = profile.avatar_url;
+      avatarInput.value = '';
+      if (localPreviewUrl) { URL.revokeObjectURL(localPreviewUrl); localPreviewUrl = ''; }
+      avatarPreview.src = currentAvatarUrl;
+      avatarPreview.hidden = !currentAvatarUrl;
       if (!listing.disabled) await saveMembership(user.id, {
         ...profile, trainer_level: level, availability: String(data.get('availability') || '').trim(),
         event_goal: String(data.get('event_goal') || '').trim()
       }, listing.checked);
       showStatus('Dados salvos.', 'success');
+      window.dispatchEvent(new Event('wiki:account-updated'));
       window.notify?.('Conta atualizada.');
     } catch (error) {
       showStatus(error.message || 'Não foi possível salvar.', 'error');
@@ -159,7 +189,9 @@ async function initAccountPage() {
     const account = await loadAccount(user.id);
     root.querySelector('[name="game_uid"]').value = account.profile.game_uid || '';
     root.querySelector('[name="display_name"]').value = account.profile.display_name || '';
-    root.querySelector('[name="avatar_url"]').value = account.profile.avatar_url || '';
+    currentAvatarUrl = account.profile.avatar_url || '';
+    avatarPreview.src = currentAvatarUrl;
+    avatarPreview.hidden = !currentAvatarUrl;
     (account.settings.dojo_levels || [0, 0, 0, 0, 0]).forEach((value, index) => {
       const field = root.querySelector(`[name="dojo_${index}"]`);
       if (field) field.value = value;
