@@ -28,7 +28,11 @@ Esta área é opcional. A wiki pública continua disponível sem login. Ao auten
 <p>Conta autenticada: <strong data-account-email></strong></p>
 <label>Nome de exibição<input name="display_name" maxlength="80" autocomplete="nickname"></label>
 <label>UID do jogo<input name="game_uid" maxlength="80" inputmode="numeric"></label>
-<label>URL do avatar (opcional)<input name="avatar_url" maxlength="500" type="url"></label>
+<div class="account-avatar">
+  <img data-avatar-preview alt="Prévia do avatar" width="88" height="88" hidden>
+  <label>Imagem do perfil (opcional)<input name="avatar_upload" type="file" accept="image/png,image/jpeg,image/webp"></label>
+  <p>PNG, JPG ou WebP, até 5 MB. A imagem enviada pode ser vista publicamente no cabeçalho e por quem tiver o link.</p>
+</div>
 <fieldset><legend>Níveis do Dojo</legend><div class="dojo-grid">
 <label><span class="dojo-element dojo-element--agua"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#dojo-agua"></use></svg><span>Água</span></span><input name="dojo_0" type="number" min="0" step="1" inputmode="numeric" aria-label="Nível do Dojo de Água"></label>
 <label><span class="dojo-element dojo-element--fogo"><svg viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#dojo-fogo"></use></svg><span>Fogo</span></span><input name="dojo_1" type="number" min="0" step="1" inputmode="numeric" aria-label="Nível do Dojo de Fogo"></label>
