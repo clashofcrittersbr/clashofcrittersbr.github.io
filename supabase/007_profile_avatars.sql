@@ -2,6 +2,17 @@
 -- O bucket é público: qualquer visitante que conheça a URL pode ver a imagem.
 begin;
 
+-- O nível pertence à conta, inclusive quando o membro não aparece no diretório.
+alter table public.profiles
+  add column if not exists trainer_level integer
+  check (trainer_level between 1 and 9999);
+
+-- Aproveita o nível já informado por quem participa do diretório.
+update public.profiles as p
+set trainer_level = m.trainer_level
+from public.member_directory as m
+where p.id = m.id and p.trainer_level is null;
+
 insert into storage.buckets (id, name, public, file_size_limit, allowed_mime_types)
 values ('wiki-avatars', 'wiki-avatars', true, 5242880,
         array['image/jpeg', 'image/png', 'image/webp'])
