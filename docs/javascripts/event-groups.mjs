@@ -68,7 +68,7 @@ async function initGroups() {
         readAll('event_group_members', '*', ['group_id', 'user_id']),
         readAll('event_group_rosters', '*', ['id']),
         readAll('event_group_signups', '*', ['roster_id', 'user_id']),
-        readAll('member_directory', 'id,display_name,game_uid,last_seen_at', ['id']),
+        readAll('member_directory', 'id,display_name,game_uid,last_seen_at,trainer_level,availability,event_goal', ['id']),
         db.rpc('is_event_groups_admin')
       ]);
       if (version !== loadVersion) return;
@@ -138,6 +138,9 @@ async function initGroups() {
     identity.append(el('strong', info?.display_name || 'Membro não listado'));
     if (info) {
       identity.append(el('small', `UID ${uid}`));
+      identity.append(el('small', info.trainer_level ? `Nível ${info.trainer_level}` : 'Nível não informado'));
+      if (info.availability) identity.append(el('small', `Disponibilidade: ${info.availability}`));
+      if (info.event_goal) identity.append(el('small', `Objetivo: ${info.event_goal}`));
       if (Date.now() - Date.parse(info.last_seen_at) >= 15 * 86400000) identity.append(el('small', 'Sem visita autenticada à wiki nos últimos 15 dias'));
     }
     row.append(identity);
@@ -192,7 +195,7 @@ async function initGroups() {
     const ownMembership = members.find(row => row.user_id === state.user?.id);
     if (state.user) {
       if (!ownMembership && !group.archived_at) panel.append(button('Solicitar entrada no time', async () => {
-        if (await confirmDialog('O líder receberá seu pedido. Ao ser aprovado, seu Nick e UID aparecerão publicamente neste time.', { title: 'Entrar no time', action: 'Solicitar' })) await apply('team_request', { group_id: group.id }, 'Pedido enviado ao líder.');
+        if (await confirmDialog('O líder receberá seu pedido. Ao ser aprovado, seu Nick, UID, nível e preferências aparecerão publicamente neste time.', { title: 'Entrar no time', action: 'Solicitar' })) await apply('team_request', { group_id: group.id }, 'Pedido enviado ao líder.');
       }));
       else if (ownMembership && !owned(group)) panel.append(button(ownMembership.status === 'pending' ? 'Cancelar pedido' : 'Sair do time', async () => {
         if (await confirmDialog('Sair deste time? Suas inscrições ainda abertas nele também serão removidas.', { title: 'Sair do time' })) await apply('team_leave', { group_id: group.id });
