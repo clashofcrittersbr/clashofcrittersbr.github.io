@@ -32,7 +32,7 @@ export async function currentUser() {
 export async function loadAccount(userId) {
   if (!supabase) throw new Error('Supabase não configurado.');
   const [{ data: profile, error: profileError }, { data: settings, error: settingsError }] = await Promise.all([
-    supabase.from('profiles').select('game_uid, display_name, avatar_url').eq('id', userId).maybeSingle(),
+    supabase.from('profiles').select('game_uid, display_name, avatar_url, trainer_level').eq('id', userId).maybeSingle(),
     supabase.from('user_settings').select('dojo_levels').eq('id', userId).maybeSingle()
   ]);
   if (profileError) throw profileError;
@@ -43,7 +43,7 @@ export async function loadAccount(userId) {
 export async function saveAccount(userId, profile, dojoLevels) {
   if (!supabase) throw new Error('Supabase não configurado.');
   const [{ error: profileError }, { error: settingsError }] = await Promise.all([
-    supabase.from('profiles').upsert({ id: userId, game_uid: profile.game_uid, display_name: profile.display_name, avatar_url: profile.avatar_url, updated_at: new Date().toISOString() }, { onConflict: 'id' }),
+    supabase.from('profiles').upsert({ id: userId, game_uid: profile.game_uid, display_name: profile.display_name, avatar_url: profile.avatar_url, trainer_level: profile.trainer_level, updated_at: new Date().toISOString() }, { onConflict: 'id' }),
     supabase.from('user_settings').upsert({ id: userId, dojo_levels: dojoLevels, updated_at: new Date().toISOString() }, { onConflict: 'id' })
   ]);
   if (profileError) throw profileError;
@@ -147,7 +147,11 @@ async function initAccountPage() {
       const levelText = String(data.get('trainer_level') || '').trim();
       const level = Number(levelText);
       const file = avatarInput.files?.[0];
+      if (levelText && (!/^\d+$/.test(levelText) || !Number.isInteger(level) || level < 1 || level > 9999)) {
+        throw new Error('Informe um nível válido de 1 a 9999.');
+      }
       const profile = {
+        trainer_level: levelText ? level : null,
         game_uid: String(data.get('game_uid') || '').trim(),
         display_name: String(data.get('display_name') || '').trim(),
         avatar_url: currentAvatarUrl
@@ -190,6 +194,7 @@ async function initAccountPage() {
     root.querySelector('[name="game_uid"]').value = account.profile.game_uid || '';
     root.querySelector('[name="display_name"]').value = account.profile.display_name || '';
     currentAvatarUrl = account.profile.avatar_url || '';
+    root.querySelector('[name="trainer_level"]').value = account.profile.trainer_level ?? '';
     avatarPreview.src = currentAvatarUrl;
     avatarPreview.hidden = !currentAvatarUrl;
     (account.settings.dojo_levels || [0, 0, 0, 0, 0]).forEach((value, index) => {
@@ -201,7 +206,9 @@ async function initAccountPage() {
     try {
       const membership = await loadMembership(user.id);
       root.querySelector('[data-member-opt-in]').checked = Boolean(membership);
-      root.querySelector('[name="trainer_level"]').value = membership?.trainer_level ?? '';
+      if (!account.profile.trainer_level && membership?.trainer_level) {
+        root.querySelector('[name="trainer_level"]').value = membership.trainer_level;
+      }
       root.querySelector('[name="availability"]').value = membership?.availability || '';
       root.querySelector('[name="event_goal"]').value = membership?.event_goal || '';
     } catch {
